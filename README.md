@@ -102,14 +102,12 @@ Please refer to our [evaluation](https://github.com/shuyansy/VidText/data/evalua
 If you find this repository useful, please consider giving a star :star: and citation
 
 ```
-```
 @article{VidText,
   title={VidText: Towards Comprehensive Evaluation for Video-Text Understanding},
   author={Yang, Zhoufaran and Shu, Yan and Yang, Zhifei and Zhang, Yan and Li, Yu and Lu, Keyang and Zeng, Gangyan and Liu, Shaohui and Zhou, Yu and Sebe, Nicu},
   journal={arXiv preprint arXiv:2505.22810},
   year={2025}
 }
-```
 ```
 
 
