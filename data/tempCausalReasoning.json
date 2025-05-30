@@ -1,0 +1,2590 @@
+[
+    {
+        "video_id": "001",
+        "question_id": "001",
+        "video_type": "tempCausalReasoning",
+        "question": "At the beginning of the game when the score was 0:0, how did the Warriors player score while being defended by Player 1?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "By drawing a foul and scoring from free throws"
+            },
+            {
+                "option_id": "B",
+                "text": "By scoring a three-point shot"
+            },
+            {
+                "option_id": "C",
+                "text": "By dunking the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "By making a layup"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "001",
+        "question_id": "002",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score was 7:5, Player 00 made a three-point shot. Who passed the ball to Player 00?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 5"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 2"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 3"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 1"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "002",
+        "question_id": "007",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score was 17:13 in the first quarter, under which player's defense did the Timberwolves' (white jersey) Player 5 complete a jump shot to score?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 5 (green jersey)"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 3 (white jersey)"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 2 (green jersey)"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 1 (green jersey)"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "002",
+        "question_id": "008",
+        "video_type": "tempCausalReasoning",
+        "question": "When 1:06 remained in the first quarter, what offensive action did the Bucks' Player 3 (green jersey) choose?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Made a three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Drove to the basket for a layup"
+            },
+            {
+                "option_id": "C",
+                "text": "Attempted a mid-range jump shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Passed to a teammate for an assist"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "003",
+        "question_id": "009",
+        "video_type": "tempCausalReasoning",
+        "question": "When 9:52 remained in the first quarter, what offensive action did the Spurs' Player 1 (black jersey) choose?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Passed to a teammate for a three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Attempted a contested jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Grabbed an offensive rebound and scored with a putback"
+            },
+            {
+                "option_id": "D",
+                "text": "Made a fast-break layup"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "003",
+        "question_id": "010",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score was 10:7 and 8:19 remained in the first quarter, what offensive action did the Thunder's Player 2 (white jersey) choose?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Drove to the basket for a layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Passed to a teammate for a three-point shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Made a contested jump shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Attempted a dunk"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "004",
+        "question_id": "015",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score was 4:4 and 9:49 remained in the first quarter, what offensive action did the Knicks' Player 25 (white jersey) choose?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Attempted a three-point jump shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Passed to a teammate for a dunk"
+            },
+            {
+                "option_id": "C",
+                "text": "Drove to the basket for a layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Made a jump shot for two points"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "004",
+        "question_id": "016",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score was 18:23 and 2:35 remained in the first quarter, what offensive action did the Knicks' Player 32 (white jersey) choose?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Drove to the basket for a layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Passed to a teammate for an assist"
+            },
+            {
+                "option_id": "C",
+                "text": "Made a mid-range jump shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Attempted a three-point shot"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "005",
+        "question_id": "017",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score was 2:2, what offensive action did the Celtics' Player 7 (green jersey) choose?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Attempted a three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Passed to a teammate for a dunk"
+            },
+            {
+                "option_id": "C",
+                "text": "Drove to the basket for a layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Made a fast-break layup"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "005",
+        "question_id": "018",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score was 2:2, what offensive action did the Pacers' Player 0 (black jersey) choose?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Attempted a contested jump shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Drove to the basket for a layup"
+            },
+            {
+                "option_id": "C",
+                "text": "Passed to a teammate for a three-point shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Passed to a trailing teammate for an assist"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "006",
+        "question_id": "023",
+        "video_type": "tempCausalReasoning",
+        "question": "When 11:50 remained in the first quarter, what was the scoring method used by the Warriors' Player 4 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Made a free throw"
+            },
+            {
+                "option_id": "B",
+                "text": "Took a three-point shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Drove to the basket for a layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Passed for an assist"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "006",
+        "question_id": "024",
+        "video_type": "tempCausalReasoning",
+        "question": "When 9:13 remained in the first quarter, what was the scoring method used by the Pelicans' Player 14 (red jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Made a layup after a fast break"
+            },
+            {
+                "option_id": "B",
+                "text": "Made a dunk"
+            },
+            {
+                "option_id": "C",
+                "text": "Took a contested layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Scored with a jump shot"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "007",
+        "question_id": "025",
+        "video_type": "tempCausalReasoning",
+        "question": "When 8:37 remained in the first quarter, what was the scoring method used by the Nets' Player 28 (black jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Made a layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Took a free throw"
+            },
+            {
+                "option_id": "C",
+                "text": "Scored with a jump shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Made a one-handed dunk"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "007",
+        "question_id": "027",
+        "video_type": "tempCausalReasoning",
+        "question": "When 6:41 remained in the first quarter, with the score 13:12, what was the scoring method used by the Nets' Player 17 (black jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Took a three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Made a layup"
+            },
+            {
+                "option_id": "C",
+                "text": "Passed for an assist"
+            },
+            {
+                "option_id": "D",
+                "text": "Made a jump shot"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "007",
+        "question_id": "029",
+        "video_type": "tempCausalReasoning",
+        "question": "When 4:47 remained in the first quarter, with the score 15:17, what was the scoring method used by the Nets' Player 28 (black jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Made a jump shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Made a three-point shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Dunked the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "Received an assist and made a layup"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "008",
+        "question_id": "030",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 0:0, what was the scoring method used by the Timberwolves' Player 5 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Broke through and made a layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Made a jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Dunked the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "Passed for an assist"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "008",
+        "question_id": "031",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 0:2, what was the scoring method used by the Mavericks' Player 21 (blue jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Faked and scored with a layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Made a jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Dunked the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "Made a three-point shot"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "009",
+        "question_id": "034",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 0:0, what was the scoring method used by Suns' Player 35 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Made a three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Made a mid-range jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Made a layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Dunked the ball"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "009",
+        "question_id": "036",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 26:10, what was the scoring method used by Suns' Player 35 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Dunked the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "Made a driving jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Made a three-point shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Made a layup"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "010",
+        "question_id": "038",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 0:0, what is the offensive action of Jazz Player 2 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Breakaway layup"
+            },
+            {
+                "option_id": "C",
+                "text": "Mid-range jumper"
+            },
+            {
+                "option_id": "D",
+                "text": "Assist to teammate"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "010",
+        "question_id": "040",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 2:7, what offensive move did Jazz player 23 (white jersey) make?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Drive to the basket"
+            },
+            {
+                "option_id": "B",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Dunk"
+            },
+            {
+                "option_id": "D",
+                "text": "Mid-range jump shot"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "011",
+        "question_id": "042",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 0:0, what is the offensive action of Bucks player 0 (green jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Mid-range jump shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Pass to teammate"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "011",
+        "question_id": "044",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 4:0, what is the offensive move of Celtics player 9 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Fast break layup"
+            },
+            {
+                "option_id": "C",
+                "text": "Post-up move"
+            },
+            {
+                "option_id": "D",
+                "text": "Mid-range jumper"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "012",
+        "question_id": "046",
+        "video_type": "tempCausalReasoning",
+        "question": "Who won the opening tip-off?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 40"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 15"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 25"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 30"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "012",
+        "question_id": "047",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:3, what is the offensive play of Clippers player #40 (black)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Mid-range jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Layup after a pass"
+            },
+            {
+                "option_id": "D",
+                "text": "Fast break layup"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "013",
+        "question_id": "050",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:0, what is the offensive move of the Bucks' number 11 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Post fadeaway"
+            },
+            {
+                "option_id": "D",
+                "text": "Back hook shot"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "013",
+        "question_id": "053",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 4:4, what is the scoring method of the Bucks' number 11 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Close-range floater"
+            },
+            {
+                "option_id": "B",
+                "text": "Jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Free throw"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "014",
+        "question_id": "054",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 2:0, what is the scoring method of the Lakers' number 3 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Breakthrough layup with an additional free throw"
+            },
+            {
+                "option_id": "B",
+                "text": "Dunk"
+            },
+            {
+                "option_id": "C",
+                "text": "Three-pointer"
+            },
+            {
+                "option_id": "D",
+                "text": "Mid-range jump shot"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "014",
+        "question_id": "056",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 14:16, what is the scoring method of the Lakers' number 3 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Turnaround layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Dunk"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "015",
+        "question_id": "058",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 5:2, what is the offensive move of Mavericks' number 77 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Dunk"
+            },
+            {
+                "option_id": "B",
+                "text": "Step-back jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Fadeaway jump shot"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "015",
+        "question_id": "060",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 7:4, what is the offensive choice of Mavericks' number 31 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Pass the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "Drive for a layup"
+            },
+            {
+                "option_id": "C",
+                "text": "Post up for a hook shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Shoot a three-pointer"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "016",
+        "question_id": "062",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:0, what is Rockets number 9's (red) offensive choice?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Shoot a three-pointer"
+            },
+            {
+                "option_id": "B",
+                "text": "Pass the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "Mid-range jumper"
+            },
+            {
+                "option_id": "D",
+                "text": "Drive for a layup"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "016",
+        "question_id": "064",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 3:2, what is the offensive choice of Spurs number 30 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Dunk"
+            },
+            {
+                "option_id": "C",
+                "text": "Layup"
+            },
+            {
+                "option_id": "D",
+                "text": "Driving layup"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "017",
+        "question_id": "066",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:5, which player assisted Clippers number 24 (white) to score?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "5"
+            },
+            {
+                "option_id": "B",
+                "text": "1"
+            },
+            {
+                "option_id": "C",
+                "text": "7"
+            },
+            {
+                "option_id": "D",
+                "text": "3"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "017",
+        "question_id": "068",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 18:17, what is Clippers number 33's (white) offensive choice?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Pass to a teammate under the basket"
+            },
+            {
+                "option_id": "B",
+                "text": "Take a mid-range jumper"
+            },
+            {
+                "option_id": "C",
+                "text": "Shoot a three-pointer"
+            },
+            {
+                "option_id": "D",
+                "text": "Drive for a layup"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "018",
+        "question_id": "070",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:0, what is the offensive choice of Suns number 3 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Pass to a teammate near the basket"
+            },
+            {
+                "option_id": "B",
+                "text": "Take a mid-range jumper"
+            },
+            {
+                "option_id": "C",
+                "text": "Drive to the basket"
+            },
+            {
+                "option_id": "D",
+                "text": "Pass to a teammate for a three-pointer"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "019",
+        "question_id": "072",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:0, what is the offensive choice of Warriors number 3 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Mid-range jump shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Three-point jump shot"
+            },
+            {
+                "option_id": "C",
+                "text": "Layup attempt"
+            },
+            {
+                "option_id": "D",
+                "text": "Pass to a teammate"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "020",
+        "question_id": "075",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:1, what is the offensive choice of Kings number 10 (black)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Fast break layup"
+            },
+            {
+                "option_id": "B",
+                "text": "Three-point attempt"
+            },
+            {
+                "option_id": "C",
+                "text": "Jump shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Driving to the basket"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "021",
+        "question_id": "076",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:0, what is the offensive choice of Nuggets number 15 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Three-point shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Pass to a teammate"
+            },
+            {
+                "option_id": "C",
+                "text": "Mid-range jump shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Drive to the basket"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "022",
+        "question_id": "078",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 0:0, what is Spurs number 30 (white) player’s offensive choice?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Mid-range jump shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Shooting a three-pointer"
+            },
+            {
+                "option_id": "C",
+                "text": "Passing to a teammate"
+            },
+            {
+                "option_id": "D",
+                "text": "Driving to the basket"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "023",
+        "question_id": "081",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 16:16, what is the offensive move of Clippers number 1?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Pass the ball to number 7 for a jump shot"
+            },
+            {
+                "option_id": "B",
+                "text": "Shoot a three-pointer"
+            },
+            {
+                "option_id": "C",
+                "text": "Alley-oop to number 55 for a dunk"
+            },
+            {
+                "option_id": "D",
+                "text": "Drive to the basket for a layup"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "024",
+        "question_id": "083",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 1:5, what did Trail Blazers number 1 (red) do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Tried to drive but was blocked by the defender."
+            },
+            {
+                "option_id": "B",
+                "text": "Attempted a three-point shot that was missed."
+            },
+            {
+                "option_id": "C",
+                "text": "Passed to the outside, and it was deflected by blue number 22, but still reached the teammate."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed the ball to the center, but it was intercepted."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "025",
+        "question_id": "084",
+        "video_type": "tempCausalReasoning",
+        "question": "Which team won the tip-off, and which player caught the ball first?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "White team won the tip-off, and number 7 caught the ball first."
+            },
+            {
+                "option_id": "B",
+                "text": "Black team won the tip-off, and number 8 caught the ball first."
+            },
+            {
+                "option_id": "C",
+                "text": "Black team won the tip-off, and number 3 caught the ball first."
+            },
+            {
+                "option_id": "D",
+                "text": "White team won the tip-off, and number 12 caught the ball first."
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "026",
+        "question_id": "087",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 6:4, what did Rockets number 28 (red) do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Tried a fadeaway jumper but missed."
+            },
+            {
+                "option_id": "B",
+                "text": "Attempted a turnaround layup, blocked, but grabbed the offensive rebound and scored on a second chance."
+            },
+            {
+                "option_id": "C",
+                "text": "Dribbled and pulled up for a three-pointer."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed to a teammate for an easy dunk."
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "027",
+        "question_id": "088",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 2:0, what is the offensive choice of 76ers number 0 (blue)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Pass to a teammate for an open shot."
+            },
+            {
+                "option_id": "B",
+                "text": "Attempt a three-pointer."
+            },
+            {
+                "option_id": "C",
+                "text": "Drive to the basket for a layup."
+            },
+            {
+                "option_id": "D",
+                "text": "Post up and attempt a hook shot."
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "028",
+        "question_id": "090",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 5:0, what did Suns player number 35 (white) do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He set a screen for a teammate to take a shot."
+            },
+            {
+                "option_id": "B",
+                "text": "He dribbled to the top of the key and passed to a teammate."
+            },
+            {
+                "option_id": "C",
+                "text": "He cut to the basket and made a layup."
+            },
+            {
+                "option_id": "D",
+                "text": "He was stationed in the corner, received a pass from a teammate, and made a three-pointer."
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "029",
+        "question_id": "092",
+        "video_type": "tempCausalReasoning",
+        "question": "Which team won the opening jump, and who was the first player to receive the ball?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "White team, player 2"
+            },
+            {
+                "option_id": "B",
+                "text": "White team, player 4"
+            },
+            {
+                "option_id": "C",
+                "text": "Black team, player 4"
+            },
+            {
+                "option_id": "D",
+                "text": "Black team, player 2"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "030",
+        "question_id": "095",
+        "video_type": "tempCausalReasoning",
+        "question": "At 11:00 remaining in the first quarter, with the score tied at 0-0, what did player 11 (white) from the Mavericks do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Faked a move to shake off the defender, received a pass, and scored with a layup."
+            },
+            {
+                "option_id": "B",
+                "text": "Stood still and waited for a screen to set up a shot."
+            },
+            {
+                "option_id": "C",
+                "text": "Passed the ball to a teammate for a three-point shot."
+            },
+            {
+                "option_id": "D",
+                "text": "Made a quick drive to the basket and scored a dunk."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "031",
+        "question_id": "097",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 2-4, what was player 36 (white) from the Celtics' method of attack?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Passed the ball to a teammate for a quick shot."
+            },
+            {
+                "option_id": "B",
+                "text": "Made a spin move and laid the ball up for an easy finish."
+            },
+            {
+                "option_id": "C",
+                "text": "Drove to the basket and made a contested floater over the defense."
+            },
+            {
+                "option_id": "D",
+                "text": "Shot a three-pointer from the top of the key."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "032",
+        "question_id": "099",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 5-3, what did player 7 (green) from the Celtics do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Made a steal and scored a fast break layup."
+            },
+            {
+                "option_id": "B",
+                "text": "Drove to the basket and scored a layup."
+            },
+            {
+                "option_id": "C",
+                "text": "Passed the ball to a teammate for a quick three-pointer."
+            },
+            {
+                "option_id": "D",
+                "text": "Received a pass from a teammate, dribbled once, and hit a jump shot for three."
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "033",
+        "question_id": "100",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 2-0, what did player 36 (white) from the Celtics do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Passed the ball to player 7, who received the assist and hit a three-pointer."
+            },
+            {
+                "option_id": "B",
+                "text": "Made a steal and scored on a fast break."
+            },
+            {
+                "option_id": "C",
+                "text": "Drove to the basket and scored a layup."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed the ball to a teammate for a dunk."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "034",
+        "question_id": "102",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score 4-11, what did player 0 (white) from the Celtics do against player 30 (black) from the Warriors?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He stole the ball from player 30 and passed it to a teammate."
+            },
+            {
+                "option_id": "B",
+                "text": "He made a successful block on player 30's layup."
+            },
+            {
+                "option_id": "C",
+                "text": "He prepared to block player 30's layup but failed."
+            },
+            {
+                "option_id": "D",
+                "text": "He fouled player 30 while attempting to block his shot."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "035",
+        "question_id": "105",
+        "video_type": "tempCausalReasoning",
+        "question": "At 1:02 remaining in the fourth quarter, what did player 26 (white) do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Committed a tactical foul on player 30 (black)."
+            },
+            {
+                "option_id": "B",
+                "text": "Scored a three-pointer over player 30 (black)."
+            },
+            {
+                "option_id": "C",
+                "text": "Passed the ball to a teammate for an easy layup."
+            },
+            {
+                "option_id": "D",
+                "text": "Made a steal and assisted on a fast break."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "036",
+        "question_id": "107",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is tied 60-60, what did player 11 (white) do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Dribbled the ball to the frontcourt and completed a fast break three-pointer."
+            },
+            {
+                "option_id": "B",
+                "text": "Made a steal and scored a layup on a fast break."
+            },
+            {
+                "option_id": "C",
+                "text": "Passed the ball to a teammate for a dunk."
+            },
+            {
+                "option_id": "D",
+                "text": "Missed a jump shot from the free-throw line."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "037",
+        "question_id": "108",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is tied 10-2, what did player 6 (black) do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Drove to the basket and scored a layup."
+            },
+            {
+                "option_id": "B",
+                "text": "Took a contested jumper and missed."
+            },
+            {
+                "option_id": "C",
+                "text": "Made a steal and assisted on a fast break dunk."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed the ball to player 30 (black), who made a three-pointer."
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "038",
+        "question_id": "110",
+        "video_type": "tempCausalReasoning",
+        "question": "When the score is 76-68, how did player 12 (blue) attack?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Dribbled past his defender and made a jump shot."
+            },
+            {
+                "option_id": "B",
+                "text": "Made a three-pointer off the pick-and-roll."
+            },
+            {
+                "option_id": "C",
+                "text": "Received a pass, faked the defender, and finished with a dunk."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed the ball to a teammate for an easy layup."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "039",
+        "question_id": "112",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score at 57:64, what did player 14 (white) do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Attempted a jump shot but missed."
+            },
+            {
+                "option_id": "B",
+                "text": "Made a steal and scored a layup."
+            },
+            {
+                "option_id": "C",
+                "text": "Passed the ball to player 5 (white), but player 5 dribbled the ball out of bounds."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed the ball to player 5 (white), but player 5 missed an easy layup."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "040",
+        "question_id": "115",
+        "video_type": "tempCausalReasoning",
+        "question": "With the score at 57:64, what did player 5 do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Attempted a jump shot but missed."
+            },
+            {
+                "option_id": "B",
+                "text": "Dribbled the ball and lost control, resulting in a turnover."
+            },
+            {
+                "option_id": "C",
+                "text": "Received the ball and attempted a breakthrough but went out of bounds."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed the ball to player 6, but the pass was intercepted."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "041",
+        "question_id": "116",
+        "video_type": "tempCausalReasoning",
+        "question": "Who scored the first goal of the entire match, and which team was he from?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "CHE No.7 player"
+            },
+            {
+                "option_id": "B",
+                "text": "TOT No.10 player"
+            },
+            {
+                "option_id": "C",
+                "text": "TOT No.15 player"
+            },
+            {
+                "option_id": "D",
+                "text": "CHE No.8 player"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "CHE No.8 player"
+        }
+    },
+    {
+        "video_id": "042",
+        "question_id": "117",
+        "video_type": "tempCausalReasoning",
+        "question": "Who scored the first goal of the match, and which team was he from?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "RMA No.9 player"
+            },
+            {
+                "option_id": "B",
+                "text": "RMA No.15 player"
+            },
+            {
+                "option_id": "C",
+                "text": "RSO No.10 player"
+            },
+            {
+                "option_id": "D",
+                "text": "RSO No.7 player"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "RSO No.7 player"
+        }
+    },
+    {
+        "video_id": "043",
+        "question_id": "118",
+        "video_type": "tempCausalReasoning",
+        "question": "Who scored the first goal of the entire match, and which team was he from?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "BRA No.17 player"
+            },
+            {
+                "option_id": "B",
+                "text": "BRA No.9 player"
+            },
+            {
+                "option_id": "C",
+                "text": "ARG No.10 player"
+            },
+            {
+                "option_id": "D",
+                "text": "ARG No.9 player"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "ARG No.9 player"
+        }
+    },
+    {
+        "video_id": "044",
+        "question_id": "119",
+        "video_type": "tempCausalReasoning",
+        "question": "At 3:06 of the game, who did the red-black No.10 player pass the ball to, and what happened next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Passed to No.6, who was tackled"
+            },
+            {
+                "option_id": "B",
+                "text": "Passed to No.11, who lost possession"
+            },
+            {
+                "option_id": "C",
+                "text": "Passed to No.7, who scored a goal"
+            },
+            {
+                "option_id": "D",
+                "text": "Passed to No.8, who missed the shot"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "Passed to No.7, who scored a goal"
+        }
+    },
+    {
+        "video_id": "045",
+        "question_id": "120",
+        "video_type": "tempCausalReasoning",
+        "question": "At 1:38 of the game, what did the red-black No.11 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He was tackled by a defender"
+            },
+            {
+                "option_id": "B",
+                "text": "He shot twice and scored on the second attempt"
+            },
+            {
+                "option_id": "C",
+                "text": "He passed to a teammate"
+            },
+            {
+                "option_id": "D",
+                "text": "He missed a header"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "He shot twice and scored on the second attempt"
+        }
+    },
+    {
+        "video_id": "046",
+        "question_id": "121",
+        "video_type": "tempCausalReasoning",
+        "question": "At 2:50 of the game, what did Manchester's No.8 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He passed the ball to No.10"
+            },
+            {
+                "option_id": "B",
+                "text": "He took a penalty shot and scored"
+            },
+            {
+                "option_id": "C",
+                "text": "He missed a penalty kick"
+            },
+            {
+                "option_id": "D",
+                "text": "He was substituted"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "He took a penalty shot and scored"
+        }
+    },
+    {
+        "video_id": "047",
+        "question_id": "122",
+        "video_type": "tempCausalReasoning",
+        "question": "At 4:49 of the game, what happened to the red-white No.41 player?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He was substituted"
+            },
+            {
+                "option_id": "B",
+                "text": "He passed the ball and ran forward"
+            },
+            {
+                "option_id": "C",
+                "text": "He was kicked by an opponent and fell down"
+            },
+            {
+                "option_id": "D",
+                "text": "He scored a goal"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "He was kicked by an opponent and fell down"
+        }
+    },
+    {
+        "video_id": "048",
+        "question_id": "123",
+        "video_type": "tempCausalReasoning",
+        "question": "At 1:25 of the game, what did the red No.7 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He received a pass and took a shot, but it was blocked by the goalkeeper"
+            },
+            {
+                "option_id": "B",
+                "text": "He was tackled by a defender"
+            },
+            {
+                "option_id": "C",
+                "text": "He passed to No.9"
+            },
+            {
+                "option_id": "D",
+                "text": "He lost the ball while dribbling"
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "He received a pass and took a shot, but it was blocked by the goalkeeper"
+        }
+    },
+    {
+        "video_id": "049",
+        "question_id": "124",
+        "video_type": "tempCausalReasoning",
+        "question": "At 1:39 of the game, what was the white No.8 player doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Shooting at the goal"
+            },
+            {
+                "option_id": "B",
+                "text": "Passing to a teammate"
+            },
+            {
+                "option_id": "C",
+                "text": "Confronting the opponent's No.8 and knocking him down"
+            },
+            {
+                "option_id": "D",
+                "text": "Running back on defense"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "Confronting the opponent's No.8 and knocking him down"
+        }
+    },
+    {
+        "video_id": "050",
+        "question_id": "125",
+        "video_type": "tempCausalReasoning",
+        "question": "Around the 61st minute of the game, what was the red-black No.29 player doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Missing a penalty"
+            },
+            {
+                "option_id": "B",
+                "text": "Receiving the ball and scoring the first goal of the match"
+            },
+            {
+                "option_id": "C",
+                "text": "Passing to No.10"
+            },
+            {
+                "option_id": "D",
+                "text": "Getting substituted"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Receiving the ball and scoring the first goal of the match"
+        }
+    },
+    {
+        "video_id": "051",
+        "question_id": "126",
+        "video_type": "tempCausalReasoning",
+        "question": "At 44:14 of the game, what did the green No.19 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He passed the ball to No.10"
+            },
+            {
+                "option_id": "B",
+                "text": "He was tackled by a defender"
+            },
+            {
+                "option_id": "C",
+                "text": "He dribbled past two players and scored"
+            },
+            {
+                "option_id": "D",
+                "text": "He took a shot but it was blocked by the goalkeeper"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "He took a shot but it was blocked by the goalkeeper"
+        }
+    },
+    {
+        "video_id": "052",
+        "question_id": "127",
+        "video_type": "tempCausalReasoning",
+        "question": "At 69:13 of the game, what action did the red No.6 player take, and what was the result?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He was fouled in the box"
+            },
+            {
+                "option_id": "B",
+                "text": "He passed the ball and assisted a goal"
+            },
+            {
+                "option_id": "C",
+                "text": "He took a header shot, but missed"
+            },
+            {
+                "option_id": "D",
+                "text": "He scored with a header"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "He took a header shot, but missed"
+        }
+    },
+    {
+        "video_id": "053",
+        "question_id": "128",
+        "video_type": "tempCausalReasoning",
+        "question": "At 0:32 of the video, what is Messi doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Waiting for a corner kick"
+            },
+            {
+                "option_id": "B",
+                "text": "Taking a penalty kick and scoring"
+            },
+            {
+                "option_id": "C",
+                "text": "Passing to a teammate"
+            },
+            {
+                "option_id": "D",
+                "text": "Dribbling past defenders"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Taking a penalty kick and scoring"
+        }
+    },
+    {
+        "video_id": "054",
+        "question_id": "129",
+        "video_type": "tempCausalReasoning",
+        "question": "Who scored the first goal in the video?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Blue No.9 player"
+            },
+            {
+                "option_id": "B",
+                "text": "Red No.25 player"
+            },
+            {
+                "option_id": "C",
+                "text": "Red No.10 player"
+            },
+            {
+                "option_id": "D",
+                "text": "Red No.7 player"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Red No.25 player"
+        }
+    },
+    {
+        "video_id": "055",
+        "question_id": "130",
+        "video_type": "tempCausalReasoning",
+        "question": "At the score 0:0, how did the yellow No.13 player score a goal?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "By a long-distance shot"
+            },
+            {
+                "option_id": "B",
+                "text": "By dribbling past defenders"
+            },
+            {
+                "option_id": "C",
+                "text": "With a penalty kick"
+            },
+            {
+                "option_id": "D",
+                "text": "With a header"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "With a header"
+        }
+    },
+    {
+        "video_id": "056",
+        "question_id": "131",
+        "video_type": "tempCausalReasoning",
+        "question": "At 0:45 of the video, what is the white No.45 player doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Taking a shot but it was blocked by the opponent"
+            },
+            {
+                "option_id": "B",
+                "text": "Dribbling toward the goal"
+            },
+            {
+                "option_id": "C",
+                "text": "Celebrating a goal"
+            },
+            {
+                "option_id": "D",
+                "text": "Passing the ball back"
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "Taking a shot but it was blocked by the opponent"
+        }
+    },
+    {
+        "video_id": "057",
+        "question_id": "132",
+        "video_type": "tempCausalReasoning",
+        "question": "At the score 1:0, what did the blue No.10 player do that led to the goal?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He took a corner kick that led to the goal"
+            },
+            {
+                "option_id": "B",
+                "text": "He shot but missed; the ball rebounded to No.8 who then scored"
+            },
+            {
+                "option_id": "C",
+                "text": "He ran the ball into the goal himself"
+            },
+            {
+                "option_id": "D",
+                "text": "He passed directly to No.8 who scored"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "He shot but missed; the ball rebounded to No.8 who then scored"
+        }
+    },
+    {
+        "video_id": "058",
+        "question_id": "133",
+        "video_type": "tempCausalReasoning",
+        "question": "At 10:50 of the match, what did the red No.21 player do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He received the ball and scored a goal"
+            },
+            {
+                "option_id": "B",
+                "text": "He was fouled in the penalty box"
+            },
+            {
+                "option_id": "C",
+                "text": "He passed to a teammate"
+            },
+            {
+                "option_id": "D",
+                "text": "He intercepted a pass and defended"
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "He received the ball and scored a goal"
+        }
+    },
+    {
+        "video_id": "059",
+        "question_id": "134",
+        "video_type": "tempCausalReasoning",
+        "question": "At 29:09 of the match, what did the white No.3 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Took a shot at the goal"
+            },
+            {
+                "option_id": "B",
+                "text": "Got tackled by the goalkeeper"
+            },
+            {
+                "option_id": "C",
+                "text": "Dribbled and fell down"
+            },
+            {
+                "option_id": "D",
+                "text": "Passed the ball to a teammate"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "Dribbled and fell down"
+        }
+    },
+    {
+        "video_id": "060",
+        "question_id": "135",
+        "video_type": "tempCausalReasoning",
+        "question": "At 13:48 of the match, what did the green No.13 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He passed to a teammate"
+            },
+            {
+                "option_id": "B",
+                "text": "He was tackled and lost the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "He scored with a header"
+            },
+            {
+                "option_id": "D",
+                "text": "He made a successful tackle and shot, but missed"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "He made a successful tackle and shot, but missed"
+        }
+    },
+    {
+        "video_id": "061",
+        "question_id": "136",
+        "video_type": "tempCausalReasoning",
+        "question": "At 33:32 of the match, what did the red No.15 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He attempted a shot and missed"
+            },
+            {
+                "option_id": "B",
+                "text": "He ran toward the corner flag"
+            },
+            {
+                "option_id": "C",
+                "text": "He was tackled by the goalkeeper"
+            },
+            {
+                "option_id": "D",
+                "text": "He passed to No.16 and then fell down"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "He passed to No.16 and then fell down"
+        }
+    },
+    {
+        "video_id": "061",
+        "question_id": "137",
+        "video_type": "tempCausalReasoning",
+        "question": "At 33:32 of the match, what did the red No.15 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He was tackled by the goalkeeper"
+            },
+            {
+                "option_id": "B",
+                "text": "He ran toward the corner flag"
+            },
+            {
+                "option_id": "C",
+                "text": "He attempted a shot and missed"
+            },
+            {
+                "option_id": "D",
+                "text": "He passed to No.16 and then fell down"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "He passed to No.16 and then fell down"
+        }
+    },
+    {
+        "video_id": "062",
+        "question_id": "138",
+        "video_type": "tempCausalReasoning",
+        "question": "At 45:33 of the match, what is the red No.4 player doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Chasing the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "Passing the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "Shooting at the goal"
+            },
+            {
+                "option_id": "D",
+                "text": "Celebrating a goal"
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "Chasing the ball"
+        }
+    },
+    {
+        "video_id": "063",
+        "question_id": "139",
+        "video_type": "tempCausalReasoning",
+        "question": "At 11:17 of the match, what does the red No.14 player do after gaining possession?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He dribbles past two defenders"
+            },
+            {
+                "option_id": "B",
+                "text": "He passes the ball to No.13"
+            },
+            {
+                "option_id": "C",
+                "text": "He shoots at the goal"
+            },
+            {
+                "option_id": "D",
+                "text": "He gets tackled and loses the ball"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "He passes the ball to No.13"
+        }
+    },
+    {
+        "video_id": "064",
+        "question_id": "140",
+        "video_type": "tempCausalReasoning",
+        "question": "At 47:50 of the match, what does the white No.19 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He shoots but misses"
+            },
+            {
+                "option_id": "B",
+                "text": "He takes a header shot and scores"
+            },
+            {
+                "option_id": "C",
+                "text": "He passes to No.10"
+            },
+            {
+                "option_id": "D",
+                "text": "He gets tackled"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "He takes a header shot and scores"
+        }
+    },
+    {
+        "video_id": "065",
+        "question_id": "141",
+        "video_type": "tempCausalReasoning",
+        "question": "At 09:07 of the match, what did the white No.22 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He was tackled by an opponent"
+            },
+            {
+                "option_id": "B",
+                "text": "He dribbled past two defenders"
+            },
+            {
+                "option_id": "C",
+                "text": "He passed to No.17"
+            },
+            {
+                "option_id": "D",
+                "text": "He took a shot and scored"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "He passed to No.17"
+        }
+    },
+    {
+        "video_id": "066",
+        "question_id": "142",
+        "video_type": "tempCausalReasoning",
+        "question": "At 38:51 of the match, after receiving the ball, what did the white No.2 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He shot at the goal"
+            },
+            {
+                "option_id": "B",
+                "text": "He passed the ball to No.9"
+            },
+            {
+                "option_id": "C",
+                "text": "He was tackled"
+            },
+            {
+                "option_id": "D",
+                "text": "He ran with the ball toward midfield"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "He passed the ball to No.9"
+        }
+    },
+    {
+        "video_id": "066",
+        "question_id": "143",
+        "video_type": "tempCausalReasoning",
+        "question": "At 60:20 of the match, what did the dark blue No.10 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He passed to No.22, got the ball back, and then scored"
+            },
+            {
+                "option_id": "B",
+                "text": "He dribbled alone and lost the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "He took a long shot and scored directly"
+            },
+            {
+                "option_id": "D",
+                "text": "He passed to No.22, who returned the ball and No.10 scored"
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "He passed to No.22, got the ball back, and then scored"
+        }
+    },
+    {
+        "video_id": "068",
+        "question_id": "144",
+        "video_type": "tempCausalReasoning",
+        "question": "At 44:14 of the match, what does the green No.10 player do next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He takes a penalty kick and scores"
+            },
+            {
+                "option_id": "B",
+                "text": "He passes to a teammate"
+            },
+            {
+                "option_id": "C",
+                "text": "He takes a penalty kick but misses"
+            },
+            {
+                "option_id": "D",
+                "text": "He dribbles past a defender"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "He takes a penalty kick but misses"
+        }
+    },
+    {
+        "video_id": "069",
+        "question_id": "145",
+        "video_type": "tempCausalReasoning",
+        "question": "At 79:57 of the match, after receiving a pass from a teammate, what did the blue No.26 player do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He took a shot at the goal"
+            },
+            {
+                "option_id": "B",
+                "text": "He dribbled past a defender"
+            },
+            {
+                "option_id": "C",
+                "text": "He passed the ball back to No.10"
+            },
+            {
+                "option_id": "D",
+                "text": "He headed the ball to No.22"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "He headed the ball to No.22"
+        }
+    },
+    {
+        "video_id": "070",
+        "question_id": "146",
+        "video_type": "tempCausalReasoning",
+        "question": "At 04:45 of the match, what is the red No.23 player doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Shooting but missing"
+            },
+            {
+                "option_id": "B",
+                "text": "Celebrating a goal"
+            },
+            {
+                "option_id": "C",
+                "text": "Receiving a throw-in"
+            },
+            {
+                "option_id": "D",
+                "text": "Passing the ball"
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "Shooting but missing"
+        }
+    },
+    {
+        "video_id": "001_h264",
+        "question": "At a score of 39:45, after the Houston team's No. 4 player passes the ball, what does he do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He turns around to help on defense."
+            },
+            {
+                "option_id": "B",
+                "text": "He drives aggressively towards the basket."
+            },
+            {
+                "option_id": "C",
+                "text": "His teammate passes the ball back to him so that he can shoot."
+            },
+            {
+                "option_id": "D",
+                "text": "He stops to set up the next play."
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "His teammate passes the ball back to him so that he can shoot."
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "002_h264",
+        "question": "At a score of 105:83, what move did James make to score?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "He scored with a fast-break layup."
+            },
+            {
+                "option_id": "B",
+                "text": "He drove through the defense for a floater."
+            },
+            {
+                "option_id": "C",
+                "text": "He made a step-back three-pointer."
+            },
+            {
+                "option_id": "D",
+                "text": "He stole the ball and dunked it."
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "He stole the ball and dunked it."
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "003_h264",
+        "question": "Who made the first three-point shot in the game?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player No. 10 of the Sacramento Kings."
+            },
+            {
+                "option_id": "B",
+                "text": "Player No. 4 of the Houston Rockets."
+            },
+            {
+                "option_id": "C",
+                "text": "Player No. 22 of the Sacramento Kings."
+            },
+            {
+                "option_id": "D",
+                "text": "Player No. 6 of the Sacramento Kings."
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "Player No. 10 of the Sacramento Kings."
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "003_h264",
+        "question": "At a score of 79:86, to whom did the Sacramento Kings' No. 10 player pass the ball, and what did that player do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Passed to No. 7, who was fouled and went to the free-throw line."
+            },
+            {
+                "option_id": "B",
+                "text": "Passed to No. 9, who missed a jump shot."
+            },
+            {
+                "option_id": "C",
+                "text": "Passed to No. 22, who made a three-point shot."
+            },
+            {
+                "option_id": "D",
+                "text": "Passed to No. 15, who drove for a layup."
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "Passed to No. 22, who made a three-point shot."
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "004_h264",
+        "question": "At the 39th minute shown in the video, who passed the ball to Messi for the goal?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player No. 10"
+            },
+            {
+                "option_id": "B",
+                "text": "Player No. 17"
+            },
+            {
+                "option_id": "C",
+                "text": "Player No. 7"
+            },
+            {
+                "option_id": "D",
+                "text": "Player No. 8"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Player No. 17"
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "004_h264",
+        "question": "Who scored the first valid goal in the video?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player No. 10 in pink"
+            },
+            {
+                "option_id": "B",
+                "text": "Player No. 9 in pink"
+            },
+            {
+                "option_id": "C",
+                "text": "Player No. 10 in white"
+            },
+            {
+                "option_id": "D",
+                "text": "Player No. 11 in white"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "Player No. 10 in white"
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "005_h264",
+        "question": "At a score of 0:0, after the red team's No. 5 player headed the ball, what happened next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "The red team's No. 3 player flicked the ball out of bounds."
+            },
+            {
+                "option_id": "B",
+                "text": "The red team's No. 5 player regained possession and dribbled forward."
+            },
+            {
+                "option_id": "C",
+                "text": "The blue team intercepted the ball and counterattacked."
+            },
+            {
+                "option_id": "D",
+                "text": "The red team's No. 7 player attempted a shot on goal."
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "The red team's No. 3 player flicked the ball out of bounds."
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "005_h264",
+        "question": "Who scored the second goal for Portugal (POR)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player No. 11"
+            },
+            {
+                "option_id": "B",
+                "text": "Player No. 9"
+            },
+            {
+                "option_id": "C",
+                "text": "Player No. 10"
+            },
+            {
+                "option_id": "D",
+                "text": "Player No. 7"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "Player No. 7"
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "006_h264",
+        "question": "Who scored the first goal of the entire match?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player No. 9 from SPA"
+            },
+            {
+                "option_id": "B",
+                "text": "Player No. 5 from NED"
+            },
+            {
+                "option_id": "C",
+                "text": "Player No. 21 from SPA"
+            },
+            {
+                "option_id": "D",
+                "text": "Player No. 10 from SPA"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "Player No. 21 from SPA"
+        },
+        "task_type": "multi_choice"
+    },
+    {
+        "video_id": "006_h264",
+        "question": "How did player No. 5 from NED score his goal?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "With a header"
+            },
+            {
+                "option_id": "B",
+                "text": "With a tap-in"
+            },
+            {
+                "option_id": "C",
+                "text": "With a powerful driven shot"
+            },
+            {
+                "option_id": "D",
+                "text": "With a volley shot"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "With a powerful driven shot"
+        },
+        "task_type": "multi_choice"
+    }
+]

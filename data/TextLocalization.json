@@ -1,0 +1,4438 @@
+[
+    {
+        "video_id": "video_001",
+        "question": "When does the text '初中第一的我' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video26",
+        "question_id": 1
+    },
+    {
+        "video_id": "video_002",
+        "question": "When does the text '1.亲戚不共财，共财断往来' exist in the video?",
+        "answer": "[0.0s, 6.6s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video17",
+        "question_id": 2
+    },
+    {
+        "video_id": "video_003",
+        "question": "When does the text '天启哥撩电影' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video57",
+        "question_id": 3
+    },
+    {
+        "video_id": "video_004",
+        "question": "When does the text '挑战全网最贵' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video42",
+        "question_id": 4
+    },
+    {
+        "video_id": "video_005",
+        "question": "When does the text '挑战全网最贵' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video22",
+        "question_id": 5
+    },
+    {
+        "video_id": "video_006",
+        "question": "When does the text '那也没办法' exist in the video?",
+        "answer": "[0.0s, 0.9s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video48",
+        "question_id": 6
+    },
+    {
+        "video_id": "video_007",
+        "question": "When does the text '中国最能吃辣' exist in the video?",
+        "answer": "[0.0s, 2.5s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video61",
+        "question_id": 7
+    },
+    {
+        "video_id": "video_008",
+        "question": "When does the text '新电脑' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video4",
+        "question_id": 8
+    },
+    {
+        "video_id": "video_009",
+        "question": "When does the text '今日热点' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video41",
+        "question_id": 9
+    },
+    {
+        "video_id": "video_010",
+        "question": "When does the text '富家女考验男友' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video18",
+        "question_id": 10
+    },
+    {
+        "video_id": "video_011",
+        "question": "When does the text '好栗' exist in the video?",
+        "answer": "[0.0s, 0.1s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video65",
+        "question_id": 11
+    },
+    {
+        "video_id": "video_012",
+        "question": "When does the text '30斤动物血诱满坑靓货鲷鱼爆发无法掌控' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video68",
+        "question_id": 12
+    },
+    {
+        "video_id": "video_013",
+        "question": "When does the text '+关注' exist in the video?",
+        "answer": "[0.0s, 35.3s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video14",
+        "question_id": 13
+    },
+    {
+        "video_id": "video_014",
+        "question": "When does the text 'My name is Shantell Kwofie.' exist in the video?",
+        "answer": "[5.4s, 8.4s]",
+        "type":"TextLocalization",
+        "source": "Cls12_Interview_video12",
+        "question_id": 14
+    },
+    {
+        "video_id": "video_015",
+        "question": "When does the text 'SHARE' exist in the video?",
+        "answer": "[0.0s, 1.9s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video28",
+        "question_id": 15
+    },
+    {
+        "video_id": "video_016",
+        "question": "When does the text 'Business Canvas' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video75",
+        "question_id": 16
+    },
+    {
+        "video_id": "video_017",
+        "question": "When does the text 'd' exist in the video?",
+        "answer": "[0.0s, 8.6s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video35",
+        "question_id": 17
+    },
+    {
+        "video_id": "video_018",
+        "question": "When does the text '老铁送了我们四个荒废了好' exist in the video?",
+        "answer": "[0.5s, 6.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video30",
+        "question_id": 18
+    },
+    {
+        "video_id": "video_019",
+        "question": "When does the text '真这么丝滑吗' exist in the video?",
+        "answer": "[0.0s, 0.9s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video1",
+        "question_id": 19
+    },
+    {
+        "video_id": "video_020",
+        "question": "When does the text '欣赏舞姿' exist in the video?",
+        "answer": "[0.0s, 5.2s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video11",
+        "question_id": 20
+    },
+    {
+        "video_id": "video_021",
+        "question": "When does the text 'Class 1' exist in the video?",
+        "answer": "[0.0s, 23.2s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video64",
+        "question_id": 21
+    },
+    {
+        "video_id": "video_022",
+        "question": "When does the text 'ALJAZEERA' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video41",
+        "question_id": 22
+    },
+    {
+        "video_id": "video_023",
+        "question": "When does the text '江西宜春' exist in the video?",
+        "answer": "[0.0s, 17.8s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video42",
+        "question_id": 23
+    },
+    {
+        "video_id": "video_024",
+        "question": "When does the text '在广东打工的老铁把他家乡' exist in the video?",
+        "answer": "[0.3s, 7.7s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video16",
+        "question_id": 24
+    },
+    {
+        "video_id": "video_025",
+        "question": "When does the text '虽然不是真的但是好像啊啊啊' exist in the video?",
+        "answer": "[0.0s, 3.0s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video15",
+        "question_id": 25
+    },
+    {
+        "video_id": "video_026",
+        "question": "When does the text '我给你升了个舱' exist in the video?",
+        "answer": "[0.0s, 0.9s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video58",
+        "question_id": 26
+    },
+    {
+        "video_id": "video_027",
+        "question": "When does the text '但也只能这样' exist in the video?",
+        "answer": "[0.0s, 2.1s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video13",
+        "question_id": 27
+    },
+    {
+        "video_id": "video_028",
+        "question": "When does the text 'get good grades' exist in the video?",
+        "answer": "[0.0s, 0.9s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video17",
+        "question_id": 28
+    },
+    {
+        "video_id": "video_029",
+        "question": "When does the text '只要话术好顾客跑不了' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video11",
+        "question_id": 29
+    },
+    {
+        "video_id": "video_030",
+        "question": "When does the text '我不知道这是不是和田的特色菜' exist in the video?",
+        "answer": "[1.0s, 3.8s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video36",
+        "question_id": 30
+    },
+    {
+        "video_id": "video_031",
+        "question": "When does the text 'Topi al o s R ord' exist in the video?",
+        "answer": "[0.0s, 0.3s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video41",
+        "question_id": 31
+    },
+    {
+        "video_id": "video_032",
+        "question": "When does the text '力' exist in the video?",
+        "answer": "[0.0s, 14.3s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video56",
+        "question_id": 32
+    },
+    {
+        "video_id": "video_033",
+        "question": "When does the text '迈向光明之路' exist in the video?",
+        "answer": "[0.0s, 2.3s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video13",
+        "question_id": 33
+    },
+    {
+        "video_id": "video_034",
+        "question": "When does the text 'YouTube.com/MDWeathers' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video35",
+        "question_id": 34
+    },
+    {
+        "video_id": "video_035",
+        "question": "When does the text '这次要走半个月呢' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video49",
+        "question_id": 35
+    },
+    {
+        "video_id": "video_036",
+        "question": "When does the text '15:21' exist in the video?",
+        "answer": "[0.0s, 3.3s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video18",
+        "question_id": 36
+    },
+    {
+        "video_id": "video_037",
+        "question": "When does the text 'RA\n' exist in the video?",
+        "answer": "[0.0s, 5.8s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video39",
+        "question_id": 37
+    },
+    {
+        "video_id": "video_038",
+        "question": "When does the text '大牌口红' exist in the video?",
+        "answer": "[0.0s, 3.2s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video62",
+        "question_id": 38
+    },
+    {
+        "video_id": "video_039",
+        "question": "When does the text '开心麻花' exist in the video?",
+        "answer": "[0.0s, 25.4s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video30",
+        "question_id": 39
+    },
+    {
+        "video_id": "video_040",
+        "question": "When does the text '地道湖南味' exist in the video?",
+        "answer": "[0.0s, 28.9s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video15",
+        "question_id": 40
+    },
+    {
+        "video_id": "video_041",
+        "question": "When does the text '乘坐冬天' exist in the video?",
+        "answer": "[0.0s, 0.9s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video19",
+        "question_id": 41
+    },
+    {
+        "video_id": "video_042",
+        "question": "When does the text 'SCHOOLS' exist in the video?",
+        "answer": "[1.2s, 5.1s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video30",
+        "question_id": 42
+    },
+    {
+        "video_id": "video_043",
+        "question": "When does the text 'Bloomberg' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video10",
+        "question_id": 43
+    },
+    {
+        "video_id": "video_044",
+        "question": "When does the text '蒜末' exist in the video?",
+        "answer": "[27.7s, 29.8s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video16",
+        "question_id": 44
+    },
+    {
+        "video_id": "video_045",
+        "question": "When does the text '戏精小伙花式分手' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video41",
+        "question_id": 45
+    },
+    {
+        "video_id": "video_046",
+        "question": "When does the text '在美国' exist in the video?",
+        "answer": "[0.0s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video18",
+        "question_id": 46
+    },
+    {
+        "video_id": "video_047",
+        "question": "When does the text 'H' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video55",
+        "question_id": 47
+    },
+    {
+        "video_id": "video_048",
+        "question": "When does the text '受不了的' exist in the video?",
+        "answer": "[0.0s, 0.5s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video49",
+        "question_id": 48
+    },
+    {
+        "video_id": "video_049",
+        "question": "When does the text '老君山值得去吗？' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video47",
+        "question_id": 49
+    },
+    {
+        "video_id": "video_050",
+        "question": "When does the text 'File:Reuters/CBC' exist in the video?",
+        "answer": "[0.0s, 12.9s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video54",
+        "question_id": 50
+    },
+    {
+        "video_id": "video_051",
+        "question": "When does the text '情谊无价' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video29",
+        "question_id": 51
+    },
+    {
+        "video_id": "video_052",
+        "question": "When does the text 'no one around to help you take it so\n' exist in the video?",
+        "answer": "[0.0s, 1.6s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video65",
+        "question_id": 52
+    },
+    {
+        "video_id": "video_053",
+        "question": "When does the text '名字带“亿”的' exist in the video?",
+        "answer": "[0.0s, 2.8s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video45",
+        "question_id": 53
+    },
+    {
+        "video_id": "video_054",
+        "question": "When does the text '身穿雨衣手捧蜥蜴' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video20",
+        "question_id": 54
+    },
+    {
+        "video_id": "video_055",
+        "question": "When does the text 'P' exist in the video?",
+        "answer": "[0.0s, 2.0s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video44",
+        "question_id": 55
+    },
+    {
+        "video_id": "video_056",
+        "question": "When does the text '8' exist in the video?",
+        "answer": "[0.0s, 0.1s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video17",
+        "question_id": 56
+    },
+    {
+        "video_id": "video_057",
+        "question": "When does the text '您认为教师们必须在学校内付停车费是否公平吗？为什么？' exist in the video?",
+        "answer": "[0.0s, 5.1s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video57",
+        "question_id": 57
+    },
+    {
+        "video_id": "video_058",
+        "question": "When does the text '一个人挺好，没有惊喜' exist in the video?",
+        "answer": "[0.0s, 16.6s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video12",
+        "question_id": 58
+    },
+    {
+        "video_id": "video_059",
+        "question": "When does the text '被医院拒收' exist in the video?",
+        "answer": "[0.0s, 1.0s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video29",
+        "question_id": 59
+    },
+    {
+        "video_id": "video_060",
+        "question": "When does the text '冬天教你如何' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video43",
+        "question_id": 60
+    },
+    {
+        "video_id": "video_061",
+        "question": "When does the text '我好不容易上山采几朵蘑菇' exist in the video?",
+        "answer": "[28.4s, 30.9s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video11",
+        "question_id": 61
+    },
+    {
+        "video_id": "video_062",
+        "question": "When does the text 'HAVALWHEEL' exist in the video?",
+        "answer": "[2.4s, 4.4s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video64",
+        "question_id": 62
+    },
+    {
+        "video_id": "video_063",
+        "question": "When does the text 'MONSTER' exist in the video?",
+        "answer": "[0.0s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video50",
+        "question_id": 63
+    },
+    {
+        "video_id": "video_064",
+        "question": "When does the text 'ORIGINAL CHOREOGRAPHY BY' exist in the video?",
+        "answer": "[0.0s, 0.5s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video32",
+        "question_id": 64
+    },
+    {
+        "video_id": "video_065",
+        "question": "When does the text '服务人民' exist in the video?",
+        "answer": "[0.0s, 29.6s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video3",
+        "question_id": 65
+    },
+    {
+        "video_id": "video_066",
+        "question": "When does the text '记住这七点' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video18",
+        "question_id": 66
+    },
+    {
+        "video_id": "video_067",
+        "question": "When does the text 'vegaskingbenny' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknow_video3",
+        "question_id": 67
+    },
+    {
+        "video_id": "video_068",
+        "question": "When does the text 'Business Canvas' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video79",
+        "question_id": 68
+    },
+    {
+        "video_id": "video_069",
+        "question": "When does the text 'ABILITIES' exist in the video?",
+        "answer": "[0.0s, 25.1s]",
+        "type":"TextLocalization",
+        "source": "Cls7_Game_video10",
+        "question_id": 69
+    },
+    {
+        "video_id": "video_070",
+        "question": "When does the text 'Oh no! I didn't write' exist in the video?",
+        "answer": "[0.0s, 2.5s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video50",
+        "question_id": 70
+    },
+    {
+        "video_id": "video_071",
+        "question": "When does the text '5:59' exist in the video?",
+        "answer": "[0.0s, 0.9s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video66",
+        "question_id": 71
+    },
+    {
+        "video_id": "video_072",
+        "question": "When does the text 'CHAIN' exist in the video?",
+        "answer": "[0.0s, 3.2s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video13",
+        "question_id": 72
+    },
+    {
+        "video_id": "video_073",
+        "question": "When does the text 'TDK' exist in the video?",
+        "answer": "[0.0s, 4.9s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video56",
+        "question_id": 73
+    },
+    {
+        "video_id": "video_074",
+        "question": "When does the text 'Camshaft Center' exist in the video?",
+        "answer": "[3.3s, 7.8s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video20",
+        "question_id": 74
+    },
+    {
+        "video_id": "video_075",
+        "question": "When does the text '一代浪王' exist in the video?",
+        "answer": "[0.0s, 1.4s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video13",
+        "question_id": 75
+    },
+    {
+        "video_id": "video_076",
+        "question": "When does the text 'Hair Oir' exist in the video?",
+        "answer": "[8.7s, 9.8s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video62",
+        "question_id": 76
+    },
+    {
+        "video_id": "video_077",
+        "question": "When does the text 'NO' exist in the video?",
+        "answer": "[25.6s, 26.4s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video38",
+        "question_id": 77
+    },
+    {
+        "video_id": "video_078",
+        "question": "When does the text '你一天脸也不洗' exist in the video?",
+        "answer": "[2.7s, 5.2s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video2",
+        "question_id": 78
+    },
+    {
+        "video_id": "video_079",
+        "question": "When does the text '12' exist in the video?",
+        "answer": "[17.3s, 20.4s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video62",
+        "question_id": 79
+    },
+    {
+        "video_id": "video_080",
+        "question": "When does the text '人卦' exist in the video?",
+        "answer": "[0.0s, 1.9s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video22",
+        "question_id": 80
+    },
+    {
+        "video_id": "video_081",
+        "question": "When does the text 'So，I'll have a chocolate dip.' exist in the video?",
+        "answer": "[0.0s, 2.9s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video42",
+        "question_id": 81
+    },
+    {
+        "video_id": "video_082",
+        "question": "When does the text 'Just skipped over it.' exist in the video?",
+        "answer": "[0.0s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video57",
+        "question_id": 82
+    },
+    {
+        "video_id": "video_083",
+        "question": "When does the text 'NCT 127' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls12_Interview_video32",
+        "question_id": 83
+    },
+    {
+        "video_id": "video_084",
+        "question": "When does the text '儿啊圣诞节快到了 ' exist in the video?",
+        "answer": "[0.0s, 1.8s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video35",
+        "question_id": 84
+    },
+    {
+        "video_id": "video_085",
+        "question": "When does the text '我彻底傻眼了' exist in the video?",
+        "answer": "[0.0s, 1.4s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video46",
+        "question_id": 85
+    },
+    {
+        "video_id": "video_086",
+        "question": "When does the text '两台战机首抽滩涂坑猛货疯狂窜逃' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video39",
+        "question_id": 86
+    },
+    {
+        "video_id": "video_087",
+        "question": "When does the text 'Expre' exist in the video?",
+        "answer": "[0.0s, 8.0s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video28",
+        "question_id": 87
+    },
+    {
+        "video_id": "video_088",
+        "question": "When does the text '一条珍贵的黑石斑' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video46",
+        "question_id": 88
+    },
+    {
+        "video_id": "video_089",
+        "question": "When does the text '创新低' exist in the video?",
+        "answer": "[0.0s, 4.4s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video91",
+        "question_id": 89
+    },
+    {
+        "video_id": "video_090",
+        "question": "When does the text '看到最后' exist in the video?",
+        "answer": "[0.0s, 32.7s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video28",
+        "question_id": 90
+    },
+    {
+        "video_id": "video_091",
+        "question": "When does the text 'I don't think I would stay in the US when I graduate.' exist in the video?",
+        "answer": "[0.0s, 3.6s]",
+        "type":"TextLocalization",
+        "source": "Cls12_Interview_video22",
+        "question_id": 91
+    },
+    {
+        "video_id": "video_092",
+        "question": "When does the text 'SUBSCRIBE' exist in the video?",
+        "answer": "[4.2s, 11.0s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video24",
+        "question_id": 92
+    },
+    {
+        "video_id": "video_093",
+        "question": "When does the text '扭蛋小故事101' exist in the video?",
+        "answer": "[0.0s, 18.3s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video26",
+        "question_id": 93
+    },
+    {
+        "video_id": "video_094",
+        "question": "When does the text 'LOS ANG' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls12_Interview_video33",
+        "question_id": 94
+    },
+    {
+        "video_id": "video_095",
+        "question": "When does the text 'NBA联名系列' exist in the video?",
+        "answer": "[0.0s, 2.9s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video39",
+        "question_id": 95
+    },
+    {
+        "video_id": "video_096",
+        "question": "When does the text '王源想师傅潇洒哥了' exist in the video?",
+        "answer": "[0.0s, 34.4s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video14",
+        "question_id": 96
+    },
+    {
+        "video_id": "video_097",
+        "question": "When does the text '@Alex世界之旅' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video60",
+        "question_id": 97
+    },
+    {
+        "video_id": "video_098",
+        "question": "When does the text '第一回' exist in the video?",
+        "answer": "[0.4s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video7",
+        "question_id": 98
+    },
+    {
+        "video_id": "video_099",
+        "question": "When does the text 'iphone最快的' exist in the video?",
+        "answer": "[0.0s, 1.0s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video1",
+        "question_id": 99
+    },
+    {
+        "video_id": "video_100",
+        "question": "When does the text '张艺谋《一秒钟》' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video67",
+        "question_id": 100
+    },
+    {
+        "video_id": "video_101",
+        "question": "When does the text 'accommodationq' exist in the video?",
+        "answer": "[0.0s, 3.6s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video43",
+        "question_id": 101
+    },
+    {
+        "video_id": "video_102",
+        "question": "When does the text '错错错' exist in the video?",
+        "answer": "[0.0s, 1.4s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video84",
+        "question_id": 102
+    },
+    {
+        "video_id": "video_103",
+        "question": "When does the text 'EPY' exist in the video?",
+        "answer": "[0.0s, 11.0s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video61",
+        "question_id": 103
+    },
+    {
+        "video_id": "video_104",
+        "question": "When does the text '封城没封住人' exist in the video?",
+        "answer": "[0.0s, 1.6s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video26",
+        "question_id": 104
+    },
+    {
+        "video_id": "video_105",
+        "question": "When does the text '12岁的天籁唱将' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video18",
+        "question_id": 105
+    },
+    {
+        "video_id": "video_106",
+        "question": "When does the text 'I'm unstoppable.' exist in the video?",
+        "answer": "[0.4s, 2.3s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video23",
+        "question_id": 106
+    },
+    {
+        "video_id": "video_107",
+        "question": "When does the text '720' exist in the video?",
+        "answer": "[0.0s, 1.9s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video66",
+        "question_id": 107
+    },
+    {
+        "video_id": "video_108",
+        "question": "When does the text '31' exist in the video?",
+        "answer": "[0.0s, 1.0s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video47",
+        "question_id": 108
+    },
+    {
+        "video_id": "video_109",
+        "question": "When does the text '马云热血励志演讲' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video45",
+        "question_id": 109
+    },
+    {
+        "video_id": "video_110",
+        "question": "When does the text 'a hairy problem' exist in the video?",
+        "answer": "[0.0s, 5.1s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video62",
+        "question_id": 110
+    },
+    {
+        "video_id": "video_111",
+        "question": "When does the text 'COPYRIGHT2020REPORTERFYMEDIAALLRIGHTSRESERVED' exist in the video?",
+        "answer": "[0.0s, 11.4s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video14",
+        "question_id": 111
+    },
+    {
+        "video_id": "video_112",
+        "question": "When does the text '马云热血励志演讲' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video19",
+        "question_id": 112
+    },
+    {
+        "video_id": "video_113",
+        "question": "When does the text 'COY I' exist in the video?",
+        "answer": "[0.0s, 1.6s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video42",
+        "question_id": 113
+    },
+    {
+        "video_id": "video_114",
+        "question": "When does the text 'Free Programmlng' exist in the video?",
+        "answer": "[0.0s, 3.6s]",
+        "type":"TextLocalization",
+        "source": "Cls7_Game_video19",
+        "question_id": 114
+    },
+    {
+        "video_id": "video_115",
+        "question": "When does the text 'Hole 1' exist in the video?",
+        "answer": "[0.0s, 2.6s]",
+        "type":"TextLocalization",
+        "source": "Cls7_Game_video12",
+        "question_id": 115
+    },
+    {
+        "video_id": "video_116",
+        "question": "When does the text '-DRMA' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video43",
+        "question_id": 116
+    },
+    {
+        "video_id": "video_117",
+        "question": "When does the text '这种油锅基本上好难弄啊' exist in the video?",
+        "answer": "[1.1s, 3.3s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video33",
+        "question_id": 117
+    },
+    {
+        "video_id": "video_118",
+        "question": "When does the text '头一回抓到比脸还宽的' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video23",
+        "question_id": 118
+    },
+    {
+        "video_id": "video_119",
+        "question": "When does the text '中华汽车' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video45",
+        "question_id": 119
+    },
+    {
+        "video_id": "video_120",
+        "question": "When does the text '吉利相伴' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video7",
+        "question_id": 120
+    },
+    {
+        "video_id": "video_121",
+        "question": "When does the text '姥都不花钱你随便拿随便吃' exist in the video?",
+        "answer": "[0.1s, 2.5s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video22",
+        "question_id": 121
+    },
+    {
+        "video_id": "video_122",
+        "question": "When does the text '零基础简单舞蹈' exist in the video?",
+        "answer": "[0.0s, 14.4s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video30",
+        "question_id": 122
+    },
+    {
+        "video_id": "video_123",
+        "question": "When does the text '惜颖elf' exist in the video?",
+        "answer": "[0.0s, 5.8s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video20",
+        "question_id": 123
+    },
+    {
+        "video_id": "video_124",
+        "question": "When does the text '\n' exist in the video?",
+        "answer": "[0.0s, 14.0s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video31",
+        "question_id": 124
+    },
+    {
+        "video_id": "video_125",
+        "question": "When does the text '看新闻学中文' exist in the video?",
+        "answer": "[8.2s, 23.8s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video86",
+        "question_id": 125
+    },
+    {
+        "video_id": "video_126",
+        "question": "When does the text 'CLICK to WATCH' exist in the video?",
+        "answer": "[5.1s, 10.1s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video43",
+        "question_id": 126
+    },
+    {
+        "video_id": "video_127",
+        "question": "When does the text 'FILET MIGNON' exist in the video?",
+        "answer": "[0.0s, 4.3s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video44",
+        "question_id": 127
+    },
+    {
+        "video_id": "video_128",
+        "question": "When does the text '快手' exist in the video?",
+        "answer": "[0.0s, 29.2s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video22",
+        "question_id": 128
+    },
+    {
+        "video_id": "video_129",
+        "question": "When does the text '12岁的天籁唱将' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video36",
+        "question_id": 129
+    },
+    {
+        "video_id": "video_130",
+        "question": "When does the text 'STMAS' exist in the video?",
+        "answer": "[0.0s, 11.6s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video24",
+        "question_id": 130
+    },
+    {
+        "video_id": "video_131",
+        "question": "When does the text '7ESL.COM' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video73",
+        "question_id": 131
+    },
+    {
+        "video_id": "video_132",
+        "question": "When does the text '妈' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video33",
+        "question_id": 132
+    },
+    {
+        "video_id": "video_133",
+        "question": "When does the text '无知己，不人生' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video4",
+        "question_id": 133
+    },
+    {
+        "video_id": "video_134",
+        "question": "When does the text '这里人真的很多' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls12_Interview_video4",
+        "question_id": 134
+    },
+    {
+        "video_id": "video_135",
+        "question": "When does the text '奥特之歌又出新歌啦' exist in the video?",
+        "answer": "[0.0s, 29.6s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video10",
+        "question_id": 135
+    },
+    {
+        "video_id": "video_136",
+        "question": "When does the text '重庆有一家' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video25",
+        "question_id": 136
+    },
+    {
+        "video_id": "video_137",
+        "question": "When does the text '12岁的天籁唱将' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video11",
+        "question_id": 137
+    },
+    {
+        "video_id": "video_138",
+        "question": "When does the text '9NOW' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video10",
+        "question_id": 138
+    },
+    {
+        "video_id": "video_139",
+        "question": "When does the text '思念被拒之门' exist in the video?",
+        "answer": "[0.8s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video25",
+        "question_id": 139
+    },
+    {
+        "video_id": "video_140",
+        "question": "When does the text '馬衣姐苗衣坊' exist in the video?",
+        "answer": "[0.0s, 48.8s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video3",
+        "question_id": 140
+    },
+    {
+        "video_id": "video_141",
+        "question": "When does the text '你确定挤的是你脸上的皱纹' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video41",
+        "question_id": 141
+    },
+    {
+        "video_id": "video_142",
+        "question": "When does the text '《刺杀小说家》节目录制后台' exist in the video?",
+        "answer": "[0.0s, 9.2s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video33",
+        "question_id": 142
+    },
+    {
+        "video_id": "video_143",
+        "question": "When does the text '沈安旋。' exist in the video?",
+        "answer": "[0.0s, 2.4s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video8",
+        "question_id": 143
+    },
+    {
+        "video_id": "video_144",
+        "question": "When does the text '看来这打疫苗' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video2",
+        "question_id": 144
+    },
+    {
+        "video_id": "video_145",
+        "question": "When does the text 'Work Mode' exist in the video?",
+        "answer": "[0.0s, 0.5s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video66",
+        "question_id": 145
+    },
+    {
+        "video_id": "video_146",
+        "question": "When does the text '伪娘小伙被1200W劳斯莱斯' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video16",
+        "question_id": 146
+    },
+    {
+        "video_id": "video_147",
+        "question": "When does the text '女子与同伴开房入住酒店' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video50",
+        "question_id": 147
+    },
+    {
+        "video_id": "video_148",
+        "question": "When does the text '青岛女子拥有“不老容颜”，' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video54",
+        "question_id": 148
+    },
+    {
+        "video_id": "video_149",
+        "question": "When does the text 'Are you all right Tom? You've been very quiet at supper.' exist in the video?",
+        "answer": "[0.0s, 2.8s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video54",
+        "question_id": 149
+    },
+    {
+        "video_id": "video_150",
+        "question": "When does the text '最省钱——本田' exist in the video?",
+        "answer": "[0.0s, 3.6s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video4",
+        "question_id": 150
+    },
+    {
+        "video_id": "video_151",
+        "question": "When does the text '《醉倾城》' exist in the video?",
+        "answer": "[0.0s, 17.8s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video13",
+        "question_id": 151
+    },
+    {
+        "video_id": "video_152",
+        "question": "When does the text '养了他十几年' exist in the video?",
+        "answer": "[0.0s, 2.7s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video26",
+        "question_id": 152
+    },
+    {
+        "video_id": "video_153",
+        "question": "When does the text '张艺谋《一秒钟》' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video48",
+        "question_id": 153
+    },
+    {
+        "video_id": "video_154",
+        "question": "When does the text '詹姆斯再次发文祝贺保罗' exist in the video?",
+        "answer": "[0.0s, 13.9s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video17",
+        "question_id": 154
+    },
+    {
+        "video_id": "video_155",
+        "question": "When does the text '青岛女子拥有“不老容颜”，' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video53",
+        "question_id": 155
+    },
+    {
+        "video_id": "video_156",
+        "question": "When does the text '《某某》' exist in the video?",
+        "answer": "[2.2s, 6.0s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video16",
+        "question_id": 156
+    },
+    {
+        "video_id": "video_157",
+        "question": "When does the text '还能不能这么快乐' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video15",
+        "question_id": 157
+    },
+    {
+        "video_id": "video_158",
+        "question": "When does the text 'A' exist in the video?",
+        "answer": "[0.0s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video40",
+        "question_id": 158
+    },
+    {
+        "video_id": "video_159",
+        "question": "When does the text '韩语' exist in the video?",
+        "answer": "[0.0s, 41.4s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video27",
+        "question_id": 159
+    },
+    {
+        "video_id": "video_160",
+        "question": "When does the text '就这么干了' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video55",
+        "question_id": 160
+    },
+    {
+        "video_id": "video_161",
+        "question": "When does the text '防止花挤在一起方法' exist in the video?",
+        "answer": "[0.0s, 26.3s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video9",
+        "question_id": 161
+    },
+    {
+        "video_id": "video_162",
+        "question": "When does the text '02女孩生活日常' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video40",
+        "question_id": 162
+    },
+    {
+        "video_id": "video_163",
+        "question": "When does the text '马云热血励志演讲' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video52",
+        "question_id": 163
+    },
+    {
+        "video_id": "video_164",
+        "question": "When does the text '每个省份都有自己的特色美食！' exist in the video?",
+        "answer": "[0.0s, 2.9s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video24",
+        "question_id": 164
+    },
+    {
+        "video_id": "video_165",
+        "question": "When does the text 'vegaskingbenny ' exist in the video?",
+        "answer": "[0.0s, 20.9s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknow_video1",
+        "question_id": 165
+    },
+    {
+        "video_id": "video_166",
+        "question": "When does the text '吊线锤拉线。' exist in the video?",
+        "answer": "[0.0s, 3.3s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video6",
+        "question_id": 166
+    },
+    {
+        "video_id": "video_167",
+        "question": "When does the text '和甜甜步行去万达看电影' exist in the video?",
+        "answer": "[0.0s, 4.3s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video48",
+        "question_id": 167
+    },
+    {
+        "video_id": "video_168",
+        "question": "When does the text '可是在小明的生命中' exist in the video?",
+        "answer": "[0.0s, 3.4s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video55",
+        "question_id": 168
+    },
+    {
+        "video_id": "video_169",
+        "question": "When does the text '田小野已经一周没洗头了' exist in the video?",
+        "answer": "[0.4s, 3.0s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video47",
+        "question_id": 169
+    },
+    {
+        "video_id": "video_170",
+        "question": "When does the text 'One addrss to be a princess at your home' exist in the video?",
+        "answer": "[5.3s, 10.1s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video62",
+        "question_id": 170
+    },
+    {
+        "video_id": "video_171",
+        "question": "When does the text '车上没有吃的了' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video31",
+        "question_id": 171
+    },
+    {
+        "video_id": "video_172",
+        "question": "When does the text '身穿雨衣手捧蜥蜴' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video42",
+        "question_id": 172
+    },
+    {
+        "video_id": "video_173",
+        "question": "When does the text '虚化的灯光' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video33",
+        "question_id": 173
+    },
+    {
+        "video_id": "video_174",
+        "question": "When does the text '最美的是思念' exist in the video?",
+        "answer": "[0.6s, 7.0s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video22",
+        "question_id": 174
+    },
+    {
+        "video_id": "video_175",
+        "question": "When does the text '心上人' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video32",
+        "question_id": 175
+    },
+    {
+        "video_id": "video_176",
+        "question": "When does the text '清' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video8",
+        "question_id": 176
+    },
+    {
+        "video_id": "video_177",
+        "question": "When does the text 'CLAMISGOLD' exist in the video?",
+        "answer": "[7.8s, 8.5s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video8",
+        "question_id": 177
+    },
+    {
+        "video_id": "video_178",
+        "question": "When does the text '教你正确涂口红' exist in the video?",
+        "answer": "[0.0s, 22.4s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video52",
+        "question_id": 178
+    },
+    {
+        "video_id": "video_179",
+        "question": "When does the text 'URBAN GARMENT  COMPANY' exist in the video?",
+        "answer": "[0.0s, 27.5s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video47",
+        "question_id": 179
+    },
+    {
+        "video_id": "video_180",
+        "question": "When does the text '苗族' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video38",
+        "question_id": 180
+    },
+    {
+        "video_id": "video_181",
+        "question": "When does the text '先环绕拍主角' exist in the video?",
+        "answer": "[0.0s, 1.8s]",
+        "type":"TextLocalization",
+        "source": "Cls5_Advertising_video9",
+        "question_id": 181
+    },
+    {
+        "video_id": "video_182",
+        "question": "When does the text '坚持半小时' exist in the video?",
+        "answer": "[0.0s, 17.5s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video37",
+        "question_id": 182
+    },
+    {
+        "video_id": "video_183",
+        "question": "When does the text '在俄罗斯吃了顿' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video31",
+        "question_id": 183
+    },
+    {
+        "video_id": "video_184",
+        "question": "When does the text 'KJONES' exist in the video?",
+        "answer": "[0.0s, 2.9s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video63",
+        "question_id": 184
+    },
+    {
+        "video_id": "video_185",
+        "question": "When does the text '南瓜蒸蛋' exist in the video?",
+        "answer": "[0.0s, 2.9s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video2",
+        "question_id": 185
+    },
+    {
+        "video_id": "video_186",
+        "question": "When does the text '和香蕉' exist in the video?",
+        "answer": "[0.0s, 0.1s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video52",
+        "question_id": 186
+    },
+    {
+        "video_id": "video_187",
+        "question": "When does the text '我要是画着这个底妆哈' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video5",
+        "question_id": 187
+    },
+    {
+        "video_id": "video_188",
+        "question": "When does the text 'but he really,really' exist in the video?",
+        "answer": "[0.0s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknow_video2",
+        "question_id": 188
+    },
+    {
+        "video_id": "video_189",
+        "question": "When does the text '漠河站' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video34",
+        "question_id": 189
+    },
+    {
+        "video_id": "video_190",
+        "question": "When does the text '但是我刚才抹手上' exist in the video?",
+        "answer": "[0.0s, 1.5s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video31",
+        "question_id": 190
+    },
+    {
+        "video_id": "video_191",
+        "question": "When does the text '小伙打篮球，意外发现' exist in the video?",
+        "answer": "[0.2s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video4",
+        "question_id": 191
+    },
+    {
+        "video_id": "video_192",
+        "question": "When does the text '真的吗那我们现在去拿好不好' exist in the video?",
+        "answer": "[0.0s, 3.4s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video64",
+        "question_id": 192
+    },
+    {
+        "video_id": "video_193",
+        "question": "When does the text '癌症体质的人' exist in the video?",
+        "answer": "[0.0s, 0.5s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video5",
+        "question_id": 193
+    },
+    {
+        "video_id": "video_194",
+        "question": "When does the text 'BUT I'M SINGING...' exist in the video?",
+        "answer": "[0.0s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video59",
+        "question_id": 194
+    },
+    {
+        "video_id": "video_195",
+        "question": "When does the text 'AREA' exist in the video?",
+        "answer": "[0.0s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video41",
+        "question_id": 195
+    },
+    {
+        "video_id": "video_196",
+        "question": "When does the text 'USA' exist in the video?",
+        "answer": "[1.1s, 2.4s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video67",
+        "question_id": 196
+    },
+    {
+        "video_id": "video_197",
+        "question": "When does the text 'Everything was fine and dandy in the beginning' exist in the video?",
+        "answer": "[0.0s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video49",
+        "question_id": 197
+    },
+    {
+        "video_id": "video_198",
+        "question": "When does the text '别担心我会和他谈谈的' exist in the video?",
+        "answer": "[0.0s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video86",
+        "question_id": 198
+    },
+    {
+        "video_id": "video_199",
+        "question": "When does the text 'PowTooN' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video51",
+        "question_id": 199
+    },
+    {
+        "video_id": "video_200",
+        "question": "When does the text '清穆白玦合体' exist in the video?",
+        "answer": "[0.0s, 179.9s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video2",
+        "question_id": 200
+    },
+    {
+        "video_id": "video_201",
+        "question": "When does the text '好吧我要坦白了' exist in the video?",
+        "answer": "[0.0s, 1.5s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video7",
+        "question_id": 201
+    },
+    {
+        "video_id": "video_202",
+        "question": "When does the text 'LA JUGADA DEL PARTIDO' exist in the video?",
+        "answer": "[0.0s, 14.1s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video7",
+        "question_id": 202
+    },
+    {
+        "video_id": "video_203",
+        "question": "When does the text 'Hello everybody' exist in the video?",
+        "answer": "[0.0s, 2.6s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video38",
+        "question_id": 203
+    },
+    {
+        "video_id": "video_204",
+        "question": "When does the text 'NO' exist in the video?",
+        "answer": "[0.0s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video25",
+        "question_id": 204
+    },
+    {
+        "video_id": "video_205",
+        "question": "When does the text '粉黛红颜' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video16",
+        "question_id": 205
+    },
+    {
+        "video_id": "video_206",
+        "question": "When does the text '拜托我就碰了一个洋葱圈' exist in the video?",
+        "answer": "[0.0s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video79",
+        "question_id": 206
+    },
+    {
+        "video_id": "video_207",
+        "question": "When does the text '小伙吃烤肉吃出钢丝球' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video38",
+        "question_id": 207
+    },
+    {
+        "video_id": "video_208",
+        "question": "When does the text 'TOP LIST' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video42",
+        "question_id": 208
+    },
+    {
+        "video_id": "video_209",
+        "question": "When does the text '你永远都猜不到' exist in the video?",
+        "answer": "[0.0s, 4.0s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video18",
+        "question_id": 209
+    },
+    {
+        "video_id": "video_210",
+        "question": "When does the text '因为一个马蜂窝' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video30",
+        "question_id": 210
+    },
+    {
+        "video_id": "video_211",
+        "question": "When does the text 'PORTE' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video42",
+        "question_id": 211
+    },
+    {
+        "video_id": "video_212",
+        "question": "When does the text 'STERLING' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video68",
+        "question_id": 212
+    },
+    {
+        "video_id": "video_213",
+        "question": "When does the text 'Extensiue' exist in the video?",
+        "answer": "[0.0s, 18.1s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video76",
+        "question_id": 213
+    },
+    {
+        "video_id": "video_214",
+        "question": "When does the text '戏精小伙花式分手' exist in the video?",
+        "answer": "[0.0s, 31.7s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video76",
+        "question_id": 214
+    },
+    {
+        "video_id": "video_215",
+        "question": "When does the text '你们每个月给女朋友' exist in the video?",
+        "answer": "[0.0s, 1.9s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video14",
+        "question_id": 215
+    },
+    {
+        "video_id": "video_216",
+        "question": "When does the text '我只能做到不恨' exist in the video?",
+        "answer": "[0.0s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video10",
+        "question_id": 216
+    },
+    {
+        "video_id": "video_217",
+        "question": "When does the text 'WB' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video31",
+        "question_id": 217
+    },
+    {
+        "video_id": "video_218",
+        "question": "When does the text '廊坊' exist in the video?",
+        "answer": "[0.0s, 5.5s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video5",
+        "question_id": 218
+    },
+    {
+        "video_id": "video_219",
+        "question": "When does the text '早教儿歌' exist in the video?",
+        "answer": "[0.0s, 1.4s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video4",
+        "question_id": 219
+    },
+    {
+        "video_id": "video_220",
+        "question": "When does the text '绿的鱼' exist in the video?",
+        "answer": "[0.0s, 34.6s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video19",
+        "question_id": 220
+    },
+    {
+        "video_id": "video_221",
+        "question": "When does the text '干杯就完了' exist in the video?",
+        "answer": "[0.0s, 26.5s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video2",
+        "question_id": 221
+    },
+    {
+        "video_id": "video_222",
+        "question": "When does the text '原神' exist in the video?",
+        "answer": "[0.0s, 1.5s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video2",
+        "question_id": 222
+    },
+    {
+        "video_id": "video_223",
+        "question": "When does the text '16平的小卧室这样设计' exist in the video?",
+        "answer": "[0.0s, 3.4s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video50",
+        "question_id": 223
+    },
+    {
+        "video_id": "video_224",
+        "question": "When does the text '钟院士拥抱冯文娟' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video14",
+        "question_id": 224
+    },
+    {
+        "video_id": "video_225",
+        "question": "When does the text '决战内娱之巅' exist in the video?",
+        "answer": "[0.0s, 22.2s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video26",
+        "question_id": 225
+    },
+    {
+        "video_id": "video_226",
+        "question": "When does the text 'ALJAZEERA' exist in the video?",
+        "answer": "[0.0s, 29.0s]",
+        "type":"TextLocalization",
+        "source": "Cls23_International_video46",
+        "question_id": 226
+    },
+    {
+        "video_id": "video_227",
+        "question": "When does the text 'but the quality and quantity of the teaching ' exist in the video?",
+        "answer": "[0.0s, 3.0s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video51",
+        "question_id": 227
+    },
+    {
+        "video_id": "video_228",
+        "question": "When does the text 'And now I think I'm done.' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video34",
+        "question_id": 228
+    },
+    {
+        "video_id": "video_229",
+        "question": "When does the text 'Bonjour, Emily.' exist in the video?",
+        "answer": "[0.0s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video60",
+        "question_id": 229
+    },
+    {
+        "video_id": "video_230",
+        "question": "When does the text 'Yesterday’s Homework' exist in the video?",
+        "answer": "[0.0s, 2.0s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video62",
+        "question_id": 230
+    },
+    {
+        "video_id": "video_231",
+        "question": "When does the text '实/时/发/布/权/威/信/息' exist in the video?",
+        "answer": "[0.0s, 11.6s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video17",
+        "question_id": 231
+    },
+    {
+        "video_id": "video_232",
+        "question": "When does the text 'LIVE' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video87",
+        "question_id": 232
+    },
+    {
+        "video_id": "video_233",
+        "question": "When does the text '一条珍贵的黑石斑' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video9",
+        "question_id": 233
+    },
+    {
+        "video_id": "video_234",
+        "question": "When does the text '一条珍贵的黑石斑' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video62",
+        "question_id": 234
+    },
+    {
+        "video_id": "video_235",
+        "question": "When does the text '家有王妃' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video3",
+        "question_id": 235
+    },
+    {
+        "video_id": "video_236",
+        "question": "When does the text 'a' exist in the video?",
+        "answer": "[0.0s, 5.3s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video28",
+        "question_id": 236
+    },
+    {
+        "video_id": "video_237",
+        "question": "When does the text '婚礼上妈妈的至理名言' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video3",
+        "question_id": 237
+    },
+    {
+        "video_id": "video_238",
+        "question": "When does the text '02女孩生活日常' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video39",
+        "question_id": 238
+    },
+    {
+        "video_id": "video_239",
+        "question": "When does the text '有缘躲不开' exist in the video?",
+        "answer": "[0.0s, 18.9s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video18",
+        "question_id": 239
+    },
+    {
+        "video_id": "video_240",
+        "question": "When does the text '却允许大家杠把AK47，口袋装两个手榴弹逛街是吧?' exist in the video?",
+        "answer": "[0.0s, 2.1s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video17",
+        "question_id": 240
+    },
+    {
+        "video_id": "video_241",
+        "question": "When does the text '老喝洗脚水' exist in the video?",
+        "answer": "[1.0s, 3.6s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video37",
+        "question_id": 241
+    },
+    {
+        "video_id": "video_242",
+        "question": "When does the text '2X' exist in the video?",
+        "answer": "[0.0s, 28.9s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video32",
+        "question_id": 242
+    },
+    {
+        "video_id": "video_243",
+        "question": "When does the text '645 pm' exist in the video?",
+        "answer": "[0.0s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video40",
+        "question_id": 243
+    },
+    {
+        "video_id": "video_244",
+        "question": "When does the text '我这样单手拿的时候' exist in the video?",
+        "answer": "[0.0s, 0.3s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video24",
+        "question_id": 244
+    },
+    {
+        "video_id": "video_245",
+        "question": "When does the text '牛肉泥' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video7",
+        "question_id": 245
+    },
+    {
+        "video_id": "video_246",
+        "question": "When does the text 'Tencent 腾讯 ' exist in the video?",
+        "answer": "[0.0s, 5.1s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video49",
+        "question_id": 246
+    },
+    {
+        "video_id": "video_247",
+        "question": "When does the text '懒汉' exist in the video?",
+        "answer": "[0.2s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video41",
+        "question_id": 247
+    },
+    {
+        "video_id": "video_248",
+        "question": "When does the text '忘川婆婆' exist in the video?",
+        "answer": "[0.0s, 18.8s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video57",
+        "question_id": 248
+    },
+    {
+        "video_id": "video_249",
+        "question": "When does the text 'NEIR KAY' exist in the video?",
+        "answer": "[0.0s, 19.3s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video25",
+        "question_id": 249
+    },
+    {
+        "video_id": "video_250",
+        "question": "When does the text '@Alex世界之旅' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video51",
+        "question_id": 250
+    },
+    {
+        "video_id": "video_251",
+        "question": "When does the text '和田夜市这里天天都这么忙吗？' exist in the video?",
+        "answer": "[1.3s, 3.8s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video31",
+        "question_id": 251
+    },
+    {
+        "video_id": "video_252",
+        "question": "When does the text '“坐着也能打”' exist in the video?",
+        "answer": "[0.0s, 26.4s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video52",
+        "question_id": 252
+    },
+    {
+        "video_id": "video_253",
+        "question": "When does the text '先左 再上' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video82",
+        "question_id": 253
+    },
+    {
+        "video_id": "video_254",
+        "question": "When does the text '周恩来与邓颖超的来往书信' exist in the video?",
+        "answer": "[0.0s, 14.1s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video38",
+        "question_id": 254
+    },
+    {
+        "video_id": "video_255",
+        "question": "When does the text '积木羊毛针织衫' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video69",
+        "question_id": 255
+    },
+    {
+        "video_id": "video_256",
+        "question": "When does the text 'FAME(US)' exist in the video?",
+        "answer": "[0.0s, 24.5s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video84",
+        "question_id": 256
+    },
+    {
+        "video_id": "video_257",
+        "question": "When does the text '农村四大难题' exist in the video?",
+        "answer": "[0.0s, 12.3s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video28",
+        "question_id": 257
+    },
+    {
+        "video_id": "video_258",
+        "question": "When does the text 'q' exist in the video?",
+        "answer": "[0.0s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video60",
+        "question_id": 258
+    },
+    {
+        "video_id": "video_259",
+        "question": "When does the text '宝宝积食内热的表现' exist in the video?",
+        "answer": "[0.0s, 3.4s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video9",
+        "question_id": 259
+    },
+    {
+        "video_id": "video_260",
+        "question": "When does the text '你们一直催更的裤子穿搭来啦！' exist in the video?",
+        "answer": "[0.0s, 2.2s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video13",
+        "question_id": 260
+    },
+    {
+        "video_id": "video_261",
+        "question": "When does the text 'Know yourself better\n' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video73",
+        "question_id": 261
+    },
+    {
+        "video_id": "video_262",
+        "question": "When does the text '贵州黄酒' exist in the video?",
+        "answer": "[4.9s, 5.2s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video16",
+        "question_id": 262
+    },
+    {
+        "video_id": "video_263",
+        "question": "When does the text '却被引向了负面评论' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video38",
+        "question_id": 263
+    },
+    {
+        "video_id": "video_264",
+        "question": "When does the text '今天给大家介绍一下种植金' exist in the video?",
+        "answer": "[3.2s, 12.8s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video40",
+        "question_id": 264
+    },
+    {
+        "video_id": "video_265",
+        "question": "When does the text '我哥的车烧核能的？' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video47",
+        "question_id": 265
+    },
+    {
+        "video_id": "video_266",
+        "question": "When does the text 'My attention to details' exist in the video?",
+        "answer": "[0.3s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video60",
+        "question_id": 266
+    },
+    {
+        "video_id": "video_267",
+        "question": "When does the text '30斤猪血牛肺打窝500平龙王坑' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video7",
+        "question_id": 267
+    },
+    {
+        "video_id": "video_268",
+        "question": "When does the text 'HOTBb' exist in the video?",
+        "answer": "[0.0s, 2.1s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video30",
+        "question_id": 268
+    },
+    {
+        "video_id": "video_269",
+        "question": "When does the text '暗恋' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video29",
+        "question_id": 269
+    },
+    {
+        "video_id": "video_270",
+        "question": "When does the text '- Hey.' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video79",
+        "question_id": 270
+    },
+    {
+        "video_id": "video_271",
+        "question": "When does the text '肯定是你眼睛近视' exist in the video?",
+        "answer": "[1.0s, 2.6s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video45",
+        "question_id": 271
+    },
+    {
+        "video_id": "video_272",
+        "question": "When does the text 'one more thing' exist in the video?",
+        "answer": "[0.1s, 2.1s]",
+        "type":"TextLocalization",
+        "source": "Cls5_Advertising_video19",
+        "question_id": 272
+    },
+    {
+        "video_id": "video_273",
+        "question": "When does the text 'LIKA' exist in the video?",
+        "answer": "[2.0s, 24.2s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video42",
+        "question_id": 273
+    },
+    {
+        "video_id": "video_274",
+        "question": "When does the text '这种小小的圣诞树已经入不' exist in the video?",
+        "answer": "[0.4s, 5.1s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video38",
+        "question_id": 274
+    },
+    {
+        "video_id": "video_275",
+        "question": "When does the text 'SC电' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video37",
+        "question_id": 275
+    },
+    {
+        "video_id": "video_276",
+        "question": "When does the text '身穿雨衣手捧蜥蜴' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video35",
+        "question_id": 276
+    },
+    {
+        "video_id": "video_277",
+        "question": "When does the text '婚礼上妈妈的至理名言' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video19",
+        "question_id": 277
+    },
+    {
+        "video_id": "video_278",
+        "question": "When does the text 'BabyBus-Nursery Rhymes' exist in the video?",
+        "answer": "[1.9s, 5.4s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video67",
+        "question_id": 278
+    },
+    {
+        "video_id": "video_279",
+        "question": "When does the text '用了一个月这个' exist in the video?",
+        "answer": "[0.0s, 2.8s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video5",
+        "question_id": 279
+    },
+    {
+        "video_id": "video_280",
+        "question": "When does the text '被老公给耍了' exist in the video?",
+        "answer": "[0.0s, 1.6s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video16",
+        "question_id": 280
+    },
+    {
+        "video_id": "video_281",
+        "question": "When does the text 'SPORTSWORLD' exist in the video?",
+        "answer": "[0.0s, 0.5s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video66",
+        "question_id": 281
+    },
+    {
+        "video_id": "video_282",
+        "question": "When does the text 'network' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video49",
+        "question_id": 282
+    },
+    {
+        "video_id": "video_283",
+        "question": "When does the text '你们这些斗罗大陆的假粉丝' exist in the video?",
+        "answer": "[0.3s, 2.3s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video44",
+        "question_id": 283
+    },
+    {
+        "video_id": "video_284",
+        "question": "When does the text 'spudstudy' exist in the video?",
+        "answer": "[0.0s, 3.9s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video44",
+        "question_id": 284
+    },
+    {
+        "video_id": "video_285",
+        "question": "When does the text 'It's really to find, it's on the' exist in the video?",
+        "answer": "[0.0s, 1.0s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video5",
+        "question_id": 285
+    },
+    {
+        "video_id": "video_286",
+        "question": "When does the text '02女孩生活日常' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video31",
+        "question_id": 286
+    },
+    {
+        "video_id": "video_287",
+        "question": "When does the text '新手日常妆容教程' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video3",
+        "question_id": 287
+    },
+    {
+        "video_id": "video_288",
+        "question": "When does the text '1' exist in the video?",
+        "answer": "[0.0s, 8.8s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video44",
+        "question_id": 288
+    },
+    {
+        "video_id": "video_289",
+        "question": "When does the text '三诺智慧大厦' exist in the video?",
+        "answer": "[0.0s, 5.5s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video51",
+        "question_id": 289
+    },
+    {
+        "video_id": "video_290",
+        "question": "When does the text 'HAVAL' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video58",
+        "question_id": 290
+    },
+    {
+        "video_id": "video_291",
+        "question": "When does the text '促进友谊的小游戏' exist in the video?",
+        "answer": "[0.0s, 6.2s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video28",
+        "question_id": 291
+    },
+    {
+        "video_id": "video_292",
+        "question": "When does the text '此刻气温将近0下20度' exist in the video?",
+        "answer": "[0.9s, 4.0s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video13",
+        "question_id": 292
+    },
+    {
+        "video_id": "video_293",
+        "question": "When does the text '暖心！交警推移坏车' exist in the video?",
+        "answer": "[0.0s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video5",
+        "question_id": 293
+    },
+    {
+        "video_id": "video_294",
+        "question": "When does the text '禁止通行' exist in the video?",
+        "answer": "[0.0s, 2.1s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video22",
+        "question_id": 294
+    },
+    {
+        "video_id": "video_295",
+        "question": "When does the text 'This is Howard Wolowitz.' exist in the video?",
+        "answer": "[0.0s, 2.6s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video83",
+        "question_id": 295
+    },
+    {
+        "video_id": "video_296",
+        "question": "When does the text 'Bloomberg' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video26",
+        "question_id": 296
+    },
+    {
+        "video_id": "video_297",
+        "question": "When does the text '小明往后看了看熟悉的教室' exist in the video?",
+        "answer": "[0.0s, 5.6s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video56",
+        "question_id": 297
+    },
+    {
+        "video_id": "video_298",
+        "question": "When does the text '湘' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video32",
+        "question_id": 298
+    },
+    {
+        "video_id": "video_299",
+        "question": "When does the text '一男子手指被戒指卡住' exist in the video?",
+        "answer": "[0.0s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video33",
+        "question_id": 299
+    },
+    {
+        "video_id": "video_300",
+        "question": "When does the text '而且它不止是这个拖把' exist in the video?",
+        "answer": "[0.0s, 0.3s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video54",
+        "question_id": 300
+    },
+    {
+        "video_id": "video_301",
+        "question": "When does the text 'VALID TARGET AREA' exist in the video?",
+        "answer": "[0.0s, 5.5s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video71",
+        "question_id": 301
+    },
+    {
+        "video_id": "video_302",
+        "question": "When does the text '（下集2/2）完整版点头像' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video45",
+        "question_id": 302
+    },
+    {
+        "video_id": "video_303",
+        "question": "When does the text 'PARE' exist in the video?",
+        "answer": "[0.3s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video36",
+        "question_id": 303
+    },
+    {
+        "video_id": "video_304",
+        "question": "When does the text '动漫博物馆推荐' exist in the video?",
+        "answer": "[0.0s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video19",
+        "question_id": 304
+    },
+    {
+        "video_id": "video_305",
+        "question": "When does the text '鼓了一鼓我们奔驰车的价格' exist in the video?",
+        "answer": "[0.0s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video10",
+        "question_id": 305
+    },
+    {
+        "video_id": "video_306",
+        "question": "When does the text 'OK全部合格' exist in the video?",
+        "answer": "[0.0s, 2.3s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video65",
+        "question_id": 306
+    },
+    {
+        "video_id": "video_307",
+        "question": "When does the text '货车卡友' exist in the video?",
+        "answer": "[0.0s, 0.1s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video15",
+        "question_id": 307
+    },
+    {
+        "video_id": "video_308",
+        "question": "When does the text '头一回抓到比脸还宽的' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video53",
+        "question_id": 308
+    },
+    {
+        "video_id": "video_309",
+        "question": "When does the text '关注我收看更多精彩' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video36",
+        "question_id": 309
+    },
+    {
+        "video_id": "video_310",
+        "question": "When does the text 'M' exist in the video?",
+        "answer": "[0.0s, 10.7s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video4",
+        "question_id": 310
+    },
+    {
+        "video_id": "video_311",
+        "question": "When does the text '黑糖姜枣茶' exist in the video?",
+        "answer": "[0.0s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video11",
+        "question_id": 311
+    },
+    {
+        "video_id": "video_312",
+        "question": "When does the text 'When the time comes to pack and' exist in the video?",
+        "answer": "[0.7s, 5.4s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video45",
+        "question_id": 312
+    },
+    {
+        "video_id": "video_313",
+        "question": "When does the text '恐龙成为农民' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video88",
+        "question_id": 313
+    },
+    {
+        "video_id": "video_314",
+        "question": "When does the text '金陵体育' exist in the video?",
+        "answer": "[0.0s, 3.9s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video37",
+        "question_id": 314
+    },
+    {
+        "video_id": "video_315",
+        "question": "When does the text 'Quality Education' exist in the video?",
+        "answer": "[0.0s, 9.8s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video12",
+        "question_id": 315
+    },
+    {
+        "video_id": "video_316",
+        "question": "When does the text 'Sa - sang - yong' exist in the video?",
+        "answer": "[0.0s, 1.6s]",
+        "type":"TextLocalization",
+        "source": "Cls5_Advertising_video22",
+        "question_id": 316
+    },
+    {
+        "video_id": "video_317",
+        "question": "When does the text '[]1' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video59",
+        "question_id": 317
+    },
+    {
+        "video_id": "video_318",
+        "question": "When does the text '为什么飞机出事故' exist in the video?",
+        "answer": "[0.0s, 25.8s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video66",
+        "question_id": 318
+    },
+    {
+        "video_id": "video_319",
+        "question": "When does the text 'TV' exist in the video?",
+        "answer": "[0.0s, 10.7s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video78",
+        "question_id": 319
+    },
+    {
+        "video_id": "video_320",
+        "question": "When does the text 'Just answer the best that you can ian,in chinese ' exist in the video?",
+        "answer": "[0.0s, 2.2s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video66",
+        "question_id": 320
+    },
+    {
+        "video_id": "video_321",
+        "question": "When does the text 'HOZIER' exist in the video?",
+        "answer": "[0.0s, 2.4s]",
+        "type":"TextLocalization",
+        "source": "Cls9_Activity_video30",
+        "question_id": 321
+    },
+    {
+        "video_id": "video_322",
+        "question": "When does the text 'E-Commerce Performance' exist in the video?",
+        "answer": "[0.0s, 13.8s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video26",
+        "question_id": 322
+    },
+    {
+        "video_id": "video_323",
+        "question": "When does the text '四台重炮狂抽1000平\"海王坑\"' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video50",
+        "question_id": 323
+    },
+    {
+        "video_id": "video_324",
+        "question": "When does the text '身穿雨衣手捧蜥蜴' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video69",
+        "question_id": 324
+    },
+    {
+        "video_id": "video_325",
+        "question": "When does the text '很多人问我' exist in the video?",
+        "answer": "[1.0s, 2.9s]",
+        "type":"TextLocalization",
+        "source": "Cls32_Unknown_video8",
+        "question_id": 325
+    },
+    {
+        "video_id": "video_326",
+        "question": "When does the text 'FRESH BREAD' exist in the video?",
+        "answer": "[23.2s, 27.2s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video59",
+        "question_id": 326
+    },
+    {
+        "video_id": "video_327",
+        "question": "When does the text '倒车停车' exist in the video?",
+        "answer": "[0.0s, 0.6s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video73",
+        "question_id": 327
+    },
+    {
+        "video_id": "video_328",
+        "question": "When does the text '你不喝是不是' exist in the video?",
+        "answer": "[0.0s, 1.5s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video60",
+        "question_id": 328
+    },
+    {
+        "video_id": "video_329",
+        "question": "When does the text 'STREET' exist in the video?",
+        "answer": "[0.6s, 6.8s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video21",
+        "question_id": 329
+    },
+    {
+        "video_id": "video_330",
+        "question": "When does the text 'Drama' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video50",
+        "question_id": 330
+    },
+    {
+        "video_id": "video_331",
+        "question": "When does the text '凡士林的润唇膏' exist in the video?",
+        "answer": "[0.0s, 2.5s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video22",
+        "question_id": 331
+    },
+    {
+        "video_id": "video_332",
+        "question": "When does the text '《拍蚊子》' exist in the video?",
+        "answer": "[0.0s, 13.9s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video4",
+        "question_id": 332
+    },
+    {
+        "video_id": "video_333",
+        "question": "When does the text '婆婆生日当天' exist in the video?",
+        "answer": "[0.0s, 30.1s]",
+        "type":"TextLocalization",
+        "source": "Cls28_BeautyIndustry_video15",
+        "question_id": 333
+    },
+    {
+        "video_id": "video_334",
+        "question": "When does the text 'ILIPS' exist in the video?",
+        "answer": "[0.0s, 1.4s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video66",
+        "question_id": 334
+    },
+    {
+        "video_id": "video_335",
+        "question": "When does the text '只有伍佰才有的待遇' exist in the video?",
+        "answer": "[0.0s, 16.4s]",
+        "type":"TextLocalization",
+        "source": "Cls10_Program_video25",
+        "question_id": 335
+    },
+    {
+        "video_id": "video_336",
+        "question": "When does the text 'MKIN'' exist in the video?",
+        "answer": "[0.0s, 0.9s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video86",
+        "question_id": 336
+    },
+    {
+        "video_id": "video_337",
+        "question": "When does the text '冬天快乐' exist in the video?",
+        "answer": "[0.0s, 21.6s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video14",
+        "question_id": 337
+    },
+    {
+        "video_id": "video_338",
+        "question": "When does the text '3RD GEN AMD E\n' exist in the video?",
+        "answer": "[0.0s, 7.8s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video52",
+        "question_id": 338
+    },
+    {
+        "video_id": "video_339",
+        "question": "When does the text 'A True Packaging' exist in the video?",
+        "answer": "[0.0s, 12.0s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video39",
+        "question_id": 339
+    },
+    {
+        "video_id": "video_340",
+        "question": "When does the text '你唱的歌却让我一醉不起' exist in the video?",
+        "answer": "[0.0s, 5.0s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video22",
+        "question_id": 340
+    },
+    {
+        "video_id": "video_341",
+        "question": "When does the text '005708' exist in the video?",
+        "answer": "[0.0s, 4.0s]",
+        "type":"TextLocalization",
+        "source": "Cls16_Government_video11",
+        "question_id": 341
+    },
+    {
+        "video_id": "video_342",
+        "question": "When does the text 'CVSTOM' exist in the video?",
+        "answer": "[0.0s, 8.1s]",
+        "type":"TextLocalization",
+        "source": "Cls30_Dance_video11",
+        "question_id": 342
+    },
+    {
+        "video_id": "video_343",
+        "question": "When does the text 'SINGLE BRAND RETAIL MODEL' exist in the video?",
+        "answer": "[0.0s, 12.2s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video57",
+        "question_id": 343
+    },
+    {
+        "video_id": "video_344",
+        "question": "When does the text '视频中涉及的行为仅为剧情需要请勿模仿' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video27",
+        "question_id": 344
+    },
+    {
+        "video_id": "video_345",
+        "question": "When does the text '甄子丹当年的侧身飞踢' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video76",
+        "question_id": 345
+    },
+    {
+        "video_id": "video_346",
+        "question": "When does the text '我问这些路人关于疫情的事他们一脸疑问' exist in the video?",
+        "answer": "[0.0s, 1.0s]",
+        "type":"TextLocalization",
+        "source": "Cls12_Interview_video2",
+        "question_id": 346
+    },
+    {
+        "video_id": "video_347",
+        "question": "When does the text 'and it's Asia's most valuable company-the first' exist in the video?",
+        "answer": "[0.0s, 4.8s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video45",
+        "question_id": 347
+    },
+    {
+        "video_id": "video_348",
+        "question": "When does the text 'Free updates will be added' exist in the video?",
+        "answer": "[0.0s, 6.9s]",
+        "type":"TextLocalization",
+        "source": "Cls7_Game_video13",
+        "question_id": 348
+    },
+    {
+        "video_id": "video_349",
+        "question": "When does the text 'Con' exist in the video?",
+        "answer": "[22.5s, 24.2s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video70",
+        "question_id": 349
+    },
+    {
+        "video_id": "video_350",
+        "question": "When does the text 'CityNews\n' exist in the video?",
+        "answer": "[0.0s, 24.9s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video93",
+        "question_id": 350
+    },
+    {
+        "video_id": "video_351",
+        "question": "When does the text '她一直在旁边愉快玩耍' exist in the video?",
+        "answer": "[0.0s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video26",
+        "question_id": 351
+    },
+    {
+        "video_id": "video_352",
+        "question": "When does the text 'CanW' exist in the video?",
+        "answer": "[14.9s, 17.2s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video50",
+        "question_id": 352
+    },
+    {
+        "video_id": "video_353",
+        "question": "When does the text '要不我试试吧我试试' exist in the video?",
+        "answer": "[0.0s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "Cls31_Eating_video40",
+        "question_id": 353
+    },
+    {
+        "video_id": "video_354",
+        "question": "When does the text '这也太气人了！' exist in the video?",
+        "answer": "[0.0s, 5.7s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video10",
+        "question_id": 354
+    },
+    {
+        "video_id": "video_355",
+        "question": "When does the text 'MIERCOLES DE NBA' exist in the video?",
+        "answer": "[0.0s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video21",
+        "question_id": 355
+    },
+    {
+        "video_id": "video_356",
+        "question": "When does the text 'Mamma!' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video47",
+        "question_id": 356
+    },
+    {
+        "video_id": "video_357",
+        "question": "When does the text '青岛女子拥有“不老容颜”，' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video40",
+        "question_id": 357
+    },
+    {
+        "video_id": "video_358",
+        "question": "When does the text 'SIRI：大家让你拍花间酒' exist in the video?",
+        "answer": "[0.0s, 1.4s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video39",
+        "question_id": 358
+    },
+    {
+        "video_id": "video_359",
+        "question": "When does the text '四川某男子在' exist in the video?",
+        "answer": "[0.0s, 5.7s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video77",
+        "question_id": 359
+    },
+    {
+        "video_id": "video_360",
+        "question": "When does the text 'How do you say“烧脑”？' exist in the video?",
+        "answer": "[0.0s, 0.2s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video51",
+        "question_id": 360
+    },
+    {
+        "video_id": "video_361",
+        "question": "When does the text '成龙人车装备' exist in the video?",
+        "answer": "[0.0s, 15.4s]",
+        "type":"TextLocalization",
+        "source": "Cls24_Fishery_video3",
+        "question_id": 361
+    },
+    {
+        "video_id": "video_362",
+        "question": "When does the text 'I started track & field when I was 9 years old.' exist in the video?",
+        "answer": "[1.3s, 4.3s]",
+        "type":"TextLocalization",
+        "source": "Cls12_Interview_video10",
+        "question_id": 362
+    },
+    {
+        "video_id": "video_363",
+        "question": "When does the text 'I'm going to be too busy playing with the toys I already have.' exist in the video?",
+        "answer": "[0.0s, 2.6s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video34",
+        "question_id": 363
+    },
+    {
+        "video_id": "video_364",
+        "question": "When does the text '王方永' exist in the video?",
+        "answer": "[0.0s, 2.2s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video57",
+        "question_id": 364
+    },
+    {
+        "video_id": "video_365",
+        "question": "When does the text '不用我多说了吧姐妹们' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls29_Makeup_video44",
+        "question_id": 365
+    },
+    {
+        "video_id": "video_366",
+        "question": "When does the text '登机口' exist in the video?",
+        "answer": "[0.4s, 1.5s]",
+        "type":"TextLocalization",
+        "source": "Cls22_Driving_video50",
+        "question_id": 366
+    },
+    {
+        "video_id": "video_367",
+        "question": "When does the text '以下为监控画面' exist in the video?",
+        "answer": "[0.0s, 20.9s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video70",
+        "question_id": 367
+    },
+    {
+        "video_id": "video_368",
+        "question": "When does the text 'MADE N EARTH' exist in the video?",
+        "answer": "[0.5s, 9.3s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video99",
+        "question_id": 368
+    },
+    {
+        "video_id": "video_369",
+        "question": "When does the text '食' exist in the video?",
+        "answer": "[0.9s, 4.0s]",
+        "type":"TextLocalization",
+        "source": "Cls5_Advertising_video25",
+        "question_id": 369
+    },
+    {
+        "video_id": "video_370",
+        "question": "When does the text '夜已三更' exist in the video?",
+        "answer": "[0.0s, 1.5s]",
+        "type":"TextLocalization",
+        "source": "Cls25_ShortVideo_video4",
+        "question_id": 370
+    },
+    {
+        "video_id": "video_371",
+        "question": "When does the text '等我看看路' exist in the video?",
+        "answer": "[0.0s, 0.1s]",
+        "type":"TextLocalization",
+        "source": "Cls3_Sports_video35",
+        "question_id": 371
+    },
+    {
+        "video_id": "video_372",
+        "question": "When does the text 'FIVE CARD' exist in the video?",
+        "answer": "[0.0s, 4.4s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video97",
+        "question_id": 372
+    },
+    {
+        "video_id": "video_373",
+        "question": "When does the text '回家进入倒计时！' exist in the video?",
+        "answer": "[0.0s, 8.9s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video66",
+        "question_id": 373
+    },
+    {
+        "video_id": "video_374",
+        "question": "When does the text 'TEEZ' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls4_Celebrity_video35",
+        "question_id": 374
+    },
+    {
+        "video_id": "video_375",
+        "question": "When does the text '六月' exist in the video?",
+        "answer": "[0.0s, 0.1s]",
+        "type":"TextLocalization",
+        "source": "Cls1_Livestreaming_video27",
+        "question_id": 375
+    },
+    {
+        "video_id": "video_376",
+        "question": "When does the text '李佳航' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls13_Introduction_video55",
+        "question_id": 376
+    },
+    {
+        "video_id": "video_377",
+        "question": "When does the text '还是哪里的杏花' exist in the video?",
+        "answer": "[1.1s, 4.5s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video10",
+        "question_id": 377
+    },
+    {
+        "video_id": "video_378",
+        "question": "When does the text '男生最讨厌的女生穿搭' exist in the video?",
+        "answer": "[0.0s, 11.5s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video26",
+        "question_id": 378
+    },
+    {
+        "video_id": "video_379",
+        "question": "When does the text '哥再买一杯奶茶' exist in the video?",
+        "answer": "[0.0s, 2.4s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video30",
+        "question_id": 379
+    },
+    {
+        "video_id": "video_380",
+        "question": "When does the text '希望你妈能善待你' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "Cls20_Campus_video14",
+        "question_id": 380
+    },
+    {
+        "video_id": "video_381",
+        "question": "When does the text '2.江西' exist in the video?",
+        "answer": "[0.0s, 4.3s]",
+        "type":"TextLocalization",
+        "source": "Cls18_Travel_video50",
+        "question_id": 381
+    },
+    {
+        "video_id": "video_382",
+        "question": "When does the text '恐龙成为农民' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video21",
+        "question_id": 382
+    },
+    {
+        "video_id": "video_383",
+        "question": "When does the text 'MY FACE LOOKS A STRTE' exist in the video?",
+        "answer": "[0.0s, 2.4s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video48",
+        "question_id": 383
+    },
+    {
+        "video_id": "video_384",
+        "question": "When does the text '-22°' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "Cls5_Advertising_video20",
+        "question_id": 384
+    },
+    {
+        "video_id": "video_385",
+        "question": "When does the text '今天的作业' exist in the video?",
+        "answer": "[0.0s, 1.0s]",
+        "type":"TextLocalization",
+        "source": "Cls2_Cartoon_video35",
+        "question_id": 385
+    },
+    {
+        "video_id": "video_386",
+        "question": "When does the text '陇川融媒' exist in the video?",
+        "answer": "[0.0s, 7.2s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video12",
+        "question_id": 386
+    },
+    {
+        "video_id": "video_387",
+        "question": "When does the text '恐龙成为农民' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls11_Movie_video87",
+        "question_id": 387
+    },
+    {
+        "video_id": "video_388",
+        "question": "When does the text 'SUBSCRIBE' exist in the video?",
+        "answer": "[0.0s, 6.1s]",
+        "type":"TextLocalization",
+        "source": "Cls15_Photograph_video69",
+        "question_id": 388
+    },
+    {
+        "video_id": "video_389",
+        "question": "When does the text '1' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video53",
+        "question_id": 389
+    },
+    {
+        "video_id": "video_390",
+        "question": "When does the text 'DUMKIN'' exist in the video?",
+        "answer": "[0.0s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video78",
+        "question_id": 390
+    },
+    {
+        "video_id": "video_391",
+        "question": "When does the text '你100元一瓶买的燕窝，' exist in the video?",
+        "answer": "[0.0s, 2.8s]",
+        "type":"TextLocalization",
+        "source": "Cls27_Education_video35",
+        "question_id": 391
+    },
+    {
+        "video_id": "video_392",
+        "question": "When does the text 'Welcome Back' exist in the video?",
+        "answer": "[0.0s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Cls17_Speech_video67",
+        "question_id": 392
+    },
+    {
+        "video_id": "video_393",
+        "question": "When does the text '想你～～' exist in the video?",
+        "answer": "[0.0s, 1.8s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video68",
+        "question_id": 393
+    },
+    {
+        "video_id": "video_394",
+        "question": "When does the text '因为在美国真的真的需要等好多好多时间' exist in the video?",
+        "answer": "[0.0s, 1.4s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video88",
+        "question_id": 394
+    },
+    {
+        "video_id": "video_395",
+        "question": "When does the text '这个还有盒子' exist in the video?",
+        "answer": "[0.0s, 1.0s]",
+        "type":"TextLocalization",
+        "source": "Cls8_Comedy_video26",
+        "question_id": 395
+    },
+    {
+        "video_id": "video_396",
+        "question": "When does the text 'INITY' exist in the video?",
+        "answer": "[1.1s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "Cls14_Talent_video76",
+        "question_id": 396
+    },
+    {
+        "video_id": "video_397",
+        "question": "When does the text '司机凌晨疲劳驾驶' exist in the video?",
+        "answer": "[0.0s, 20.2s]",
+        "type":"TextLocalization",
+        "source": "Cls6_NewsReport_video35",
+        "question_id": 397
+    },
+    {
+        "video_id": "video_398",
+        "question": "When does the text '明星' exist in the video?",
+        "answer": "[0.0s, 2.3s]",
+        "type":"TextLocalization",
+        "source": "Cls26_Technology_video22",
+        "question_id": 398
+    },
+    {
+        "video_id": "video_399",
+        "question": "When does the text 'F' exist in the video?",
+        "answer": "[0.0s, 17.1s]",
+        "type":"TextLocalization",
+        "source": "Cls19_Fashion_video24",
+        "question_id": 399
+    },
+    {
+        "video_id": "video_400",
+        "question": "When does the text 'What? Fuck! There's a bridge coming!' exist in the video?",
+        "answer": "[0.0s, 0.8s]",
+        "type":"TextLocalization",
+        "source": "Cls21_Vlog_video87",
+        "question_id": 400
+    },
+    {
+        "video_id": "video_401",
+        "question": "When does the text 'T' exist in the video?",
+        "answer": "[8.5s, 10.1s]",
+        "type":"TextLocalization",
+        "source": "701",
+        "question_id": 401
+    },
+    {
+        "video_id": "video_402",
+        "question": "When does the text 'VAN SINDE' exist in the video?",
+        "answer": "[0.0s, 4.7s]",
+        "type":"TextLocalization",
+        "source": "702",
+        "question_id": 402
+    },
+    {
+        "video_id": "video_403",
+        "question": "When does the text 'Service' exist in the video?",
+        "answer": "[0.5s, 1.2s]",
+        "type":"TextLocalization",
+        "source": "703",
+        "question_id": 403
+    },
+    {
+        "video_id": "video_404",
+        "question": "When does the text 'feel' exist in the video?",
+        "answer": "[0.3s, 8.9s]",
+        "type":"TextLocalization",
+        "source": "704",
+        "question_id": 404
+    },
+    {
+        "video_id": "video_405",
+        "question": "When does the text 'STATE CAR' exist in the video?",
+        "answer": "[3.3s, 3.4s]",
+        "type":"TextLocalization",
+        "source": "705",
+        "question_id": 405
+    },
+    {
+        "video_id": "video_406",
+        "question": "When does the text 'ROAD WORK Q.M.T' exist in the video?",
+        "answer": "[6.4s, 8.2s]",
+        "type":"TextLocalization",
+        "source": "706",
+        "question_id": 406
+    },
+    {
+        "video_id": "video_407",
+        "question": "When does the text 'I LN OPEN BOTH DIR' exist in the video?",
+        "answer": "[7.2s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "707",
+        "question_id": 407
+    },
+    {
+        "video_id": "video_408",
+        "question": "When does the text 'Financial Services' exist in the video?",
+        "answer": "[2.0s, 2.2s]",
+        "type":"TextLocalization",
+        "source": "708",
+        "question_id": 408
+    },
+    {
+        "video_id": "video_409",
+        "question": "When does the text 'Woodhaven' exist in the video?",
+        "answer": "[3.8s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "709",
+        "question_id": 409
+    },
+    {
+        "video_id": "video_410",
+        "question": "When does the text '30' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "710",
+        "question_id": 410
+    },
+    {
+        "video_id": "video_411",
+        "question": "When does the text 'GMC' exist in the video?",
+        "answer": "[3.9s, 10.1s]",
+        "type":"TextLocalization",
+        "source": "711",
+        "question_id": 411
+    },
+    {
+        "video_id": "video_412",
+        "question": "When does the text '34' exist in the video?",
+        "answer": "[0.0s, 2.9s]",
+        "type":"TextLocalization",
+        "source": "712",
+        "question_id": 412
+    },
+    {
+        "video_id": "video_413",
+        "question": "When does the text 'Tun' exist in the video?",
+        "answer": "[8.0s, 9.3s]",
+        "type":"TextLocalization",
+        "source": "713",
+        "question_id": 413
+    },
+    {
+        "video_id": "video_414",
+        "question": "When does the text 'To' exist in the video?",
+        "answer": "[1.4s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "714",
+        "question_id": 414
+    },
+    {
+        "video_id": "video_415",
+        "question": "When does the text '495' exist in the video?",
+        "answer": "[1.6s, 4.8s]",
+        "type":"TextLocalization",
+        "source": "715",
+        "question_id": 415
+    },
+    {
+        "video_id": "video_416",
+        "question": "When does the text 'Expwy' exist in the video?",
+        "answer": "[4.0s, 7.1s]",
+        "type":"TextLocalization",
+        "source": "716",
+        "question_id": 416
+    },
+    {
+        "video_id": "video_417",
+        "question": "When does the text 'NO ACCESS TO' exist in the video?",
+        "answer": "[3.1s, 4.0s]",
+        "type":"TextLocalization",
+        "source": "717",
+        "question_id": 417
+    },
+    {
+        "video_id": "video_418",
+        "question": "When does the text 'HENRY HUDSON PKWY' exist in the video?",
+        "answer": "[4.4s, 4.7s]",
+        "type":"TextLocalization",
+        "source": "718",
+        "question_id": 418
+    },
+    {
+        "video_id": "video_419",
+        "question": "When does the text 'EXIT 1/2 MILE' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "719",
+        "question_id": 419
+    },
+    {
+        "video_id": "video_420",
+        "question": "When does the text '870D' exist in the video?",
+        "answer": "[6.9s, 7.0s]",
+        "type":"TextLocalization",
+        "source": "720",
+        "question_id": 420
+    },
+    {
+        "video_id": "video_421",
+        "question": "When does the text 'LEFT TURN' exist in the video?",
+        "answer": "[5.3s, 6.2s]",
+        "type":"TextLocalization",
+        "source": "721",
+        "question_id": 421
+    },
+    {
+        "video_id": "video_422",
+        "question": "When does the text '12' exist in the video?",
+        "answer": "[5.3s, 6.7s]",
+        "type":"TextLocalization",
+        "source": "722",
+        "question_id": 422
+    },
+    {
+        "video_id": "video_423",
+        "question": "When does the text 'WEST' exist in the video?",
+        "answer": "[0.0s, 9.6s]",
+        "type":"TextLocalization",
+        "source": "723",
+        "question_id": 423
+    },
+    {
+        "video_id": "video_424",
+        "question": "When does the text 'DRIVEWAY' exist in the video?",
+        "answer": "[6.3s, 7.9s]",
+        "type":"TextLocalization",
+        "source": "724",
+        "question_id": 424
+    },
+    {
+        "video_id": "video_425",
+        "question": "When does the text '649' exist in the video?",
+        "answer": "[6.9s, 7.3s]",
+        "type":"TextLocalization",
+        "source": "725",
+        "question_id": 425
+    },
+    {
+        "video_id": "video_426",
+        "question": "When does the text 'ZONE' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "726",
+        "question_id": 426
+    },
+    {
+        "video_id": "video_427",
+        "question": "When does the text 'nail' exist in the video?",
+        "answer": "[4.7s, 8.0s]",
+        "type":"TextLocalization",
+        "source": "727",
+        "question_id": 427
+    },
+    {
+        "video_id": "video_428",
+        "question": "When does the text 'H' exist in the video?",
+        "answer": "[0.5s, 2.3s]",
+        "type":"TextLocalization",
+        "source": "728",
+        "question_id": 428
+    },
+    {
+        "video_id": "video_429",
+        "question": "When does the text '95' exist in the video?",
+        "answer": "[0.3s, 6.0s]",
+        "type":"TextLocalization",
+        "source": "729",
+        "question_id": 429
+    },
+    {
+        "video_id": "video_430",
+        "question": "When does the text '130' exist in the video?",
+        "answer": "[8.7s, 9.8s]",
+        "type":"TextLocalization",
+        "source": "730",
+        "question_id": 430
+    },
+    {
+        "video_id": "video_431",
+        "question": "When does the text '24B' exist in the video?",
+        "answer": "[5.4s, 7.4s]",
+        "type":"TextLocalization",
+        "source": "731",
+        "question_id": 431
+    },
+    {
+        "video_id": "video_432",
+        "question": "When does the text 'Cross Island Pkwy' exist in the video?",
+        "answer": "[5.8s, 7.5s]",
+        "type":"TextLocalization",
+        "source": "732",
+        "question_id": 432
+    },
+    {
+        "video_id": "video_433",
+        "question": "When does the text 'Santa Clara' exist in the video?",
+        "answer": "[3.3s, 4.4s]",
+        "type":"TextLocalization",
+        "source": "733",
+        "question_id": 433
+    },
+    {
+        "video_id": "video_434",
+        "question": "When does the text 'NORTH' exist in the video?",
+        "answer": "[0.0s, 1.1s]",
+        "type":"TextLocalization",
+        "source": "734",
+        "question_id": 434
+    },
+    {
+        "video_id": "video_435",
+        "question": "When does the text 'LEFT LANE' exist in the video?",
+        "answer": "[0.3s, 1.3s]",
+        "type":"TextLocalization",
+        "source": "735",
+        "question_id": 435
+    },
+    {
+        "video_id": "video_436",
+        "question": "When does the text 'Executive Choice Transportation' exist in the video?",
+        "answer": "[9.0s, 9.5s]",
+        "type":"TextLocalization",
+        "source": "736",
+        "question_id": 436
+    },
+    {
+        "video_id": "video_437",
+        "question": "When does the text 'ROAD' exist in the video?",
+        "answer": "[9.3s, 9.8s]",
+        "type":"TextLocalization",
+        "source": "737",
+        "question_id": 437
+    },
+    {
+        "video_id": "video_438",
+        "question": "When does the text '31' exist in the video?",
+        "answer": "[1.7s, 8.6s]",
+        "type":"TextLocalization",
+        "source": "738",
+        "question_id": 438
+    },
+    {
+        "video_id": "video_439",
+        "question": "When does the text 'PhoNice' exist in the video?",
+        "answer": "[4.1s, 4.7s]",
+        "type":"TextLocalization",
+        "source": "739",
+        "question_id": 439
+    },
+    {
+        "video_id": "video_440",
+        "question": "When does the text '6SXJ755' exist in the video?",
+        "answer": "[2.6s, 3.0s]",
+        "type":"TextLocalization",
+        "source": "740",
+        "question_id": 440
+    },
+    {
+        "video_id": "video_441",
+        "question": "When does the text 'Park' exist in the video?",
+        "answer": "[0.0s, 4.5s]",
+        "type":"TextLocalization",
+        "source": "741",
+        "question_id": 441
+    },
+    {
+        "video_id": "video_442",
+        "question": "When does the text '339XX' exist in the video?",
+        "answer": "[2.3s, 3.5s]",
+        "type":"TextLocalization",
+        "source": "742",
+        "question_id": 442
+    },
+    {
+        "video_id": "video_443",
+        "question": "When does the text 'LIMIT' exist in the video?",
+        "answer": "[0.0s, 1.6s]",
+        "type":"TextLocalization",
+        "source": "743",
+        "question_id": 443
+    },
+    {
+        "video_id": "video_444",
+        "question": "When does the text 'ALL TRUCKS' exist in the video?",
+        "answer": "[3.7s, 5.6s]",
+        "type":"TextLocalization",
+        "source": "744",
+        "question_id": 444
+    },
+    {
+        "video_id": "video_445",
+        "question": "When does the text 'Ramat' exist in the video?",
+        "answer": "[0.0s, 7.8s]",
+        "type":"TextLocalization",
+        "source": "745",
+        "question_id": 445
+    },
+    {
+        "video_id": "video_446",
+        "question": "When does the text '6686' exist in the video?",
+        "answer": "[3.0s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "746",
+        "question_id": 446
+    },
+    {
+        "video_id": "video_447",
+        "question": "When does the text 'ONE WAY' exist in the video?",
+        "answer": "[4.4s, 6.2s]",
+        "type":"TextLocalization",
+        "source": "747",
+        "question_id": 447
+    },
+    {
+        "video_id": "video_448",
+        "question": "When does the text '020125' exist in the video?",
+        "answer": "[9.0s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "748",
+        "question_id": 448
+    },
+    {
+        "video_id": "video_449",
+        "question": "When does the text 'STREET' exist in the video?",
+        "answer": "[3.2s, 4.9s]",
+        "type":"TextLocalization",
+        "source": "749",
+        "question_id": 449
+    },
+    {
+        "video_id": "video_450",
+        "question": "When does the text 'TERMINAL' exist in the video?",
+        "answer": "[2.2s, 3.2s]",
+        "type":"TextLocalization",
+        "source": "750",
+        "question_id": 450
+    },
+    {
+        "video_id": "video_451",
+        "question": "When does the text 'MUST' exist in the video?",
+        "answer": "[3.6s, 4.7s]",
+        "type":"TextLocalization",
+        "source": "751",
+        "question_id": 451
+    },
+    {
+        "video_id": "video_452",
+        "question": "When does the text 'VS' exist in the video?",
+        "answer": "[0.0s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "755",
+        "question_id": 452
+    },
+    {
+        "video_id": "video_453",
+        "question": "When does the text 'BRIDGE' exist in the video?",
+        "answer": "[6.3s, 7.8s]",
+        "type":"TextLocalization",
+        "source": "756",
+        "question_id": 453
+    },
+    {
+        "video_id": "video_454",
+        "question": "When does the text '32' exist in the video?",
+        "answer": "[5.9s, 8.5s]",
+        "type":"TextLocalization",
+        "source": "758",
+        "question_id": 454
+    },
+    {
+        "video_id": "video_455",
+        "question": "When does the text 'PO BOX 14669' exist in the video?",
+        "answer": "[2.7s, 3.3s]",
+        "type":"TextLocalization",
+        "source": "759",
+        "question_id": 455
+    },
+    {
+        "video_id": "video_456",
+        "question": "When does the text 'NORTH' exist in the video?",
+        "answer": "[4.0s, 7.9s]",
+        "type":"TextLocalization",
+        "source": "760",
+        "question_id": 456
+    },
+    {
+        "video_id": "video_457",
+        "question": "When does the text 'T746561C' exist in the video?",
+        "answer": "[6.3s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "761",
+        "question_id": 457
+    },
+    {
+        "video_id": "video_458",
+        "question": "When does the text 'Bene' exist in the video?",
+        "answer": "[8.5s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "762",
+        "question_id": 458
+    },
+    {
+        "video_id": "video_459",
+        "question": "When does the text 'EAST' exist in the video?",
+        "answer": "[0.0s, 3.0s]",
+        "type":"TextLocalization",
+        "source": "763",
+        "question_id": 459
+    },
+    {
+        "video_id": "video_460",
+        "question": "When does the text 'n25' exist in the video?",
+        "answer": "[8.3s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "764",
+        "question_id": 460
+    },
+    {
+        "video_id": "video_461",
+        "question": "When does the text '6565' exist in the video?",
+        "answer": "[1.6s, 9.3s]",
+        "type":"TextLocalization",
+        "source": "765",
+        "question_id": 461
+    },
+    {
+        "video_id": "video_462",
+        "question": "When does the text 'EXIT' exist in the video?",
+        "answer": "[4.5s, 5.7s]",
+        "type":"TextLocalization",
+        "source": "766",
+        "question_id": 462
+    },
+    {
+        "video_id": "video_463",
+        "question": "When does the text '85-213-26' exist in the video?",
+        "answer": "[8.7s, 10.1s]",
+        "type":"TextLocalization",
+        "source": "767",
+        "question_id": 463
+    },
+    {
+        "video_id": "video_464",
+        "question": "When does the text '85.213.26' exist in the video?",
+        "answer": "[0.0s, 8.8s]",
+        "type":"TextLocalization",
+        "source": "768",
+        "question_id": 464
+    },
+    {
+        "video_id": "video_465",
+        "question": "When does the text 'V' exist in the video?",
+        "answer": "[8.5s, 9.5s]",
+        "type":"TextLocalization",
+        "source": "769",
+        "question_id": 465
+    },
+    {
+        "video_id": "video_466",
+        "question": "When does the text 'AMA' exist in the video?",
+        "answer": "[5.4s, 6.7s]",
+        "type":"TextLocalization",
+        "source": "770",
+        "question_id": 466
+    },
+    {
+        "video_id": "video_467",
+        "question": "When does the text 'EXIT' exist in the video?",
+        "answer": "[0.5s, 9.9s]",
+        "type":"TextLocalization",
+        "source": "771",
+        "question_id": 467
+    },
+    {
+        "video_id": "video_468",
+        "question": "When does the text 'LEFT LANE' exist in the video?",
+        "answer": "[4.6s, 6.0s]",
+        "type":"TextLocalization",
+        "source": "772",
+        "question_id": 468
+    },
+    {
+        "video_id": "video_469",
+        "question": "When does the text 'Lighthouse Rd' exist in the video?",
+        "answer": "[0.0s, 0.3s]",
+        "type":"TextLocalization",
+        "source": "773",
+        "question_id": 469
+    },
+    {
+        "video_id": "video_470",
+        "question": "When does the text 'NEXT' exist in the video?",
+        "answer": "[7.4s, 8.3s]",
+        "type":"TextLocalization",
+        "source": "774",
+        "question_id": 470
+    },
+    {
+        "video_id": "video_471",
+        "question": "When does the text 'Exits' exist in the video?",
+        "answer": "[4.9s, 5.8s]",
+        "type":"TextLocalization",
+        "source": "775",
+        "question_id": 471
+    },
+    {
+        "video_id": "video_472",
+        "question": "When does the text 'SERVICES' exist in the video?",
+        "answer": "[0.0s, 2.0s]",
+        "type":"TextLocalization",
+        "source": "776",
+        "question_id": 472
+    },
+    {
+        "video_id": "video_473",
+        "question": "When does the text 'URGENT' exist in the video?",
+        "answer": "[6.8s, 7.4s]",
+        "type":"TextLocalization",
+        "source": "777",
+        "question_id": 473
+    },
+    {
+        "video_id": "video_474",
+        "question": "When does the text 'SPEED' exist in the video?",
+        "answer": "[9.5s, 9.9s]",
+        "type":"TextLocalization",
+        "source": "778",
+        "question_id": 474
+    },
+    {
+        "video_id": "video_475",
+        "question": "When does the text 'US 220 Mc Multan Hwy' exist in the video?",
+        "answer": "[6.3s, 6.5s]",
+        "type":"TextLocalization",
+        "source": "779",
+        "question_id": 475
+    },
+    {
+        "video_id": "video_476",
+        "question": "When does the text 'TRUCK' exist in the video?",
+        "answer": "[6.2s, 7.1s]",
+        "type":"TextLocalization",
+        "source": "780",
+        "question_id": 476
+    },
+    {
+        "video_id": "video_477",
+        "question": "When does the text '8' exist in the video?",
+        "answer": "[8.7s, 9.4s]",
+        "type":"TextLocalization",
+        "source": "781",
+        "question_id": 477
+    },
+    {
+        "video_id": "video_478",
+        "question": "When does the text 'South' exist in the video?",
+        "answer": "[0.0s, 3.8s]",
+        "type":"TextLocalization",
+        "source": "782",
+        "question_id": 478
+    },
+    {
+        "video_id": "video_479",
+        "question": "When does the text 'SCHOOL' exist in the video?",
+        "answer": "[8.0s, 8.7s]",
+        "type":"TextLocalization",
+        "source": "783",
+        "question_id": 479
+    },
+    {
+        "video_id": "video_480",
+        "question": "When does the text 'AHEAD' exist in the video?",
+        "answer": "[5.8s, 6.7s]",
+        "type":"TextLocalization",
+        "source": "784",
+        "question_id": 480
+    },
+    {
+        "video_id": "video_481",
+        "question": "When does the text 'SLOW' exist in the video?",
+        "answer": "[4.9s, 5.8s]",
+        "type":"TextLocalization",
+        "source": "785",
+        "question_id": 481
+    },
+    {
+        "video_id": "video_482",
+        "question": "When does the text 'SLOW' exist in the video?",
+        "answer": "[6.5s, 7.3s]",
+        "type":"TextLocalization",
+        "source": "786",
+        "question_id": 482
+    },
+    {
+        "video_id": "video_483",
+        "question": "When does the text 'rabbins' exist in the video?",
+        "answer": "[4.0s, 7.5s]",
+        "type":"TextLocalization",
+        "source": "787",
+        "question_id": 483
+    },
+    {
+        "video_id": "video_484",
+        "question": "When does the text 'NO' exist in the video?",
+        "answer": "[0.0s, 9.9s]",
+        "type":"TextLocalization",
+        "source": "788",
+        "question_id": 484
+    },
+    {
+        "video_id": "video_485",
+        "question": "When does the text 'Pulaski' exist in the video?",
+        "answer": "[6.6s, 8.0s]",
+        "type":"TextLocalization",
+        "source": "789",
+        "question_id": 485
+    },
+    {
+        "video_id": "video_486",
+        "question": "When does the text '4' exist in the video?",
+        "answer": "[0.1s, 0.4s]",
+        "type":"TextLocalization",
+        "source": "790",
+        "question_id": 486
+    },
+    {
+        "video_id": "video_487",
+        "question": "When does the text 'YORK' exist in the video?",
+        "answer": "[0.0s, 2.0s]",
+        "type":"TextLocalization",
+        "source": "791",
+        "question_id": 487
+    },
+    {
+        "video_id": "video_488",
+        "question": "When does the text 'Val vista' exist in the video?",
+        "answer": "[1.1s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "792",
+        "question_id": 488
+    },
+    {
+        "video_id": "video_489",
+        "question": "When does the text 'Brooklyn' exist in the video?",
+        "answer": "[1.9s, 2.6s]",
+        "type":"TextLocalization",
+        "source": "793",
+        "question_id": 489
+    },
+    {
+        "video_id": "video_490",
+        "question": "When does the text '46A' exist in the video?",
+        "answer": "[6.5s, 7.7s]",
+        "type":"TextLocalization",
+        "source": "794",
+        "question_id": 490
+    },
+    {
+        "video_id": "video_491",
+        "question": "When does the text '624' exist in the video?",
+        "answer": "[0.9s, 2.5s]",
+        "type":"TextLocalization",
+        "source": "795",
+        "question_id": 491
+    },
+    {
+        "video_id": "video_492",
+        "question": "When does the text 'CHANGES' exist in the video?",
+        "answer": "[0.0s, 0.7s]",
+        "type":"TextLocalization",
+        "source": "796",
+        "question_id": 492
+    },
+    {
+        "video_id": "video_493",
+        "question": "When does the text 'TOLLS' exist in the video?",
+        "answer": "[3.9s, 5.9s]",
+        "type":"TextLocalization",
+        "source": "797",
+        "question_id": 493
+    },
+    {
+        "video_id": "video_494",
+        "question": "When does the text '495' exist in the video?",
+        "answer": "[9.3s, 10.1s]",
+        "type":"TextLocalization",
+        "source": "798",
+        "question_id": 494
+    },
+    {
+        "video_id": "video_495",
+        "question": "When does the text 'SPEED' exist in the video?",
+        "answer": "[6.1s, 6.6s]",
+        "type":"TextLocalization",
+        "source": "799",
+        "question_id": 495
+    },
+    {
+        "video_id": "video_496",
+        "question": "When does the text 'TRUCKS' exist in the video?",
+        "answer": "[9.2s, 10.0s]",
+        "type":"TextLocalization",
+        "source": "800",
+        "question_id": 496
+    },
+    {
+        "video_id": "video_497",
+        "question": "When does the text '07' exist in the video?",
+        "answer": "[7.4s, 8.6s]",
+        "type":"TextLocalization",
+        "source": "Video_105_0_5",
+        "question_id": 497
+    },
+    {
+        "video_id": "video_498",
+        "question": "When does the text 'bell' exist in the video?",
+        "answer": "[19.1s, 21.6s]",
+        "type":"TextLocalization",
+        "source": "Video_108_0_8",
+        "question_id": 498
+    },
+    {
+        "video_id": "video_499",
+        "question": "When does the text '4' exist in the video?",
+        "answer": "[0.0s, 20.0s]",
+        "type":"TextLocalization",
+        "source": "Video_112_1_2",
+        "question_id": 499
+    },
+    {
+        "video_id": "video_500",
+        "question": "When does the text '21 2nd' exist in the video?",
+        "answer": "[0.0s, 20.0s]",
+        "type":"TextLocalization",
+        "source": "Video_114_1_4",
+        "question_id": 500
+    },
+    {
+        "video_id": "video_501",
+        "question": "When does the text 'PE61UFK' exist in the video?",
+        "answer": "[15.4s, 16.6s]",
+        "type":"TextLocalization",
+        "source": "Video_121_2_1",
+        "question_id": 501
+    },
+    {
+        "video_id": "video_502",
+        "question": "When does the text 'thefork' exist in the video?",
+        "answer": "[0.0s, 1.5s]",
+        "type":"TextLocalization",
+        "source": "Video_122_2_2",
+        "question_id": 502
+    },
+    {
+        "video_id": "video_503",
+        "question": "When does the text 'Pa' exist in the video?",
+        "answer": "[3.8s, 7.8s]",
+        "type":"TextLocalization",
+        "source": "Video_123_2_3",
+        "question_id": 503
+    },
+    {
+        "video_id": "video_504",
+        "question": "When does the text 'STOP' exist in the video?",
+        "answer": "[0.0s, 3.1s]",
+        "type":"TextLocalization",
+        "source": "Video_125_2_5",
+        "question_id": 504
+    },
+    {
+        "video_id": "video_505",
+        "question": "When does the text 'AT' exist in the video?",
+        "answer": "[0.0s, 30.0s]",
+        "type":"TextLocalization",
+        "source": "Video_126_2_6",
+        "question_id": 505
+    },
+    {
+        "video_id": "video_506",
+        "question": "When does the text 'LXl8ANF' exist in the video?",
+        "answer": "[9.6s, 11.2s]",
+        "type":"TextLocalization",
+        "source": "Video_128_2_8",
+        "question_id": 506
+    },
+    {
+        "video_id": "video_507",
+        "question": "When does the text 'TISHMAN' exist in the video?",
+        "answer": "[7.7s, 11.0s]",
+        "type":"TextLocalization",
+        "source": "Video_132_3_2",
+        "question_id": 507
+    },
+    {
+        "video_id": "video_508",
+        "question": "When does the text 'YOOD' exist in the video?",
+        "answer": "[1.0s, 3.0s]",
+        "type":"TextLocalization",
+        "source": "Video_133_3_3",
+        "question_id": 508
+    },
+    {
+        "video_id": "video_509",
+        "question": "When does the text 'CUR' exist in the video?",
+        "answer": "[6.0s, 7.6s]",
+        "type":"TextLocalization",
+        "source": "Video_134_3_4",
+        "question_id": 509
+    },
+    {
+        "video_id": "video_510",
+        "question": "When does the text '50' exist in the video?",
+        "answer": "[7.4s, 12.2s]",
+        "type":"TextLocalization",
+        "source": "Video_135_3_5",
+        "question_id": 510
+    },
+    {
+        "video_id": "video_511",
+        "question": "When does the text 'NE' exist in the video?",
+        "answer": "[3.4s, 6.4s]",
+        "type":"TextLocalization",
+        "source": "Video_136_3_6",
+        "question_id": 511
+    },
+    {
+        "video_id": "video_512",
+        "question": "When does the text 'LING' exist in the video?",
+        "answer": "[2.5s, 4.7s]",
+        "type":"TextLocalization",
+        "source": "Video_143_4_3",
+        "question_id": 512
+    },
+    {
+        "video_id": "video_513",
+        "question": "When does the text 'SP' exist in the video?",
+        "answer": "[2.4s, 4.3s]",
+        "type":"TextLocalization",
+        "source": "Video_144_4_4",
+        "question_id": 513
+    },
+    {
+        "video_id": "video_514",
+        "question": "When does the text 'BORDERS' exist in the video?",
+        "answer": "[0.0s, 8.0s]",
+        "type":"TextLocalization",
+        "source": "Video_145_4_5",
+        "question_id": 514
+    },
+    {
+        "video_id": "video_515",
+        "question": "When does the text 'Cup' exist in the video?",
+        "answer": "[4.0s, 6.6s]",
+        "type":"TextLocalization",
+        "source": "Video_149_4_9",
+        "question_id": 515
+    },
+    {
+        "video_id": "video_516",
+        "question": "When does the text 'Mora' exist in the video?",
+        "answer": "[0.0s, 6.2s]",
+        "type":"TextLocalization",
+        "source": "Video_156_5_6",
+        "question_id": 516
+    },
+    {
+        "video_id": "video_517",
+        "question": "When does the text '23' exist in the video?",
+        "answer": "[0.2s, 1.6s]",
+        "type":"TextLocalization",
+        "source": "Video_162_6_2",
+        "question_id": 517
+    },
+    {
+        "video_id": "video_518",
+        "question": "When does the text 'ON' exist in the video?",
+        "answer": "[17.3s, 20.0s]",
+        "type":"TextLocalization",
+        "source": "Video_167_6_7",
+        "question_id": 518
+    },
+    {
+        "video_id": "video_519",
+        "question": "When does the text 'Occasion' exist in the video?",
+        "answer": "[3.5s, 4.6s]",
+        "type":"TextLocalization",
+        "source": "Video_171_7_1",
+        "question_id": 519
+    },
+    {
+        "video_id": "video_520",
+        "question": "When does the text 'RESH' exist in the video?",
+        "answer": "[2.6s, 3.8s]",
+        "type":"TextLocalization",
+        "source": "Video_172_7_2",
+        "question_id": 520
+    },
+    {
+        "video_id": "video_521",
+        "question": "When does the text 'If' exist in the video?",
+        "answer": "[0.0s, 9.2s]",
+        "type":"TextLocalization",
+        "source": "Video_174_7_4",
+        "question_id": 521
+    },
+    {
+        "video_id": "video_522",
+        "question": "When does the text 'Seiect' exist in the video?",
+        "answer": "[0.2s, 2.8s]",
+        "type":"TextLocalization",
+        "source": "Video_175_7_5",
+        "question_id": 522
+    },
+    {
+        "video_id": "video_523",
+        "question": "When does the text 'your' exist in the video?",
+        "answer": "[9.0s, 13.6s]",
+        "type":"TextLocalization",
+        "source": "Video_178_7_8",
+        "question_id": 523
+    },
+    {
+        "video_id": "video_524",
+        "question": "When does the text 'ay' exist in the video?",
+        "answer": "[4.2s, 5.8s]",
+        "type":"TextLocalization",
+        "source": "Video_184_8_4",
+        "question_id": 524
+    },
+    {
+        "video_id": "video_525",
+        "question": "When does the text 'NOW' exist in the video?",
+        "answer": "[6.0s, 11.0s]",
+        "type":"TextLocalization",
+        "source": "Video_192_9_2",
+        "question_id": 525
+    },
+    {
+        "video_id": "video_526",
+        "question": "When does the text 'VODK' exist in the video?",
+        "answer": "[1.8s, 18.8s]",
+        "type":"TextLocalization",
+        "source": "Video_196_9_6",
+        "question_id": 526
+    },
+    {
+        "video_id": "video_527",
+        "question": "When does the text 'ADVANCE' exist in the video?",
+        "answer": "[17.3s, 19.2s]",
+        "type":"TextLocalization",
+        "source": "Video_197_9_7",
+        "question_id": 527
+    },
+    {
+        "video_id": "video_528",
+        "question": "When does the text '￡2.00' exist in the video?",
+        "answer": "[0.0s, 2.7s]",
+        "type":"TextLocalization",
+        "source": "Video_199_9_9",
+        "question_id": 528
+    },
+    {
+        "video_id": "video_529",
+        "question": "When does the text 'THE' exist in the video?",
+        "answer": "[3.8s, 7.6s]",
+        "type":"TextLocalization",
+        "source": "Video_202_0_2",
+        "question_id": 529
+    },
+    {
+        "video_id": "video_530",
+        "question": "When does the text 'ALL' exist in the video?",
+        "answer": "[1.2s, 9.8s]",
+        "type":"TextLocalization",
+        "source": "Video_208_0_8",
+        "question_id": 530
+    },
+    {
+        "video_id": "video_531",
+        "question": "When does the text 'APPLE' exist in the video?",
+        "answer": "[6.3s, 7.9s]",
+        "type":"TextLocalization",
+        "source": "Video_209_0_9",
+        "question_id": 531
+    },
+    {
+        "video_id": "video_532",
+        "question": "When does the text 'Coffee' exist in the video?",
+        "answer": "[4.8s, 8.1s]",
+        "type":"TextLocalization",
+        "source": "Video_210_1_0",
+        "question_id": 532
+    },
+    {
+        "video_id": "video_533",
+        "question": "When does the text 'BASIL' exist in the video?",
+        "answer": "[0.0s, 1.7s]",
+        "type":"TextLocalization",
+        "source": "Video_211_1_1",
+        "question_id": 533
+    },
+    {
+        "video_id": "video_534",
+        "question": "When does the text 'WT:' exist in the video?",
+        "answer": "[0.0s, 3.0s]",
+        "type":"TextLocalization",
+        "source": "Video_214_1_4",
+        "question_id": 534
+    },
+    {
+        "video_id": "video_535",
+        "question": "When does the text 'AVOCADO' exist in the video?",
+        "answer": "[1.4s, 4.8s]",
+        "type":"TextLocalization",
+        "source": "Video_216_1_6",
+        "question_id": 535
+    },
+    {
+        "video_id": "video_536",
+        "question": "When does the text 'MARGA' exist in the video?",
+        "answer": "[4.8s, 8.3s]",
+        "type":"TextLocalization",
+        "source": "Video_218_1_8",
+        "question_id": 536
+    },
+    {
+        "video_id": "video_537",
+        "question": "When does the text 'De' exist in the video?",
+        "answer": "[0.0s, 2.0s]",
+        "type":"TextLocalization",
+        "source": "Video_220_2_0",
+        "question_id": 537
+    },
+    {
+        "video_id": "video_538",
+        "question": "When does the text 'GINGR' exist in the video?",
+        "answer": "[8.4s, 9.8s]",
+        "type":"TextLocalization",
+        "source": "Video_222_2_2",
+        "question_id": 538
+    },
+    {
+        "video_id": "video_539",
+        "question": "When does the text 'PERMITTED' exist in the video?",
+        "answer": "[7.7s, 9.2s]",
+        "type":"TextLocalization",
+        "source": "Video_223_2_3",
+        "question_id": 539
+    },
+    {
+        "video_id": "video_540",
+        "question": "When does the text 'FIKA' exist in the video?",
+        "answer": "[0.0s, 16.6s]",
+        "type":"TextLocalization",
+        "source": "Video_228_2_8",
+        "question_id": 540
+    },
+    {
+        "video_id": "video_541",
+        "question": "When does the text 'DENTIST' exist in the video?",
+        "answer": "[2.9s, 6.0s]",
+        "type":"TextLocalization",
+        "source": "Video_230_3_0",
+        "question_id": 541
+    },
+    {
+        "video_id": "video_542",
+        "question": "When does the text 'HOW' exist in the video?",
+        "answer": "[15.3s, 20.0s]",
+        "type":"TextLocalization",
+        "source": "Video_231_3_1",
+        "question_id": 542
+    },
+    {
+        "video_id": "video_543",
+        "question": "When does the text 'tIbank' exist in the video?",
+        "answer": "[8.5s, 10.8s]",
+        "type":"TextLocalization",
+        "source": "Video_232_3_2",
+        "question_id": 543
+    },
+    {
+        "video_id": "video_544",
+        "question": "When does the text 'DODGE' exist in the video?",
+        "answer": "[2.7s, 5.8s]",
+        "type":"TextLocalization",
+        "source": "Video_237_3_7",
+        "question_id": 544
+    },
+    {
+        "video_id": "video_545",
+        "question": "When does the text 'PARKWAY' exist in the video?",
+        "answer": "[7.8s, 8.8s]",
+        "type":"TextLocalization",
+        "source": "Video_239_3_9",
+        "question_id": 545
+    },
+    {
+        "video_id": "video_546",
+        "question": "When does the text 'MERCADO' exist in the video?",
+        "answer": "[0.9s, 6.3s]",
+        "type":"TextLocalization",
+        "source": "Video_242_4_2",
+        "question_id": 546
+    },
+    {
+        "video_id": "867_h264",
+        "question": "When does the text 'MODE OF TRANSPORT E-SCOOTER 3/5' exist in the video?",
+        "answer": "[20:15s, 20:20s]",
+        "type":"TextLocalization",
+        "source": "867",
+        "question_id": 547
+    },
+    {
+        "video_id": "868_h264",
+        "question": "When does the text 'tAWE beach bar grill' exist in the video?",
+        "answer": "[11:08s, 11:11s]",
+        "type":"TextLocalization",
+        "source": "868",
+        "question_id": 548
+    },
+    {
+        "video_id": "869_h264",
+        "question": "When does the text 'BLUFF FORT' exist in the video?",
+        "answer": "[22:35s, 22:38s]",
+        "type":"TextLocalization",
+        "source": "869",
+        "question_id": 549
+    },
+    {
+        "video_id": "881_h264",
+        "question": "When does the text 'SUBSCRIBE! TURN ON NOTIFICATIONS' exist in the video?",
+        "answer": "[9:02s, 9:07s]",
+        "type":"TextLocalization",
+        "source": "881",
+        "question_id": 550
+    },
+    {
+        "video_id": "882_h264",
+        "question": "When does the text '/\"quitters don't tri, triathletes don't quit.\"/' exist in the video?",
+        "answer": "[20:45s, 20:50s]",
+        "type":"TextLocalization",
+        "source": "882",
+        "question_id": 551
+    },
+    {
+        "video_id": "883_h264",
+        "question": "When does the text 'Barbell squats' exist in the video?",
+        "answer": "[26:56s, 27:06s]",
+        "type":"TextLocalization",
+        "source": "883",
+        "question_id": 552
+    },
+    {
+        "video_id": "888_h264",
+        "question": "When does the text 'DEFICIT REVERSE LUNGES' exist in the video?",
+        "answer": "[17:49s, 19:00s]",
+        "type":"TextLocalization",
+        "source": "888",
+        "question_id": 553
+    },
+    {
+        "video_id": "889_h264",
+        "question": "When does the text 'BREAKFAST 06:45|24 HOURS UNTIL START' exist in the video?",
+        "answer": "[00:25s, 00:29s]",
+        "type":"TextLocalization",
+        "source": "889",
+        "question_id": 554
+    }
+    
+    
+    
+    
+]
