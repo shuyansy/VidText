@@ -95,7 +95,7 @@ The annotation file is readily accessible [here](https://github.com/shuyansy/Vid
 MLVU encompasses nine distinct tasks, which include multiple-choice tasks as well as free-form generation tasks. These tasks are specifically tailored for long-form video understanding, and are classified into three categories: holistic understanding, single detail understanding, and multi-detail understanding. Examples of the tasks are displayed below.
 
 
-![Task Examples of our VidText.](./figs/vidtext_viz.pdf)
+![Task Examples of our VidText.](./figs/vidtext_viz.png)
 
 ## Evaluation
 Please refer to our [evaluation](https://github.com/shuyansy/VidText/data/evaluation) folder for more details.
