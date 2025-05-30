@@ -14,14 +14,13 @@
   </a>
 </p>
 
-This repo contains the annotation data, inference code, and evaluation tools for the paper  
-“**VidText: Towards Comprehensive Evaluation for Video-Text Understanding**” &nbsp;([arXiv 2505.22810](https://arxiv.org/abs/2505.22810)).
+This is the official repo of “**VidText: Towards Comprehensive Evaluation for Video-Text Understanding**” &nbsp;([arXiv 2505.22810](https://arxiv.org/abs/2505.22810)).
 
 
 
 
 ## :bell: News:
-- 🥳 5/30/2025: We have released the VidText [Benchmark](https://huggingface.co/datasets/sy1998/VidText) and [Paper](https://arxiv.org/abs/2505.22810)! :fire:
+- 🥳 2025/05/30: We have released the VidText [Benchmark](https://huggingface.co/datasets/sy1998/VidText) and [Paper](https://arxiv.org/abs/2505.22810)! :fire:
 
 ## License
 Our dataset is under the CC-BY-NC-SA-4.0 license.
@@ -34,7 +33,7 @@ If the original authors of the related works still believe that the videos shoul
 
 
 ## Introduction
-We introduce VidText, a comprehensive benchmark designed explicitly for systematic evaluation of multimodal large language models (MLLMs) in dynamic video text understanding. VidText encompasses a diverse set of videos of varying lengths across 27 fine-grained genres, covering multiple languages and scenarios, and includes eight systematically designed tasks spanning both perception and reasoning dimensions. These tasks challenge MLLMs to leverage textual cues appearing dynamically within videos at various granularities—from holistic video-level understanding to fine-grained spatial-temporal grounding.
+We introduce VidText, a comprehensive benchmark designed explicitly for systematic evaluation of multimodal large language models (MLLMs) in video text understanding. VidText encompasses a diverse set of videos of varying lengths across 27 fine-grained genres, covering multiple languages and scenarios, and includes 8 designed tasks spanning both perception and reasoning dimensions. These tasks challenge MLLMs to leverage textual cues appearing dynamically within videos at various granularities—**from holistic video-level understanding to instance-level grounding**.
 
 Our extensive evaluation of 18 state-of-the-art multimodal LLMs, including proprietary models such as Gemini-1.5 Pro,GPT-4o and prominent open-source models like VideoLLaMA-3,Qwen2.5-VL,InternVL2.5 reveals substantial difficulties in effectively utilizing textual information in video contexts. Even the highest-performing models achieve an average accuracy of merely 45.3% across tasks, underscoring significant limitations in current MLLMs' OCR integration, temporal grounding, and multi-step reasoning capabilities.
 
@@ -96,15 +95,6 @@ Please refer to our [evaluation](https://github.com/shuyansy/VidText/data/evalua
 
 
 
-## Hosting and Maintenance
-The annotation files will be permanently retained. 
-
-If some videos are requested to be removed, we will replace them with a set of video frames sparsely sampled from the video and adjusted in resolution. Since **all the questions in VidText are only related to visual content** and do not involve audio, this will not significantly affect the validity of VidText (most existing MLLMs also understand videos by frame extraction).
-
-If even retaining the frame set is not allowed, we will still keep the relevant annotation files, and replace them with the meta-information of the video, or actively seek more reliable and risk-free video sources.
-
-
-
 
 
 ## Citation
@@ -112,7 +102,14 @@ If even retaining the frame set is not allowed, we will still keep the relevant 
 If you find this repository useful, please consider giving a star :star: and citation
 
 ```
-
+```
+@article{VidText,
+  title={VidText: Towards Comprehensive Evaluation for Video-Text Understanding},
+  author={Yang, Zhoufaran and Shu, Yan and Yang, Zhifei and Zhang, Yan and Li, Yu and Lu, Keyang and Zeng, Gangyan and Liu, Shaohui and Zhou, Yu and Sebe, Nicu},
+  journal={arXiv preprint arXiv:2505.22810},
+  year={2025}
+}
+```
 ```
 
 
