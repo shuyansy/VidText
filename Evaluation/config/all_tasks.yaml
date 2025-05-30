@@ -1,0 +1,9 @@
+holistic_ocr:
+  model_path: /data/yangzhifei/project/Qwen2.5-VL-72B-Instruct
+  video_dir: /data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/HolisticOCR/Videos1
+  annotation_path: /data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/HolisticOCR/holisticOCRTest1.json
+
+holistic_reasoning:
+  model_path: /data/yangzhifei/project/Qwen2.5-VL-72B-Instruct
+  video_dir: /data/yangzhifei/project/benchmark/newHolisticReasoning/newHolisticReasoning/videos
+  annotation_path: /data/yangzhifei/project/benchmark/newHolisticReasoning/newHolisticReasoning/new_hoReasoning.json
