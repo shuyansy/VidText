@@ -45,7 +45,7 @@ We anticipate that VidText will serve as a crucial catalyst for future research,
 
 ### The overall performance on VidText
 
-| Method | Size | Avg. | HoliOCR | HoliRea. | LocalOCR | LocalRea. | TextLocal. | TempCauRea. | TextTrac. | SpaRea. |
+| Method | Size | Avg. | HolisticOCR | HoliReasoning | LocalOCR | LocalReasoning | TextLocalization | TemporalCausalReasoning | TextTracking | SpatialReasoning |
 |--------|------|------|---------|----------|----------|-----------|------------|-------------|-----------|---------|
 | *Human* | -- | 89.5 | 92.8 | 96.0 | 94.3 | 95.7 | 81.3 | 88.6 | 80.3 | 87.3 |
 | **Proprietary LMMs** | | | | | | | | | | |
