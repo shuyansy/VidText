@@ -1,0 +1,2295 @@
+[
+    {
+        "video_id": "001",
+        "question_id": "003",
+        "video_type": "spatialReasoning",
+        "question": "When the score was 31:18 and 2:09 remained in the game, where was Player 8 located when attempting the three-point shot?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Left wing beyond the arc"
+            },
+            {
+                "option_id": "B",
+                "text": "Bottom-middle of the image, right 45-degree three-point position"
+            },
+            {
+                "option_id": "C",
+                "text": "Left corner three-point area"
+            },
+            {
+                "option_id": "D",
+                "text": "Top of the key"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "001",
+        "question_id": "004",
+        "video_type": "spatialReasoning",
+        "question": "When the score was 26:14 and 3:27 remained in the first quarter, where was the Suns' Player 1 located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Bottom-right of the image near the sideline"
+            },
+            {
+                "option_id": "B",
+                "text": "Top-left corner of the image near the three-point line"
+            },
+            {
+                "option_id": "C",
+                "text": "Top of the image near the half-court line"
+            },
+            {
+                "option_id": "D",
+                "text": "Center-right of the image, under the basket"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "002",
+        "question_id": "005",
+        "video_type": "spatialReasoning",
+        "question": "When 11:39 remained in the first quarter, where was the Timberwolves' (white jersey) Player 10 located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Top-center of the image near the half-court line"
+            },
+            {
+                "option_id": "B",
+                "text": "Bottom-left corner of the image near the baseline"
+            },
+            {
+                "option_id": "C",
+                "text": "Bottom-right of the image, outside the right corner three-point line"
+            },
+            {
+                "option_id": "D",
+                "text": "Right side of the image, near the free-throw line"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "002",
+        "question_id": "006",
+        "video_type": "spatialReasoning",
+        "question": "When the score was 12:9 and 6:42 remained in the first quarter, where was the Bucks' (green jersey) Player 18 located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Center of the image near the free-throw line"
+            },
+            {
+                "option_id": "B",
+                "text": "Bottom-right of the image near the baseline"
+            },
+            {
+                "option_id": "C",
+                "text": "Bottom-left of the image, outside the left corner three-point line"
+            },
+            {
+                "option_id": "D",
+                "text": "Top-left of the image near the three-point line"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "003",
+        "question_id": "011",
+        "video_type": "spatialReasoning",
+        "question": "When the score was 13:20 and 3:52 remained in the first quarter, where was the Thunder's Player 9 (white jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Middle-left of the image, outside the paint"
+            },
+            {
+                "option_id": "B",
+                "text": "Center of the image near the free-throw line"
+            },
+            {
+                "option_id": "C",
+                "text": "Top-right of the image near the three-point line"
+            },
+            {
+                "option_id": "D",
+                "text": "Bottom-right of the image near the baseline"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "003",
+        "question_id": "012",
+        "video_type": "spatialReasoning",
+        "question": "When the score was 19:26 and 10:47 remained in the second quarter, where was the Spurs' Player 30 (black jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Middle-left of the image, in the paint under the basket"
+            },
+            {
+                "option_id": "B",
+                "text": "Bottom-right of the image near the sideline"
+            },
+            {
+                "option_id": "C",
+                "text": "Center-right of the image, near the free-throw line"
+            },
+            {
+                "option_id": "D",
+                "text": "Top-left of the image near the three-point line"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "004",
+        "question_id": "013",
+        "video_type": "spatialReasoning",
+        "question": "When 11:13 remained in the first quarter, where was the Heat's Player 2 (black jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Bottom-center of the image, at the right 45-degree three-point spot"
+            },
+            {
+                "option_id": "B",
+                "text": "Top-right of the image near the three-point line"
+            },
+            {
+                "option_id": "C",
+                "text": "Middle-left of the image near the baseline"
+            },
+            {
+                "option_id": "D",
+                "text": "Center of the image near the free-throw line"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "004",
+        "question_id": "014",
+        "video_type": "spatialReasoning",
+        "question": "When 9:54 remained in the first quarter, which Heat player was defending the Knicks' Player 32 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 23 (black jersey)"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 12 (black jersey)"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 13 (black jersey)"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 5 (black jersey)"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "005",
+        "question_id": "019",
+        "video_type": "spatialReasoning",
+        "question": "When the score was 4:6, where was the Celtics' Player 0 (white jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Bottom-right of the image near the right corner three-point spot"
+            },
+            {
+                "option_id": "B",
+                "text": "Middle-right of the image near the baseline"
+            },
+            {
+                "option_id": "C",
+                "text": "Top-left of the image near the three-point line"
+            },
+            {
+                "option_id": "D",
+                "text": "Center of the image near the free-throw line"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "005",
+        "question_id": "020",
+        "video_type": "spatialReasoning",
+        "question": "When the score was 4:6 and 7:41 remained in the first quarter, where was the Celtics' Player 0 (white jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Middle-lower part of the image near the right 45-degree three-point spot"
+            },
+            {
+                "option_id": "B",
+                "text": "Bottom-left of the image near the left corner three-point spot"
+            },
+            {
+                "option_id": "C",
+                "text": "Middle-right of the image near the baseline"
+            },
+            {
+                "option_id": "D",
+                "text": "Top-left of the image near the three-point line"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "006",
+        "question_id": "021",
+        "video_type": "spatialReasoning",
+        "question": "When 11:54 remained in the first quarter, where was the Warriors' Player 4 (white jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Top-right of the image near the three-point line"
+            },
+            {
+                "option_id": "B",
+                "text": "Right-lower part of the image near the right corner three-point spot"
+            },
+            {
+                "option_id": "C",
+                "text": "Middle-left of the image near the baseline"
+            },
+            {
+                "option_id": "D",
+                "text": "Bottom-left of the image near the left corner three-point spot"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "006",
+        "question_id": "022",
+        "video_type": "spatialReasoning",
+        "question": "When 11:50 remained in the first quarter, where was the Warriors' Player 4 (white jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Middle-left of the image near the baseline"
+            },
+            {
+                "option_id": "B",
+                "text": "Top-right of the image near the three-point line"
+            },
+            {
+                "option_id": "C",
+                "text": "Bottom-left of the image near the left corner three-point spot"
+            },
+            {
+                "option_id": "D",
+                "text": "Middle-lower part of the image near the right 45-degree three-point spot"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "007",
+        "question_id": "026",
+        "video_type": "spatialReasoning",
+        "question": "When 8:37 remained in the first quarter, where was the Nets' Player 2 (black jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Bottom-left of the image near the left corner three-point spot"
+            },
+            {
+                "option_id": "B",
+                "text": "Middle-right of the image near the baseline"
+            },
+            {
+                "option_id": "C",
+                "text": "Middle-lower part of the image near the left side of the court"
+            },
+            {
+                "option_id": "D",
+                "text": "Top-left of the image near the three-point line"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "007",
+        "question_id": "028",
+        "video_type": "spatialReasoning",
+        "question": "When 6:41 remained in the first quarter, with the score 13:12, where was the Nets' Player 17 (black jersey) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Middle-right of the image near the right 45-degree three-point line"
+            },
+            {
+                "option_id": "B",
+                "text": "Bottom-center of the image near the baseline"
+            },
+            {
+                "option_id": "C",
+                "text": "Top-center of the image near the free-throw line"
+            },
+            {
+                "option_id": "D",
+                "text": "Middle-left of the image near the three-point line"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "008",
+        "question_id": "032",
+        "video_type": "spatialReasoning",
+        "question": "With the score 0:0, who is the player defending Timberwolves' Player 5 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 12"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 31"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 7"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 23"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "008",
+        "question_id": "033",
+        "video_type": "spatialReasoning",
+        "question": "With the score 0:2, who is the player defending Mavericks' Player 21 (blue jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 15"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 30"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 27"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 8"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "009",
+        "question_id": "035",
+        "video_type": "spatialReasoning",
+        "question": "With the score 0:0, who is the player defending Suns' Player 35 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 1"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 4"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 2"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 3"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "009",
+        "question_id": "037",
+        "video_type": "spatialReasoning",
+        "question": "With the score 26:10, who is defending Suns' Player 35 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 9"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 28"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 12"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 7"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "010",
+        "question_id": "039",
+        "video_type": "spatialReasoning",
+        "question": "With the score 0:0, who is defending Jazz Player 2 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 21"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 8"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 5"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 10"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "010",
+        "question_id": "041",
+        "video_type": "spatialReasoning",
+        "question": "With the score 2:7, which player set a pick for Jazz player 23 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "21"
+            },
+            {
+                "option_id": "B",
+                "text": "17"
+            },
+            {
+                "option_id": "C",
+                "text": "24"
+            },
+            {
+                "option_id": "D",
+                "text": "30"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "011",
+        "question_id": "043",
+        "video_type": "spatialReasoning",
+        "question": "With the score 0:0, which player is defending Bucks player 0 (green jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 5"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 11"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 9"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 14"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "011",
+        "question_id": "045",
+        "video_type": "spatialReasoning",
+        "question": "With the score 4:0, which player is defending Celtics player 9 (white jersey)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 12"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 6"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 15"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 3"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "012",
+        "question_id": "048",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:3, which player is defending Clippers player #40 (black)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player #32"
+            },
+            {
+                "option_id": "B",
+                "text": "Player #35"
+            },
+            {
+                "option_id": "C",
+                "text": "Player #22"
+            },
+            {
+                "option_id": "D",
+                "text": "Player #30"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "012",
+        "question_id": "049",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 2:3, which player set a screen for the Clippers' number 1 (black)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 40"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 32"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 50"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 30"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "013",
+        "question_id": "051",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:0, which outside player is double-teaming the Bucks' number 11 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 3 player"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 4 player"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 1 player"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 2 player"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "013",
+        "question_id": "052",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 4:4, which player is defending the Bucks' number 11 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 2 player"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 1 player"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 3 player"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 4 player"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "014",
+        "question_id": "055",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 2:0, who is guarding the Lakers' number 3 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player number 5"
+            },
+            {
+                "option_id": "B",
+                "text": "Player number 7"
+            },
+            {
+                "option_id": "C",
+                "text": "Player number 11"
+            },
+            {
+                "option_id": "D",
+                "text": "Player number 9"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "014",
+        "question_id": "057",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 16:18, which player is defending Lakers' number 12 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player number 11"
+            },
+            {
+                "option_id": "B",
+                "text": "Player number 7"
+            },
+            {
+                "option_id": "C",
+                "text": "Player number 9"
+            },
+            {
+                "option_id": "D",
+                "text": "Player number 5"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "015",
+        "question_id": "059",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 5:2, which player is defending Mavericks' number 77 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 23"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 21"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 0"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 9"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "015",
+        "question_id": "061",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 7:4, which player is defending Suns number 35 (purple)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 9"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 12"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 7"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 21"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "016",
+        "question_id": "063",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:0, which player is defending Rockets number 9 (red)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "12th player"
+            },
+            {
+                "option_id": "B",
+                "text": "3rd player"
+            },
+            {
+                "option_id": "C",
+                "text": "5th player"
+            },
+            {
+                "option_id": "D",
+                "text": "7th player"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "016",
+        "question_id": "065",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 3:2, which Rockets player (red) is in front of Spurs number 30 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "28"
+            },
+            {
+                "option_id": "B",
+                "text": "17"
+            },
+            {
+                "option_id": "C",
+                "text": "22"
+            },
+            {
+                "option_id": "D",
+                "text": "12"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "017",
+        "question_id": "067",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:5, which player is defending Clippers number 24 (white) under the basket?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "9"
+            },
+            {
+                "option_id": "B",
+                "text": "22"
+            },
+            {
+                "option_id": "C",
+                "text": "15"
+            },
+            {
+                "option_id": "D",
+                "text": "8"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "017",
+        "question_id": "069",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 18:17, who is defending Clippers number 77 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 10 is guarding"
+            },
+            {
+                "option_id": "B",
+                "text": "No defender, completely open"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 5 is providing close coverage"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 15 is defending"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "018",
+        "question_id": "071",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:0, who is defending Suns number 3 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 12 is providing coverage"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 23 is defending"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 1 is guarding"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 7 is defending"
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "019",
+        "question_id": "073",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:3, who is defending Warriors number 30 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 7 is guarding"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 12 is defending"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 3 is defending"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 5 is guarding"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "020",
+        "question_id": "074",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:1, who steals the ball from Timberwolves number 30 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 9 steals the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 12 intercepts the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 5 steals the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 3 makes the steal"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "021",
+        "question_id": "077",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:0, who is defending Nuggets number 15 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 3 is providing close coverage"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 10 is guarding"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 5 is defending"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 7 is defending"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "022",
+        "question_id": "079",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:0, which player is defending Spurs number 30 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Number 15"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 8"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 25"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 12"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "023",
+        "question_id": "080",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:2 and the remaining time is 11:19, who is defending Suns number 21 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No defender, completely open"
+            },
+            {
+                "option_id": "B",
+                "text": "Number 3"
+            },
+            {
+                "option_id": "C",
+                "text": "Number 14"
+            },
+            {
+                "option_id": "D",
+                "text": "Number 17"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "024",
+        "question_id": "082",
+        "video_type": "spatialReasoning",
+        "question": "When the score is 0:0 and 11:44 remaining, who is setting the pick for Trail Blazers number 9 (red)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Trail Blazers number 5"
+            },
+            {
+                "option_id": "B",
+                "text": "Trail Blazers number 7"
+            },
+            {
+                "option_id": "C",
+                "text": "Trail Blazers number 4"
+            },
+            {
+                "option_id": "D",
+                "text": "Trail Blazers number 2"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "025",
+        "question_id": "085",
+        "video_type": "spatialReasoning",
+        "question": "At 11:54, with the score 0:0, where is the position of Grizzlies number 36?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "In the lower left corner, inside the corner three-point line."
+            },
+            {
+                "option_id": "B",
+                "text": "Around the free-throw line, beyond the arc."
+            },
+            {
+                "option_id": "C",
+                "text": "Near the top of the key, outside the three-point line."
+            },
+            {
+                "option_id": "D",
+                "text": "On the right wing, close to the three-point line."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "026",
+        "question_id": "086",
+        "video_type": "spatialReasoning",
+        "question": "At 10:02, with the score 3:0, where is the position of Rockets number 9?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "At the right wing, close to the three-point line."
+            },
+            {
+                "option_id": "B",
+                "text": "Near the top of the key, outside the three-point line."
+            },
+            {
+                "option_id": "C",
+                "text": "In the lower center of the image, at the left 45-degree three-point line."
+            },
+            {
+                "option_id": "D",
+                "text": "Around the free-throw line, beyond the arc."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "027",
+        "question_id": "089",
+        "video_type": "spatialReasoning",
+        "question": "At 8:19 remaining in the first quarter, which number is the Milwaukee Bucks player (white) standing outside the free-throw line?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "12"
+            },
+            {
+                "option_id": "B",
+                "text": "23"
+            },
+            {
+                "option_id": "C",
+                "text": "6"
+            },
+            {
+                "option_id": "D",
+                "text": "34"
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "028",
+        "question_id": "091",
+        "video_type": "spatialReasoning",
+        "question": "At 10:25 remaining, where is Lakers player number 15 (yellow) positioned?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "At the free-throw line."
+            },
+            {
+                "option_id": "B",
+                "text": "In the left corner, near the baseline."
+            },
+            {
+                "option_id": "C",
+                "text": "In the lower middle of the image, at the right 45-degree three-point line."
+            },
+            {
+                "option_id": "D",
+                "text": "Near the top of the key, outside the three-point arc."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "029",
+        "question_id": "093",
+        "video_type": "spatialReasoning",
+        "question": "At 11:01 remaining in the first quarter, where is player 0 (black) from the Nuggets located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Top right corner, near the basket."
+            },
+            {
+                "option_id": "B",
+                "text": "Top left corner, at the three-point corner."
+            },
+            {
+                "option_id": "C",
+                "text": "Center of the court, near the three-point line."
+            },
+            {
+                "option_id": "D",
+                "text": "Bottom left corner, at the three-point corner."
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "030",
+        "question_id": "094",
+        "video_type": "spatialReasoning",
+        "question": "At 11:00 remaining in the first quarter, where is player 25 (white) from the Mavericks located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Bottom right corner, at the three-point corner."
+            },
+            {
+                "option_id": "B",
+                "text": "Bottom left corner, at the three-point corner."
+            },
+            {
+                "option_id": "C",
+                "text": "Center of the court, near the three-point line."
+            },
+            {
+                "option_id": "D",
+                "text": "Top right corner, near the basket."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "031",
+        "question_id": "096",
+        "video_type": "spatialReasoning",
+        "question": "At 11:34 remaining in the first quarter, which players are defending against the Warriors (blue), number 30 and number 11?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 0 and player 36."
+            },
+            {
+                "option_id": "B",
+                "text": "Player 36 and player 14."
+            },
+            {
+                "option_id": "C",
+                "text": "Player 0 and player 7."
+            },
+            {
+                "option_id": "D",
+                "text": "Player 7 and player 14."
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "032",
+        "question_id": "098",
+        "video_type": "spatialReasoning",
+        "question": "At 11:16 remaining in the first quarter, which player is preparing to block the shot?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 4 (green)."
+            },
+            {
+                "option_id": "B",
+                "text": "Player 12 (blue)."
+            },
+            {
+                "option_id": "C",
+                "text": "Player 7 (yellow)."
+            },
+            {
+                "option_id": "D",
+                "text": "Player 23 (white)."
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "033",
+        "question_id": "101",
+        "video_type": "spatialReasoning",
+        "question": "At 10:10 remaining in the first quarter, which players are defending against player 0 (white) from the Celtics?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 22 and player 30 (black)."
+            },
+            {
+                "option_id": "B",
+                "text": "Player 23 and player 11 (black)."
+            },
+            {
+                "option_id": "C",
+                "text": "Player 30 and player 11 (black)."
+            },
+            {
+                "option_id": "D",
+                "text": "Player 22 and player 23 (black)."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "034",
+        "question_id": "103",
+        "video_type": "spatialReasoning",
+        "question": "At 2:47 remaining in the first quarter, where is player 22 (black) from the Warriors located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "At the top of the key, near the three-point line."
+            },
+            {
+                "option_id": "B",
+                "text": "In the lower middle of the image, outside the right 45-degree three-point line."
+            },
+            {
+                "option_id": "C",
+                "text": "In the upper right corner, near the baseline."
+            },
+            {
+                "option_id": "D",
+                "text": "In the lower left corner, near the baseline."
+            }
+        ],
+        "answer": "B"
+    },
+    {
+        "video_id": "035",
+        "question_id": "104",
+        "video_type": "spatialReasoning",
+        "question": "At 1:03 remaining in the fourth quarter, who is standing at the free throw line?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 7 (white)."
+            },
+            {
+                "option_id": "B",
+                "text": "Player 30 (black)."
+            },
+            {
+                "option_id": "C",
+                "text": "Player 0 (white)."
+            },
+            {
+                "option_id": "D",
+                "text": "Player 11 (black)."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "036",
+        "question_id": "106",
+        "video_type": "spatialReasoning",
+        "question": "At 9:47 remaining in the third quarter, where is player 23 (white) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "In the lower left of the image, near the three-point line at the top of the arc."
+            },
+            {
+                "option_id": "B",
+                "text": "At the top of the key, behind the three-point line."
+            },
+            {
+                "option_id": "C",
+                "text": "In the lower right corner, near the baseline."
+            },
+            {
+                "option_id": "D",
+                "text": "In the upper right of the image, near the three-point line."
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "037",
+        "question_id": "109",
+        "video_type": "spatialReasoning",
+        "question": "At 10.2 seconds remaining in the fourth quarter, where is player 14 (black) located?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "At the top of the key, near the three-point line."
+            },
+            {
+                "option_id": "B",
+                "text": "In the upper left corner, near the baseline."
+            },
+            {
+                "option_id": "C",
+                "text": "In the lower left corner, near the baseline."
+            },
+            {
+                "option_id": "D",
+                "text": "In the lower right corner, near the corner three-point line."
+            }
+        ],
+        "answer": "D"
+    },
+    {
+        "video_id": "038",
+        "question_id": "111",
+        "video_type": "spatialReasoning",
+        "question": "At 6:50 remaining in the first quarter with the score at 9:15, who is behind player 12 (white)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 2 (white)"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 23 (white)"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 22 (white)"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 8 (white)"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "039",
+        "question_id": "113",
+        "video_type": "spatialReasoning",
+        "question": "At 1:18 remaining in the second quarter, who is defending the ball handler for the black team?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 5 (black)"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 7 (black)"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 9 (black)"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 6 (black)"
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "video_id": "040",
+        "question_id": "114",
+        "video_type": "spatialReasoning",
+        "question": "At 1:44 remaining in the second quarter, who is being defended by player 7 (black)?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Player 14 (white)"
+            },
+            {
+                "option_id": "B",
+                "text": "Player 7 (white)"
+            },
+            {
+                "option_id": "C",
+                "text": "Player 2 (white)"
+            },
+            {
+                "option_id": "D",
+                "text": "Player 5 (white)"
+            }
+        ],
+        "answer": "A"
+    },
+    {
+        "video_id": "041",
+        "question_id": "114",
+        "video_type": "spatialReasoning",
+        "question": "At 8:27 of the game, what is the blue No.8 player doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Passing the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "Running alone down the court"
+            },
+            {
+                "option_id": "C",
+                "text": "Engaging in a duel with the white No.13 player"
+            },
+            {
+                "option_id": "D",
+                "text": "Standing still near the sideline"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "Engaging in a duel with the white No.13 player"
+        }
+    },
+    {
+        "video_id": "042",
+        "question_id": "115",
+        "video_type": "spatialReasoning",
+        "question": "At 7:46 of the game, while the black No.13 player is guarding the goal, what is the golden No.10 player doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Heading the ball to score"
+            },
+            {
+                "option_id": "B",
+                "text": "Passing the ball to a teammate"
+            },
+            {
+                "option_id": "C",
+                "text": "Waiting near the penalty area"
+            },
+            {
+                "option_id": "D",
+                "text": "Running away from the goal"
+            }
+        ],
+        "answer": {
+            "option_id": "A",
+            "text": "Heading the ball to score"
+        }
+    },
+    {
+        "video_id": "043",
+        "question_id": "116",
+        "video_type": "spatialReasoning",
+        "question": "At 5:52 of the game, who is the closest teammate to the yellow No.4 player, and what is he doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.8, preparing to shoot"
+            },
+            {
+                "option_id": "B",
+                "text": "No.5, standing still"
+            },
+            {
+                "option_id": "C",
+                "text": "No.11, dribbling past an opponent"
+            },
+            {
+                "option_id": "D",
+                "text": "No.6, sliding to tackle"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "No.6, sliding to tackle"
+        }
+    },
+    {
+        "video_id": "044",
+        "question_id": "117",
+        "video_type": "spatialReasoning",
+        "question": "At 2:05 of the game, who is next to the red-black No.11 player, and what is happening?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.8, arguing with a referee"
+            },
+            {
+                "option_id": "B",
+                "text": "No.7, preparing a free kick"
+            },
+            {
+                "option_id": "C",
+                "text": "No.10, walking away"
+            },
+            {
+                "option_id": "D",
+                "text": "No.18, celebrating a goal"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "No.18, celebrating a goal"
+        }
+    },
+    {
+        "video_id": "045",
+        "question_id": "118",
+        "video_type": "spatialReasoning",
+        "question": "At 3:32 of the game, who is the closest opponent to the yellow No.11 player, and what is he about to do?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.10, moving away"
+            },
+            {
+                "option_id": "B",
+                "text": "No.12, attempting a shot"
+            },
+            {
+                "option_id": "C",
+                "text": "No.7, and No.11 is preparing to intercept"
+            },
+            {
+                "option_id": "D",
+                "text": "No.9, preparing to pass"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "No.7, and No.11 is preparing to intercept"
+        }
+    },
+    {
+        "video_id": "046",
+        "question_id": "119",
+        "video_type": "spatialReasoning",
+        "question": "At 4:26 of the game, who is the closest player to the red No.4 player?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Blue No.10 player"
+            },
+            {
+                "option_id": "B",
+                "text": "Blue No.23 player"
+            },
+            {
+                "option_id": "C",
+                "text": "Red No.8 player"
+            },
+            {
+                "option_id": "D",
+                "text": "Blue No.5 player"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Blue No.23 player"
+        }
+    },
+    {
+        "video_id": "047",
+        "question_id": "120",
+        "video_type": "spatialReasoning",
+        "question": "At 3:17 of the game, who is next to the black No.7 player, and what happened between them?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.10, and they exchanged passes"
+            },
+            {
+                "option_id": "B",
+                "text": "No.14, and one of them scored"
+            },
+            {
+                "option_id": "C",
+                "text": "No.12, and both of them fell into the stands while fighting for the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "No.8, and they collided accidentally"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "No.12, and both of them fell into the stands while fighting for the ball"
+        }
+    },
+    {
+        "video_id": "048",
+        "question_id": "121",
+        "video_type": "spatialReasoning",
+        "question": "At 3:13 of the game, is the closest player to the blue No.7 a teammate or an opponent, and what is his jersey number?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Teammate, No.11"
+            },
+            {
+                "option_id": "B",
+                "text": "Opponent, No.18"
+            },
+            {
+                "option_id": "C",
+                "text": "Teammate, No.9"
+            },
+            {
+                "option_id": "D",
+                "text": "Opponent, No.26"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "Opponent, No.26"
+        }
+    },
+    {
+        "video_id": "049",
+        "question_id": "122",
+        "video_type": "spatialReasoning",
+        "question": "At 3:46 of the game, who are the players in red-blue jerseys, where are they, and what are they doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.11 and No.10 near the corner flag, preparing a cross"
+            },
+            {
+                "option_id": "B",
+                "text": "No.11 and No.9 in front of the goal, with No.11 heading the ball to score"
+            },
+            {
+                "option_id": "C",
+                "text": "No.12 and No.8 near the sideline, defending"
+            },
+            {
+                "option_id": "D",
+                "text": "No.11 and No.9 near the midfield, dribbling together"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "No.11 and No.9 in front of the goal, with No.11 heading the ball to score"
+        }
+    },
+    {
+        "video_id": "050",
+        "question_id": "123",
+        "video_type": "spatialReasoning",
+        "question": "At 80:14 of the game, who is the closest player to the yellow No.23?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Teammate No.11"
+            },
+            {
+                "option_id": "B",
+                "text": "Opponent No.2"
+            },
+            {
+                "option_id": "C",
+                "text": "Opponent No.24"
+            },
+            {
+                "option_id": "D",
+                "text": "Teammate No.9"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Opponent No.2"
+        }
+    },
+    {
+        "video_id": "051",
+        "question_id": "124",
+        "video_type": "spatialReasoning",
+        "question": "At 53:01 of the game, which teammate is running toward the green No.15 player, and what happened next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.8, and the ball went out of bounds"
+            },
+            {
+                "option_id": "B",
+                "text": "No.10, and he lost the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "No.23, and he recovered the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "No.19, and he passed the ball back"
+            }
+        ],
+        "answer": {
+            "option_id": "C",
+            "text": "No.23, and he recovered the ball"
+        }
+    },
+    {
+        "video_id": "052",
+        "question_id": "125",
+        "video_type": "spatialReasoning",
+        "question": "At 90:00 of the game, who is the closest opponent to the white No.21 player, and what happened?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Red No.8, who blocked the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "White No.23, who passed forward"
+            },
+            {
+                "option_id": "C",
+                "text": "Red No.10, who scored"
+            },
+            {
+                "option_id": "D",
+                "text": "Red No.21, who fell down"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "Red No.21, who fell down"
+        }
+    },
+    {
+        "video_id": "053",
+        "question_id": "126",
+        "video_type": "spatialReasoning",
+        "question": "At 1:15 of the video, who is to the right of the green No.10 player, and what are they doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.8, preparing to take a shot"
+            },
+            {
+                "option_id": "B",
+                "text": "No.6, defending"
+            },
+            {
+                "option_id": "C",
+                "text": "No.12, walking toward the bench"
+            },
+            {
+                "option_id": "D",
+                "text": "No.11, celebrating a goal"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "No.11, celebrating a goal"
+        }
+    },
+    {
+        "video_id": "054",
+        "question_id": "127",
+        "video_type": "spatialReasoning",
+        "question": "At 5:34 of the video, who is the closest teammate to the red-blue No.25 player, and what happened next?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.11, received a pass but missed"
+            },
+            {
+                "option_id": "B",
+                "text": "No.9, who received a pass from No.25 and scored"
+            },
+            {
+                "option_id": "C",
+                "text": "No.8, who lost the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "No.10, who got tackled"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "No.9, who received a pass from No.25 and scored"
+        }
+    },
+    {
+        "video_id": "055",
+        "question_id": "128",
+        "video_type": "spatialReasoning",
+        "question": "At 45:00 of the match, who is the closest player to the red No.10?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Red No.9"
+            },
+            {
+                "option_id": "B",
+                "text": "Yellow No.11"
+            },
+            {
+                "option_id": "C",
+                "text": "Red No.8"
+            },
+            {
+                "option_id": "D",
+                "text": "Yellow No.23"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "Yellow No.23"
+        }
+    },
+    {
+        "video_id": "056",
+        "question_id": "129",
+        "video_type": "spatialReasoning",
+        "question": "At 1:23 of the video, in which direction is the red No.17 player relative to the white No.11 player?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "In front"
+            },
+            {
+                "option_id": "B",
+                "text": "Right"
+            },
+            {
+                "option_id": "C",
+                "text": "Left"
+            },
+            {
+                "option_id": "D",
+                "text": "Behind"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Right"
+        }
+    },
+    {
+        "video_id": "057",
+        "question_id": "130",
+        "video_type": "spatialReasoning",
+        "question": "At 1:49 of the video, who is next to the blue No.18 player, and what are they doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "White No.10, waiting for a pass"
+            },
+            {
+                "option_id": "B",
+                "text": "Blue No.11, preparing to shoot"
+            },
+            {
+                "option_id": "C",
+                "text": "Blue No.9, calling for the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "White No.23, trying to steal the ball"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "White No.23, trying to steal the ball"
+        }
+    },
+    {
+        "video_id": "058",
+        "question_id": "131",
+        "video_type": "spatialReasoning",
+        "question": "At 74:02 of the match, who is next to the red No.14 player, and what are they doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "White No.18, trying to steal the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "Red No.10, preparing to shoot"
+            },
+            {
+                "option_id": "C",
+                "text": "White No.7, calling for a pass"
+            },
+            {
+                "option_id": "D",
+                "text": "Red No.9, celebrating a goal"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "Red No.9, celebrating a goal"
+        }
+    },
+    {
+        "video_id": "059",
+        "question_id": "132",
+        "video_type": "spatialReasoning",
+        "question": "At 1:26 of the video, who is the closest player to the red No.23, and what are they doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Red No.9, running behind him"
+            },
+            {
+                "option_id": "B",
+                "text": "White No.10, trying to steal the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "White No.7, preparing for a counterattack"
+            },
+            {
+                "option_id": "D",
+                "text": "White No.4, defending against a shot"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "White No.4, defending against a shot"
+        }
+    },
+    {
+        "video_id": "060",
+        "question_id": "133",
+        "video_type": "spatialReasoning",
+        "question": "At 56:30 of the match, who is the closest teammate to the green No.12 player, and what is he doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.8, preparing to pass"
+            },
+            {
+                "option_id": "B",
+                "text": "No.20, sitting on the ground"
+            },
+            {
+                "option_id": "C",
+                "text": "No.11, defending near the goal"
+            },
+            {
+                "option_id": "D",
+                "text": "No.14, running with the ball"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "No.20, sitting on the ground"
+        }
+    },
+    {
+        "video_id": "061",
+        "question_id": "134",
+        "video_type": "spatialReasoning",
+        "question": "At 1:19 of the video, who is the teammate next to the blue No.21 player, and what is he doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.11, marking an opponent"
+            },
+            {
+                "option_id": "B",
+                "text": "No.8, passing the ball"
+            },
+            {
+                "option_id": "C",
+                "text": "No.17, running into the box"
+            },
+            {
+                "option_id": "D",
+                "text": "No.15, taking a long-range shot"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "No.15, taking a long-range shot"
+        }
+    },
+    {
+        "video_id": "061",
+        "question_id": "135",
+        "video_type": "spatialReasoning",
+        "question": "At 1:19 of the video, who is the teammate next to the blue No.21 player, and what is he doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.11, marking an opponent"
+            },
+            {
+                "option_id": "B",
+                "text": "No.17, running into the box"
+            },
+            {
+                "option_id": "C",
+                "text": "No.8, passing the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "No.15, taking a long-range shot"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "No.15, taking a long-range shot"
+        }
+    },
+    {
+        "video_id": "062",
+        "question_id": "136",
+        "video_type": "spatialReasoning",
+        "question": "At 72:51 of the match, where is the yellow No.20 player in relation to his teammate No.9, and what happened between them?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "In front of No.9, they collided"
+            },
+            {
+                "option_id": "B",
+                "text": "Left down side, No.20 passed to No.9 who then scored"
+            },
+            {
+                "option_id": "C",
+                "text": "Behind No.9, preparing a cross"
+            },
+            {
+                "option_id": "D",
+                "text": "To the right, No.20 passed but it was intercepted"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Left down side, No.20 passed to No.9 who then scored"
+        }
+    },
+    {
+        "video_id": "063",
+        "question_id": "137",
+        "video_type": "spatialReasoning",
+        "question": "At 90:00 of the match, who is the closest teammate to the white No.7 player, and what is he doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.10, making a run"
+            },
+            {
+                "option_id": "B",
+                "text": "No.6, moving toward midfield"
+            },
+            {
+                "option_id": "C",
+                "text": "No.18, calling for a pass"
+            },
+            {
+                "option_id": "D",
+                "text": "No.23, successfully scoring a goal"
+            }
+        ],
+        "answer": {
+            "option_id": "D",
+            "text": "No.23, successfully scoring a goal"
+        }
+    },
+    {
+        "video_id": "064",
+        "question_id": "138",
+        "video_type": "spatialReasoning",
+        "question": "At 77:42 of the match, where is the red No.9 player relative to the blue No.16 player, and what happens between them?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "To the right, No.9 intercepts a pass"
+            },
+            {
+                "option_id": "B",
+                "text": "To the left, No.9 steals the ball from No.16"
+            },
+            {
+                "option_id": "C",
+                "text": "Behind, No.9 blocks a shot"
+            },
+            {
+                "option_id": "D",
+                "text": "In front, both go for a header"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "To the left, No.9 steals the ball from No.16"
+        }
+    },
+    {
+        "video_id": "065",
+        "question_id": "139",
+        "video_type": "spatialReasoning",
+        "question": "At 1:15 of the video, who is the closest teammate to the blue No.10 player?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "No.11"
+            },
+            {
+                "option_id": "B",
+                "text": "No.3"
+            },
+            {
+                "option_id": "C",
+                "text": "No.24"
+            },
+            {
+                "option_id": "D",
+                "text": "No.8"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "No.3"
+        }
+    },
+    {
+        "video_id": "066",
+        "question_id": "140",
+        "video_type": "spatialReasoning",
+        "question": "At 81:25 of the match, who is next to the white No.9 player, and what happened between them?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "White No.7, who passed the ball"
+            },
+            {
+                "option_id": "B",
+                "text": "Green No.8, who lost the ball to white No.9, who then scored"
+            },
+            {
+                "option_id": "C",
+                "text": "Green No.10, who blocked the shot"
+            },
+            {
+                "option_id": "D",
+                "text": "Green No.6, who intercepted the ball"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Green No.8, who lost the ball to white No.9, who then scored"
+        }
+    },
+    {
+        "video_id": "066",
+        "question_id": "141",
+        "video_type": "spatialReasoning",
+        "question": "At 77:36 of the match, who is to the left of the white No.25 player, and what is he doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Dark blue No.10, dribbling forward"
+            },
+            {
+                "option_id": "B",
+                "text": "Dark blue No.8, attempting a header but missing"
+            },
+            {
+                "option_id": "C",
+                "text": "Dark blue No.6, passing the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "White No.23, blocking a defender"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Dark blue No.8, attempting a header but missing"
+        }
+    },
+    {
+        "video_id": "068",
+        "question_id": "142",
+        "video_type": "spatialReasoning",
+        "question": "At 86:36 of the match, who is behind Argentina’s No.24 player, and what is he doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Argentina No.10, blocking the defender"
+            },
+            {
+                "option_id": "B",
+                "text": "Green No.24, trying to stop the attack"
+            },
+            {
+                "option_id": "C",
+                "text": "Green No.18, calling for the ball"
+            },
+            {
+                "option_id": "D",
+                "text": "Green No.11, celebrating a goal"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Green No.24, trying to stop the attack"
+        }
+    },
+    {
+        "video_id": "069",
+        "question_id": "143",
+        "video_type": "spatialReasoning",
+        "question": "At 87:47 of the match, who is behind the blue No.18 player?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Red No.10"
+            },
+            {
+                "option_id": "B",
+                "text": "Red No.17"
+            },
+            {
+                "option_id": "C",
+                "text": "Blue No.9"
+            },
+            {
+                "option_id": "D",
+                "text": "Red No.21"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Red No.17"
+        }
+    },
+    {
+        "video_id": "070",
+        "question_id": "144",
+        "video_type": "spatialReasoning",
+        "question": "At 90:00 of the match, who is next to the white No.7 player, and what are they doing?",
+        "options": [
+            {
+                "option_id": "A",
+                "text": "Red No.7, preparing for a substitution"
+            },
+            {
+                "option_id": "B",
+                "text": "Red No.23, defending against white No.7's attack"
+            },
+            {
+                "option_id": "C",
+                "text": "White No.11, calling for a pass"
+            },
+            {
+                "option_id": "D",
+                "text": "Red No.10, celebrating"
+            }
+        ],
+        "answer": {
+            "option_id": "B",
+            "text": "Red No.23, defending against white No.7's attack"
+        }
+    }
+]
