@@ -83,7 +83,7 @@ Our dataset is under the CC-BY-NC-SA-4.0 license.
 
 We do not own the copyright of any raw video files. Currently, we provide video access to researchers under the condition of acknowledging the above license. For the video data used, we respect and acknowledge any copyrights of the video authors. Therefore, for the movies, TV series, documentaries, and cartoons used in the dataset, we have reduced the resolution, clipped the length, adjusted dimensions, etc. of the original videos to minimize the impact on the rights of the original works. 
 
-If the original authors of the related works still believe that the videos should be removed, please contact mlvubenchmark@gmail.com or directly raise an issue.
+If the original authors of the related works still believe that the videos should be removed, please contact author or directly raise an issue.
 
 ## VidText Benchmark
 > Before you access our dataset, we kindly ask you to thoroughly read and understand the license outlined above. If you cannot agree to these terms, we request that you refrain from downloading our video data.
@@ -92,7 +92,7 @@ If the original authors of the related works still believe that the videos shoul
 The annotation file is readily accessible [here](https://github.com/shuyansy/VidText/data). For the raw videos, you can access them via this [<u>🤗 HF Link</u>](https://huggingface.co/datasets/sy1998/VidText).
 
 
-MLVU encompasses nine distinct tasks, which include multiple-choice tasks as well as free-form generation tasks. These tasks are specifically tailored for long-form video understanding, and are classified into three categories: holistic understanding, single detail understanding, and multi-detail understanding. Examples of the tasks are displayed below.
+VidText includes 8 tasks spanning holistic and local OCR, text grounding, and multimodal reasoning, to comprehensively evaluate video-level, clip-level, and instance-level video text understanding.Examples of the tasks are displayed below.
 
 
 ![Task Examples of our VidText.](./figs/vidtext_viz.png)
