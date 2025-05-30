@@ -76,20 +76,13 @@ We anticipate that VidText will serve as a crucial catalyst for future research,
 
 
 
-## License
-Our dataset is under the CC-BY-NC-SA-4.0 license.
 
-:warning: If you need to access and use our dataset, you must understand and agree: **This dataset is for research purposes only and cannot be used for any commercial or other purposes. The user assumes all effects arising from any other use and dissemination.**
-
-We do not own the copyright of any raw video files. Currently, we provide video access to researchers under the condition of acknowledging the above license. For the video data used, we respect and acknowledge any copyrights of the video authors. Therefore, for the movies, TV series, documentaries, and cartoons used in the dataset, we have reduced the resolution, clipped the length, adjusted dimensions, etc. of the original videos to minimize the impact on the rights of the original works. 
-
-If the original authors of the related works still believe that the videos should be removed, please contact author or directly raise an issue.
 
 ## VidText Benchmark
 > Before you access our dataset, we kindly ask you to thoroughly read and understand the license outlined above. If you cannot agree to these terms, we request that you refrain from downloading our video data.
 
 
-The annotation file is readily accessible [here](https://github.com/shuyansy/VidText/data). For the raw videos, you can access them via this [<u>🤗 HF Link</u>](https://huggingface.co/datasets/sy1998/VidText).
+The annotation file is readily accessible [here]([https://github.com/shuyansy/VidText/data](https://github.com/Naxyang/VidText/tree/master/data)). For the raw videos, you can access them via this [<u>🤗 HF Link</u>](https://huggingface.co/datasets/sy1998/VidText).
 
 
 VidText includes 8 tasks spanning holistic and local OCR, text grounding, and multimodal reasoning, to comprehensively evaluate video-level, clip-level, and instance-level video text understanding.Examples of the tasks are displayed below.
