@@ -44,7 +44,7 @@ We anticipate that VidText will serve as a crucial catalyst for future research,
 
 ### Leaderboard on VidText
 
-| Method | Size | Avg. | HolisticOCR | HoliReasoning | LocalOCR | LocalReasoning | TextLocalization | TemporalCausalReasoning | TextTracking | SpatialReasoning |
+| Method | Size | Avg. | HolisticOCR | HolisticReasoning | LocalOCR | LocalReasoning | TextLocalization | TemporalCausalReasoning | TextTracking | SpatialReasoning |
 |--------|------|------|---------|----------|----------|-----------|------------|-------------|-----------|---------|
 | Gemini 1.5 Pro | -- | **45.3** | **34.8** | **43.6** | **50.2** | **50.1** | **48.7** | **47.0** | **40.3** | **47.9** |
 | InternVL2.5 | 78B | 39.8 | **40.2** | 37.4 | 29.0 | **50.4** | 30.5 | 48.5 | 29.9 | 52.3 |
