@@ -21,7 +21,7 @@ This repo contains the annotation data, inference code, and evaluation tools for
 
 
 ## :bell: News:
-- 🥳 5/30/2025: We have released the MLVU [Benchmark](https://huggingface.co/datasets/sy1998/VidText) and [Paper](https://arxiv.org/abs/2505.22810)! :fire:
+- 🥳 5/30/2025: We have released the VidText [Benchmark](https://huggingface.co/datasets/sy1998/VidText) and [Paper](https://arxiv.org/abs/2505.22810)! :fire:
 
 ## License
 Our dataset is under the CC-BY-NC-SA-4.0 license.
@@ -40,7 +40,7 @@ Our extensive evaluation of 18 state-of-the-art multimodal LLMs, including propr
 
 We anticipate that VidText will serve as a crucial catalyst for future research, driving improvements in multilingual text spotting, video-level reasoning, and the integration of visual and textual modalities, thereby substantially advancing the community's capabilities in comprehensive video-text understanding.
 
-![Statistical Overview of our  benchmark. **Left:** Video genres included in MLVU; **Top Right:** Distribution of video duration; **Bottom Right:** Task types and their counts in MLVU.](./figs/statistic.png)
+![Statistical Overview of our  benchmark. **Left:** Video genres included in VidText; **Top Right:** Visual Text Instance Distribution.; **Bottom Right:**Hierarchical Task type settings.](./figs/statistic.png)
 
 
 ## Overall Performance on VidText
