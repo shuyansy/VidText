@@ -1,0 +1,34 @@
+{
+  "OCR": {
+    "ann": "/data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/HolisticOCR/holisticOCRTest1.json",
+    "video_dir": "/data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/HolisticOCR/Videos1"
+  },
+  "HR": {
+    "ann": "/data/yangzhifei/project/benchmark/newHolisticReasoning/newHolisticReasoning/new_hoReasoning.json",
+    "video_dir": "/data/yangzhifei/project/benchmark/newHolisticReasoning/newHolisticReasoning/videos"
+  },
+  "LocalOCR": {
+    "ann": "/data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/temporalGrounding/temporalGroundingTest.json",
+    "video_dir": "/data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/temporalGrounding/videos"
+  },
+  "TextLocalization": {
+    "ann": "/data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/TextGrounding/TextGroundingTest.json",
+    "video_dir": "/data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/TextGrounding/videos"
+  },
+  "LocalReasoning": {
+    "ann": "/data/yangzhifei/project/newbenchmark/newbenchmark/newReasoning/TextReasoning.json",
+    "video_dir": "/data/yangzhifei/project/newbenchmark/newbenchmark/BenchMark/Order/videos"
+  },
+  "TextTracking": {
+    "ann": "/data/yangzhifei/project/sp/spatialgroundingNew/spatialgroundingNew/spatial_grounding_MCQ.json",
+    "video_dir": "/data/yangzhifei/project/sp/spatialgroundingNew/spatialgroundingNew/videos"
+  },
+  "SR": {
+    "ann": "/data/yangzhifei/project/newbenchmark/newbenchmark/newReasoning/spatialReasoning_balanced.json",
+    "video_dir": "/data/yangzhifei/project/newbenchmark/newbenchmark/newReasoning/Videos"
+  },
+  "TCR": {
+    "ann": "/data/yangzhifei/project/newbenchmark/newbenchmark/newReasoning/tempCausalReasoning_balanced.json",
+    "video_dir": "/data/yangzhifei/project/newbenchmark/newbenchmark/newReasoning/Videos"
+  }
+}
